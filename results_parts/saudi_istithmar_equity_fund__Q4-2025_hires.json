@@ -1,0 +1,68 @@
+{
+  "fund_key": "saudi_istithmar_equity_fund",
+  "fund": "Saudi Istithmar Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.71
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Automotive Services Co",
+      "ticker": "",
+      "weight": 8.05
+    },
+    {
+      "rank": 3,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 5.57
+    },
+    {
+      "rank": 4,
+      "name": "Aldrees Petroleum and Transport",
+      "ticker": "",
+      "weight": 4.92
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 4.23
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 3.97
+    },
+    {
+      "rank": 7,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 3.79
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 3.72
+    },
+    {
+      "rank": 9,
+      "name": "Dr. Sulaiman Al Habib Medical Services Group",
+      "ticker": "",
+      "weight": 3.52
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 3.21
+    }
+  ],
+  "method": "highres_crop"
+}

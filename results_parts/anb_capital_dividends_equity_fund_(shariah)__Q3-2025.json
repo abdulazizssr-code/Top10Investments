@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_dividends_equity_fund_(shariah)",
+  "fund": "anb capital Dividends Equity Fund (Shariah)",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 9.57
+    },
+    {
+      "rank": 2,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 8.11
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 7.93
+    },
+    {
+      "rank": 4,
+      "name": "Arabian Centres (Cenomi Centers)",
+      "ticker": "",
+      "weight": 7.42
+    },
+    {
+      "rank": 5,
+      "name": "Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 6.91
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 6.09
+    },
+    {
+      "rank": 7,
+      "name": "United Electronics Company (eXtra)",
+      "ticker": "",
+      "weight": 5.85
+    },
+    {
+      "rank": 8,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 5.46
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 10,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 4.09
+    }
+  ]
+}

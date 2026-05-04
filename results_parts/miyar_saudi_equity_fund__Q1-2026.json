@@ -1,0 +1,67 @@
+{
+  "fund_key": "miyar_saudi_equity_fund",
+  "fund": "Miyar Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "EAST PIPES",
+      "ticker": "",
+      "weight": 9.85
+    },
+    {
+      "rank": 2,
+      "name": "BAHRI",
+      "ticker": "",
+      "weight": 8.79
+    },
+    {
+      "rank": 3,
+      "name": "TADAWUL GROUP",
+      "ticker": "",
+      "weight": 7.75
+    },
+    {
+      "rank": 4,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.22
+    },
+    {
+      "rank": 5,
+      "name": "ACWA POWER",
+      "ticker": "",
+      "weight": 7.15
+    },
+    {
+      "rank": 6,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 7.07
+    },
+    {
+      "rank": 7,
+      "name": "Al-Babtain",
+      "ticker": "",
+      "weight": 6.62
+    },
+    {
+      "rank": 8,
+      "name": "ADES",
+      "ticker": "",
+      "weight": 6.27
+    },
+    {
+      "rank": 9,
+      "name": "SAL",
+      "ticker": "",
+      "weight": 6.11
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 5.71
+    }
+  ]
+}

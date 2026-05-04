@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_saudi_equity_income_fund",
+  "fund": "Albilad Saudi Equity Income Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Madinah Cement",
+      "ticker": "",
+      "weight": 9.32
+    },
+    {
+      "rank": 2,
+      "name": "Tanmiah",
+      "ticker": "",
+      "weight": 8.56
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Catering (Tamween)",
+      "ticker": "",
+      "weight": 7.73
+    },
+    {
+      "rank": 4,
+      "name": "Marafiq",
+      "ticker": "",
+      "weight": 6.16
+    },
+    {
+      "rank": 5,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 5.82
+    },
+    {
+      "rank": 6,
+      "name": "Extra (United Electronics)",
+      "ticker": "",
+      "weight": 5.65
+    },
+    {
+      "rank": 7,
+      "name": "Al Othaim Markets",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 8,
+      "name": "Cenomi Centers",
+      "ticker": "",
+      "weight": 4.46
+    },
+    {
+      "rank": 9,
+      "name": "SMC",
+      "ticker": "",
+      "weight": 4.24
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.13
+    }
+  ]
+}

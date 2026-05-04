@@ -1,0 +1,68 @@
+{
+  "fund_key": "riyad_global_equity_sharia_fund",
+  "fund": "Riyad Global Equity Sharia Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Nvidia",
+      "ticker": "",
+      "weight": 8.2
+    },
+    {
+      "rank": 2,
+      "name": "Apple",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 3,
+      "name": "Amazon.com",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "Microsoft",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 5,
+      "name": "Alphabet",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 6,
+      "name": "TSMC",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 7,
+      "name": "Mastercard",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 8,
+      "name": "Meta Platforms",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 9,
+      "name": "AbbVie",
+      "ticker": "",
+      "weight": 2.5
+    },
+    {
+      "rank": 10,
+      "name": "Linde",
+      "ticker": "",
+      "weight": 2.2
+    }
+  ],
+  "method": "highres_crop"
+}

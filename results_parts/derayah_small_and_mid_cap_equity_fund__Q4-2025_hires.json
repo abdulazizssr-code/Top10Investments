@@ -1,0 +1,68 @@
+{
+  "fund_key": "derayah_small_and_mid_cap_equity_fund",
+  "fund": "Derayah Small and Mid Cap Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Etihad Etisalat Co (Mobily)",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 3,
+      "name": "East Pipes Integrated Co for Industry",
+      "ticker": "",
+      "weight": 5.15
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Paper Manufacturing Co",
+      "ticker": "",
+      "weight": 5.09
+    },
+    {
+      "rank": 5,
+      "name": "City Cement Co",
+      "ticker": "",
+      "weight": 4.56
+    },
+    {
+      "rank": 6,
+      "name": "Aldukan",
+      "ticker": "",
+      "weight": 4.36
+    },
+    {
+      "rank": 7,
+      "name": "Banque Saudi Fransi (BSF)",
+      "ticker": "",
+      "weight": 4.27
+    },
+    {
+      "rank": 8,
+      "name": "National Gas and Industrialization Co (NGCC)",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 9,
+      "name": "Tanmiah Commercial",
+      "ticker": "",
+      "weight": 3.92
+    },
+    {
+      "rank": 10,
+      "name": "The Power and Water Utility Company for Jubail and Yanbu (Marafiq)",
+      "ticker": "",
+      "weight": 3.6
+    }
+  ],
+  "method": "highres_crop"
+}

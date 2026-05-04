@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Saudi Equity Fund (Shariah)",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI BANK",
+      "ticker": "",
+      "weight": 15.5
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA BANK",
+      "ticker": "",
+      "weight": 9.35
+    },
+    {
+      "rank": 3,
+      "name": "SAUDI TELECOM",
+      "ticker": "",
+      "weight": 8.35
+    },
+    {
+      "rank": 4,
+      "name": "SAUDI ARABIAN OIL CO",
+      "ticker": "",
+      "weight": 6.72
+    },
+    {
+      "rank": 5,
+      "name": "SEERA HOLDING",
+      "ticker": "",
+      "weight": 4.86
+    },
+    {
+      "rank": 6,
+      "name": "ALKHORAYEF WATER & POWER",
+      "ticker": "",
+      "weight": 4.46
+    },
+    {
+      "rank": 7,
+      "name": "PERFECT PRESENTATION",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 8,
+      "name": "SOLUTIONS BY STC",
+      "ticker": "",
+      "weight": 3.84
+    },
+    {
+      "rank": 9,
+      "name": "NAJRAN CEMENT",
+      "ticker": "",
+      "weight": 3.36
+    },
+    {
+      "rank": 10,
+      "name": "BUPA ARABIA",
+      "ticker": "",
+      "weight": 3.36
+    }
+  ]
+}

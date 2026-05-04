@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_saudi_equity_sharia_fund",
+  "fund": "Riyad Saudi Equity Sharia Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 29.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 10.4
+    },
+    {
+      "rank": 3,
+      "name": "STC",
+      "ticker": "",
+      "weight": 7.4
+    },
+    {
+      "rank": 4,
+      "name": "Ma'aden",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 6,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 7,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 10,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 3.2
+    }
+  ]
+}

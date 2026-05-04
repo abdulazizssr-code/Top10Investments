@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_freestyle_saudi_equity_fund",
+  "fund": "Alistithmar Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 13.7
+    },
+    {
+      "rank": 2,
+      "name": "ARAMCO",
+      "ticker": "",
+      "weight": 8.45
+    },
+    {
+      "rank": 3,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 5.96
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Real Estate Co",
+      "ticker": "",
+      "weight": 5.83
+    },
+    {
+      "rank": 5,
+      "name": "SGS",
+      "ticker": "",
+      "weight": 5.27
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 7,
+      "name": "CARE",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 8,
+      "name": "STC",
+      "ticker": "",
+      "weight": 3.61
+    },
+    {
+      "rank": 9,
+      "name": "FAKEEH",
+      "ticker": "",
+      "weight": 3.6
+    },
+    {
+      "rank": 10,
+      "name": "AXA",
+      "ticker": "",
+      "weight": 3.11
+    }
+  ]
+}

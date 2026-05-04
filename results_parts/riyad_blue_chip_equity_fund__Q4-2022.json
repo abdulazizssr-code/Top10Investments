@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_blue_chip_equity_fund",
+  "fund": "Riyad Blue Chip Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 19.4
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 15.6
+    },
+    {
+      "rank": 3,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 9.22
+    },
+    {
+      "rank": 4,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 5.93
+    },
+    {
+      "rank": 5,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 3.95
+    },
+    {
+      "rank": 6,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 3.79
+    },
+    {
+      "rank": 7,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 3.57
+    },
+    {
+      "rank": 8,
+      "name": "Solutions",
+      "ticker": "",
+      "weight": 3.16
+    },
+    {
+      "rank": 9,
+      "name": "STC",
+      "ticker": "",
+      "weight": 3.06
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Fransi",
+      "ticker": "",
+      "weight": 2.91
+    }
+  ]
+}

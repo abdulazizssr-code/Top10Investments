@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 17.3
+    },
+    {
+      "rank": 2,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 3,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 4,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 5,
+      "name": "Tawuniya (The Company for Cooperative Insurance)",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Kayan Petrochemical",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Ground Services",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 8,
+      "name": "Extra (United Electronics)",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 9,
+      "name": "Amlak International",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.7
+    }
+  ]
+}

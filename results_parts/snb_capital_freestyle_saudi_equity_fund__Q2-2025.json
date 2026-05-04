@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_freestyle_saudi_equity_fund",
+  "fund": "SNB Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "TMS Issuer",
+      "ticker": "",
+      "weight": 3.83
+    },
+    {
+      "rank": 2,
+      "name": "The Egyptian Financial Company for Sovereign Taskeek",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Electricity Sukuk Co Sukuk",
+      "ticker": "",
+      "weight": 3.59
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Electricity Sukuk Co Sukuk",
+      "ticker": "",
+      "weight": 3.46
+    },
+    {
+      "rank": 5,
+      "name": "Emirates Strategic Investments Company Sukuk",
+      "ticker": "",
+      "weight": 3.33
+    },
+    {
+      "rank": 6,
+      "name": "Perusahaan Penerbit SBSN Indones Sukuk",
+      "ticker": "",
+      "weight": 3.09
+    },
+    {
+      "rank": 7,
+      "name": "DP World Salaam Sukuk",
+      "ticker": "",
+      "weight": 3.06
+    },
+    {
+      "rank": 8,
+      "name": "Otel Sukuk Ltd",
+      "ticker": "",
+      "weight": 2.93
+    },
+    {
+      "rank": 9,
+      "name": "KSA Sukuk Ltd",
+      "ticker": "",
+      "weight": 2.74
+    },
+    {
+      "rank": 10,
+      "name": "Arabian Centres Sukuk II Ltd",
+      "ticker": "",
+      "weight": 2.67
+    }
+  ]
+}

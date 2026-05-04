@@ -1,0 +1,67 @@
+{
+  "fund_key": "miyar_saudi_equity_fund",
+  "fund": "Miyar Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 12.98
+    },
+    {
+      "rank": 2,
+      "name": "NAHDI",
+      "ticker": "",
+      "weight": 6.93
+    },
+    {
+      "rank": 3,
+      "name": "Savola Group",
+      "ticker": "",
+      "weight": 5.03
+    },
+    {
+      "rank": 4,
+      "name": "THEEB",
+      "ticker": "",
+      "weight": 4.95
+    },
+    {
+      "rank": 5,
+      "name": "Jabal Omar",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 6,
+      "name": "Middle East Healthcare",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 7,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.54
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Basic Industries",
+      "ticker": "",
+      "weight": 4.52
+    },
+    {
+      "rank": 9,
+      "name": "Nama Chemicals Co.",
+      "ticker": "",
+      "weight": 4.49
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Mining",
+      "ticker": "",
+      "weight": 4.28
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "alkhair_capital_saudi_equity_fund",
+  "fund": "Alkhair Capital Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 21.47
+    },
+    {
+      "rank": 2,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 3,
+      "name": "Arabian Internet and Communications Services Co.",
+      "ticker": "",
+      "weight": 6.78
+    },
+    {
+      "rank": 4,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 5.82
+    },
+    {
+      "rank": 5,
+      "name": "Alkhorayef Water and Power Technologies Co.",
+      "ticker": "",
+      "weight": 4.86
+    },
+    {
+      "rank": 6,
+      "name": "Quara",
+      "ticker": "",
+      "weight": 4.81
+    },
+    {
+      "rank": 7,
+      "name": "Equipment House",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 8,
+      "name": "ADES Holding Co.",
+      "ticker": "",
+      "weight": 4.54
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 4.41
+    },
+    {
+      "rank": 10,
+      "name": "Tadawul Group",
+      "ticker": "",
+      "weight": 4.31
+    }
+  ]
+}

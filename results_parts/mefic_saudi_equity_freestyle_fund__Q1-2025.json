@@ -1,0 +1,67 @@
+{
+  "fund_key": "mefic_saudi_equity_freestyle_fund",
+  "fund": "MEFIC SAUDI EQUITY FREESTYLE FUND",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 8.61
+    },
+    {
+      "rank": 2,
+      "name": "Umm Al Qura for Development and Construction",
+      "ticker": "",
+      "weight": 8.61
+    },
+    {
+      "rank": 3,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 8.6
+    },
+    {
+      "rank": 4,
+      "name": "Arriyadh Development Co",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 5,
+      "name": "AlKhaleej Training and Education Company",
+      "ticker": "",
+      "weight": 5.56
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Re for Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 5.45
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 5.42
+    },
+    {
+      "rank": 8,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Tadawul Group Holding Co.",
+      "ticker": "",
+      "weight": 5.06
+    },
+    {
+      "rank": 10,
+      "name": "Leejam Sports Co",
+      "ticker": "",
+      "weight": 4.82
+    }
+  ]
+}

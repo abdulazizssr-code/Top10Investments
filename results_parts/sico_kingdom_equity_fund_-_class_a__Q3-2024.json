@@ -1,0 +1,67 @@
+{
+  "fund_key": "sico_kingdom_equity_fund_-_class_a",
+  "fund": "SICO Kingdom Equity Fund - Class A",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.8
+    },
+    {
+      "rank": 2,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 3,
+      "name": "Savola",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 4,
+      "name": "United Electronics",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 5,
+      "name": "Rasan Information",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 6,
+      "name": "Arabian Centres",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 7,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 8,
+      "name": "Bank Al-Jazira",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 10,
+      "name": "Marafiq",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

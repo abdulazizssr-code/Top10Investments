@@ -1,0 +1,67 @@
+{
+  "fund_key": "alinma_saudi_equity_fund",
+  "fund": "Alinma Saudi Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi",
+      "ticker": "",
+      "weight": 18.72
+    },
+    {
+      "rank": 2,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 9.09
+    },
+    {
+      "rank": 3,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 8.49
+    },
+    {
+      "rank": 4,
+      "name": "Bjaz",
+      "ticker": "",
+      "weight": 7.84
+    },
+    {
+      "rank": 5,
+      "name": "Chemanol",
+      "ticker": "",
+      "weight": 7.13
+    },
+    {
+      "rank": 6,
+      "name": "Alhammadi",
+      "ticker": "",
+      "weight": 6.77
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Kayan",
+      "ticker": "",
+      "weight": 6.45
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 6.27
+    },
+    {
+      "rank": 9,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 6.01
+    },
+    {
+      "rank": 10,
+      "name": "Jabal Omar",
+      "ticker": "",
+      "weight": 5.9
+    }
+  ]
+}

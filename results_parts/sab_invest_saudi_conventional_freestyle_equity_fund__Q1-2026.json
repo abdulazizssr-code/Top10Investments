@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_conventional_freestyle_equity_fund",
+  "fund": "SAB Invest Saudi Conventional Freestyle Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.93
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 6.86
+    },
+    {
+      "rank": 3,
+      "name": "Astra Industrial Group",
+      "ticker": "",
+      "weight": 4.41
+    },
+    {
+      "rank": 4,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 4.21
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 4.04
+    },
+    {
+      "rank": 6,
+      "name": "Elm Company",
+      "ticker": "",
+      "weight": 3.83
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Reinsurance Company",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 8,
+      "name": "Bupa Arabia",
+      "ticker": "",
+      "weight": 3.49
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Atheeb Telecom",
+      "ticker": "",
+      "weight": 3.16
+    },
+    {
+      "rank": 10,
+      "name": "Bahri (National Shipping Company of Saudi Arabia)",
+      "ticker": "",
+      "weight": 3.06
+    }
+  ]
+}

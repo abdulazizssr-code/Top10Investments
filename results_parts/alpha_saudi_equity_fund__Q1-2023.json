@@ -1,0 +1,67 @@
+{
+  "fund_key": "alpha_saudi_equity_fund",
+  "fund": "Alpha Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 16.97
+    },
+    {
+      "rank": 2,
+      "name": "Al Inma Bank",
+      "ticker": "",
+      "weight": 7.99
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Re For Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 6.39
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Automotive Services Co",
+      "ticker": "",
+      "weight": 4.87
+    },
+    {
+      "rank": 5,
+      "name": "Nahdi Medical Co",
+      "ticker": "",
+      "weight": 4.61
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Fertilizer Co",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 7,
+      "name": "Bank Al Jazira",
+      "ticker": "",
+      "weight": 4.57
+    },
+    {
+      "rank": 8,
+      "name": "SIPCHEM",
+      "ticker": "",
+      "weight": 4.52
+    },
+    {
+      "rank": 9,
+      "name": "Ataa Educational Co",
+      "ticker": "",
+      "weight": 4.49
+    },
+    {
+      "rank": 10,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.43
+    }
+  ]
+}

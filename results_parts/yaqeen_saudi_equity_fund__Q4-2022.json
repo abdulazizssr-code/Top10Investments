@@ -1,0 +1,67 @@
+{
+  "fund_key": "yaqeen_saudi_equity_fund",
+  "fund": "YAQEEN Saudi Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 15.3
+    },
+    {
+      "rank": 2,
+      "name": "STC",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 3,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "BJAZ",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 5,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 6,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 7,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 3.6
+    },
+    {
+      "rank": 9,
+      "name": "ALBILAD",
+      "ticker": "",
+      "weight": 3.6
+    },
+    {
+      "rank": 10,
+      "name": "SEERA",
+      "ticker": "",
+      "weight": 2.9
+    }
+  ]
+}

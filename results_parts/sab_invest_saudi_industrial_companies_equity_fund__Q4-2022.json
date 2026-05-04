@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Oil CO",
+      "ticker": "",
+      "weight": 16.42
+    },
+    {
+      "rank": 2,
+      "name": "Bawan Co",
+      "ticker": "",
+      "weight": 9.53
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Mining",
+      "ticker": "",
+      "weight": 8.62
+    },
+    {
+      "rank": 4,
+      "name": "Sahara International Petrochemical",
+      "ticker": "",
+      "weight": 7.97
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Basic Industries",
+      "ticker": "",
+      "weight": 7.71
+    },
+    {
+      "rank": 6,
+      "name": "Sabic Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 7.54
+    },
+    {
+      "rank": 7,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 7.03
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Ceramic",
+      "ticker": "",
+      "weight": 4.47
+    },
+    {
+      "rank": 9,
+      "name": "Almunajem Foods Co",
+      "ticker": "",
+      "weight": 4.28
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Airlines Catering Co",
+      "ticker": "",
+      "weight": 4.15
+    }
+  ]
+}

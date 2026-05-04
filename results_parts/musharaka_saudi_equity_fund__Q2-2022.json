@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 8.77
+    },
+    {
+      "rank": 2,
+      "name": "STC",
+      "ticker": "",
+      "weight": 6.68
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 5.87
+    },
+    {
+      "rank": 5,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 5.59
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.54
+    },
+    {
+      "rank": 7,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 8,
+      "name": "Leejam Sports (Fitness Time)",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 5.15
+    },
+    {
+      "rank": 10,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 5.07
+    }
+  ]
+}

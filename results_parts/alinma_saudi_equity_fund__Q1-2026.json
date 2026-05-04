@@ -1,0 +1,67 @@
+{
+  "fund_key": "alinma_saudi_equity_fund",
+  "fund": "Alinma Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.9
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 3,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 4,
+      "name": "ACWA Power",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 5,
+      "name": "Awpt",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 6,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 7,
+      "name": "UPc",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 8,
+      "name": "Go Telecom",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 9,
+      "name": "Rasan",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "Saaco",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "alpha_saudi_equity_fund",
+  "fund": "Alpha Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.62
+    },
+    {
+      "rank": 2,
+      "name": "Al Inma Bank",
+      "ticker": "",
+      "weight": 7.91
+    },
+    {
+      "rank": 3,
+      "name": "Al Hammadi Co For Development and Investment",
+      "ticker": "",
+      "weight": 5.78
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Re For Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Airlines Catering Co",
+      "ticker": "",
+      "weight": 4.51
+    },
+    {
+      "rank": 6,
+      "name": "Alkhorayef Water and Power Technologies Co.",
+      "ticker": "",
+      "weight": 4.24
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 4.23
+    },
+    {
+      "rank": 8,
+      "name": "Arabian Internet and Communications Services Co",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 9,
+      "name": "SAL Saudi Logistics Services Co",
+      "ticker": "",
+      "weight": 3.97
+    },
+    {
+      "rank": 10,
+      "name": "National Medical Care",
+      "ticker": "",
+      "weight": 3.85
+    }
+  ]
+}

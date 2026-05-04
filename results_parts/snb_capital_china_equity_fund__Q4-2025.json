@@ -1,0 +1,13 @@
+{
+  "fund_key": "snb_capital_china_equity_fund",
+  "fund": "SNB Capital China Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Nomura FDS-China Fund-I",
+      "ticker": "",
+      "weight": 100.02
+    }
+  ]
+}

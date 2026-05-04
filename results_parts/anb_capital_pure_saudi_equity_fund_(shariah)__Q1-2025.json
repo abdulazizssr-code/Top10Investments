@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI BANK",
+      "ticker": "",
+      "weight": 11.56
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA BANK",
+      "ticker": "",
+      "weight": 9.07
+    },
+    {
+      "rank": 3,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 7.38
+    },
+    {
+      "rank": 4,
+      "name": "SULAIMAN ALHABIB MEDICAL",
+      "ticker": "",
+      "weight": 7.37
+    },
+    {
+      "rank": 5,
+      "name": "TAWUNIYA INSURANCE",
+      "ticker": "",
+      "weight": 7.22
+    },
+    {
+      "rank": 6,
+      "name": "ALDREES PETROLEUM & TRANSPORT",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 7,
+      "name": "BUPA ARABIA",
+      "ticker": "",
+      "weight": 5.11
+    },
+    {
+      "rank": 8,
+      "name": "MOUWASAT MEDICAL SRVC",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 9,
+      "name": "JABAL OMAR",
+      "ticker": "",
+      "weight": 4.08
+    },
+    {
+      "rank": 10,
+      "name": "LEEJAM SPORTS",
+      "ticker": "",
+      "weight": 3.94
+    }
+  ]
+}

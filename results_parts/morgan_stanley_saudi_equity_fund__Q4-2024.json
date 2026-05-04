@@ -1,0 +1,67 @@
+{
+  "fund_key": "morgan_stanley_saudi_equity_fund",
+  "fund": "Morgan Stanley Saudi Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.0
+    },
+    {
+      "rank": 2,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 3,
+      "name": "Astra Industrial Group",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "National Medical Care Co",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 7,
+      "name": "United International Transportation Co",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 8,
+      "name": "Mouwasat Medical Services Co",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 9,
+      "name": "Aldrees Petroleum and Transport",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Ground Services Company",
+      "ticker": "",
+      "weight": 2.8
+    }
+  ]
+}

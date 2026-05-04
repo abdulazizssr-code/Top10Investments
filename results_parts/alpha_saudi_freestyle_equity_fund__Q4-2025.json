@@ -1,0 +1,67 @@
+{
+  "fund_key": "alpha_saudi_freestyle_equity_fund",
+  "fund": "Alpha Saudi Freestyle Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Rasan Information Technology",
+      "ticker": "",
+      "weight": 9.41
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 9.36
+    },
+    {
+      "rank": 3,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 8.6
+    },
+    {
+      "rank": 4,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 8.19
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Mining Co (Ma'aden)",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 6,
+      "name": "National Medical Care Co",
+      "ticker": "",
+      "weight": 6.82
+    },
+    {
+      "rank": 7,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 6.48
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Reinsurance Cooperative Co",
+      "ticker": "",
+      "weight": 6.12
+    },
+    {
+      "rank": 9,
+      "name": "Aldrees Petroleum and Transport Services Co",
+      "ticker": "",
+      "weight": 5.84
+    },
+    {
+      "rank": 10,
+      "name": "Flynas Co SJSC",
+      "ticker": "",
+      "weight": 5.37
+    }
+  ]
+}

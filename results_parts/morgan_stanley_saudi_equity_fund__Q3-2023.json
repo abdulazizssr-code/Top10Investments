@@ -1,0 +1,67 @@
+{
+  "fund_key": "morgan_stanley_saudi_equity_fund",
+  "fund": "Morgan Stanley Saudi Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 12.0
+    },
+    {
+      "rank": 2,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 3,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 6,
+      "name": "Sahara International Petrochemical",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "Aldrees Petroleum",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 8,
+      "name": "National Medical Care",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 9,
+      "name": "Saudi British Bank",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "United International Transportation",
+      "ticker": "",
+      "weight": 3.5
+    }
+  ]
+}

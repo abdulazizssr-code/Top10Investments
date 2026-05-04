@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_opportunistic_saudi_equity_fund",
+  "fund": "Derayah Opportunistic Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.72
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Paper Manufacturing Company",
+      "ticker": "",
+      "weight": 6.75
+    },
+    {
+      "rank": 3,
+      "name": "Yamama Cement Company",
+      "ticker": "",
+      "weight": 6.39
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Atheeb Telecommunication Company",
+      "ticker": "",
+      "weight": 5.82
+    },
+    {
+      "rank": 5,
+      "name": "Madinah Cement Company",
+      "ticker": "",
+      "weight": 5.61
+    },
+    {
+      "rank": 6,
+      "name": "Middle East Specialized Cables Company",
+      "ticker": "",
+      "weight": 5.54
+    },
+    {
+      "rank": 7,
+      "name": "National Agricultural Development Company",
+      "ticker": "",
+      "weight": 4.01
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Arabian Mining Company (Ma'aden)",
+      "ticker": "",
+      "weight": 3.89
+    },
+    {
+      "rank": 9,
+      "name": "East Pipes Integrated Company for Industry",
+      "ticker": "",
+      "weight": 3.69
+    },
+    {
+      "rank": 10,
+      "name": "Arabian Contracting Services Company",
+      "ticker": "",
+      "weight": 3.11
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 20.4
+    },
+    {
+      "rank": 2,
+      "name": "Rasan",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 3,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 7.2
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 5,
+      "name": "Saudi National Agricultural Development (NADEC)",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Post (SPL)",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 7,
+      "name": "Alkhaleej Training",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 8,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 4.4
+    }
+  ]
+}

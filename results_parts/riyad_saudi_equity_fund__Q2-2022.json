@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_saudi_equity_fund",
+  "fund": "Riyad Saudi Equity Fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 16
+    },
+    {
+      "rank": 2,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 13
+    },
+    {
+      "rank": 3,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 11
+    },
+    {
+      "rank": 4,
+      "name": "SAUDI FRANSI",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 5,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 6,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 7,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 3
+    },
+    {
+      "rank": 8,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 3
+    },
+    {
+      "rank": 9,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 3
+    },
+    {
+      "rank": 10,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 3
+    }
+  ]
+}

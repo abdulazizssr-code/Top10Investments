@@ -1,0 +1,67 @@
+{
+  "fund_key": "osool_&_bakheet_parallel_market_equity_trading_fund",
+  "fund": "Osool & Bakheet Parallel Market Equity Trading Fund",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SUMOU",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 2,
+      "name": "CMCER",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 3,
+      "name": "WATANI STEEL",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 4,
+      "name": "BANAN",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "MOBI",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "BURGERIZZR",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "MAHARAH",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 9,
+      "name": "ALUJAIN",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "GROUP FIVE",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

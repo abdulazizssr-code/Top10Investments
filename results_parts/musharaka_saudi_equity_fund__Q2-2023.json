@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 11.6
+    },
+    {
+      "rank": 2,
+      "name": "Leejam Sports (Fitness Time)",
+      "ticker": "",
+      "weight": 6.85
+    },
+    {
+      "rank": 3,
+      "name": "Aldawaa",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 4,
+      "name": "Mrna",
+      "ticker": "",
+      "weight": 5.35
+    },
+    {
+      "rank": 5,
+      "name": "Tobi",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 7,
+      "name": "Saudi German Health",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 8,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "Atheeb",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 10,
+      "name": "Al Andalus",
+      "ticker": "",
+      "weight": 3.15
+    }
+  ]
+}

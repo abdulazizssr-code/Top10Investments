@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_income_fund",
+  "fund": "SAB Invest Saudi Equity Income Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 20.17
+    },
+    {
+      "rank": 2,
+      "name": "Aldrees",
+      "ticker": "",
+      "weight": 4.81
+    },
+    {
+      "rank": 3,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 4.71
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.71
+    },
+    {
+      "rank": 5,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 4.22
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Re",
+      "ticker": "",
+      "weight": 3.98
+    },
+    {
+      "rank": 7,
+      "name": "Bupa Arabia",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 8,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 3.75
+    },
+    {
+      "rank": 9,
+      "name": "Atheeb Telecom",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "Rasan Information Technology Co",
+      "ticker": "",
+      "weight": 3.5
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "alkhair_capital_saudi_equity_fund",
+  "fund": "Alkhair Capital Saudi Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 13.25
+    },
+    {
+      "rank": 2,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 6.89
+    },
+    {
+      "rank": 3,
+      "name": "Arabian Internet and Communications Services Co.",
+      "ticker": "",
+      "weight": 6.82
+    },
+    {
+      "rank": 4,
+      "name": "Tadawul Group",
+      "ticker": "",
+      "weight": 5.84
+    },
+    {
+      "rank": 5,
+      "name": "Quara",
+      "ticker": "",
+      "weight": 4.74
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 7,
+      "name": "ADES Holding Co.",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 8,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 3.97
+    },
+    {
+      "rank": 9,
+      "name": "Rasan Information Technology Co.",
+      "ticker": "",
+      "weight": 3.83
+    },
+    {
+      "rank": 10,
+      "name": "Equipment House",
+      "ticker": "",
+      "weight": 3.64
+    }
+  ]
+}

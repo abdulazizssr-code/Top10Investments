@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_financial_institutions_equity_fund",
+  "fund": "SAB Invest Saudi Financial Institutions Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 17.7
+    },
+    {
+      "rank": 2,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 16.87
+    },
+    {
+      "rank": 3,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 9.43
+    },
+    {
+      "rank": 4,
+      "name": "SAUDI AWWAL BANK",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 5,
+      "name": "RIYAD BANK",
+      "ticker": "",
+      "weight": 9.06
+    },
+    {
+      "rank": 6,
+      "name": "ARAB NATIONAL BANK",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 7,
+      "name": "BANK ALBILAD",
+      "ticker": "",
+      "weight": 8.88
+    },
+    {
+      "rank": 8,
+      "name": "THE SAUDI INVESTMENT BANK",
+      "ticker": "",
+      "weight": 7.55
+    },
+    {
+      "rank": 9,
+      "name": "BANQUE SAUDI FRANSI",
+      "ticker": "",
+      "weight": 5.63
+    },
+    {
+      "rank": 10,
+      "name": "SAUDI TADAWUL GROUP HOLDING",
+      "ticker": "",
+      "weight": 4.67
+    }
+  ]
+}

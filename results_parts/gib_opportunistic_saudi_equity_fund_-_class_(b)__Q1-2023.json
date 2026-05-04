@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(b)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (B)",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.5
+    },
+    {
+      "rank": 2,
+      "name": "SIPCHEM",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 3,
+      "name": "Arabian Drilling",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "Chemanol",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 5,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "Shaker",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Zoujaj",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 9,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "Theeb",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

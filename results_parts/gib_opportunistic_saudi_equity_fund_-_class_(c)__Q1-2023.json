@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(c)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (C)",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank (RJHI)",
+      "ticker": "",
+      "weight": 19.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi International Petrochemical Company (SIPCHEM)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 3,
+      "name": "Arabian Drilling (ARABIAND)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "Methanol Chemicals Company (CHEMANOL)",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 5,
+      "name": "United Electronics Company (EXTRA)",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank (ALINMA)",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "Al Hassan Ghazi Ibrahim Shaker Co (SHAKER)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Arabian Glass Company (ZOUJAJ)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Basic Industries Corporation (SABIC)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "Theeb Rent A Car (THEEB)",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

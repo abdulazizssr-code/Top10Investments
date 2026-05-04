@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_b",
+  "fund": "GIB Saudi Equity Fund - Class B",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank (RJHI)",
+      "ticker": "",
+      "weight": 11.2
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank (SNB)",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank (ALINMA)",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 4,
+      "name": "Arabian Contracting Services (ALARABIA)",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 5,
+      "name": "Arabian Internet and Communications Services - Solutions by stc (SOLUTION)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 6,
+      "name": "Bank Al-Jazira (BJAZ)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "United International Transportation - Budget Saudi (BUDGET)",
+      "ticker": "",
+      "weight": 3.95
+    },
+    {
+      "rank": 8,
+      "name": "Seera Group Holding (SEERA)",
+      "ticker": "",
+      "weight": 3.95
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Pipes Company (AWPT)",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Glass Co. - Zoujaj (ZOUJAJ)",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "fund_key": "alawwal_saudi_equity_fund",
+  "fund": "Alawwal Saudi Equity Fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Nahdi Medical",
+      "ticker": "",
+      "weight": 13.27,
+      "estimated": true
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 12.74,
+      "estimated": true
+    },
+    {
+      "rank": 3,
+      "name": "SISCO",
+      "ticker": "",
+      "weight": 12.2,
+      "estimated": true
+    },
+    {
+      "rank": 4,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.65,
+      "estimated": true
+    },
+    {
+      "rank": 5,
+      "name": "Jamjoom Pharma",
+      "ticker": "",
+      "weight": 11.11,
+      "estimated": true
+    },
+    {
+      "rank": 6,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 10.57,
+      "estimated": true
+    },
+    {
+      "rank": 7,
+      "name": "Alawwal Murabahat Fund",
+      "ticker": "",
+      "weight": 10.03,
+      "estimated": true
+    },
+    {
+      "rank": 8,
+      "name": "STC",
+      "ticker": "",
+      "weight": 9.49,
+      "estimated": true
+    },
+    {
+      "rank": 9,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 8.94,
+      "estimated": true
+    }
+  ]
+}

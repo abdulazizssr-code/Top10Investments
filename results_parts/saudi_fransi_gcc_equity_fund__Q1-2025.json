@@ -1,0 +1,67 @@
+{
+  "fund_key": "saudi_fransi_gcc_equity_fund",
+  "fund": "Saudi Fransi GCC Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.32
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Automotive Services (SASCO)",
+      "ticker": "",
+      "weight": 7.08
+    },
+    {
+      "rank": 3,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 6.85
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Oil",
+      "ticker": "",
+      "weight": 5.44
+    },
+    {
+      "rank": 5,
+      "name": "Arabian Pipes",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 6,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.52
+    },
+    {
+      "rank": 7,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 4.37
+    },
+    {
+      "rank": 8,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 4.23
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Arabian Mining Company",
+      "ticker": "",
+      "weight": 3.33
+    },
+    {
+      "rank": 10,
+      "name": "Walaa Cooperative Insurance",
+      "ticker": "",
+      "weight": 2.85
+    }
+  ]
+}

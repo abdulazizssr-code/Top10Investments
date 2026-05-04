@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 11.5
+    },
+    {
+      "rank": 2,
+      "name": "AMI Medical Equipment (Alef Meem Yaa)",
+      "ticker": "",
+      "weight": 10.4
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 8.3
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 7.7
+    },
+    {
+      "rank": 5,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 6,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 7,
+      "name": "Aldawaa Medical Services",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 8,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Atheeb Telecom (GO)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 4.8
+    }
+  ]
+}

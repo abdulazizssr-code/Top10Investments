@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_al_ataa_saudi_equity_fund",
+  "fund": "SNB Capital Al Ataa Saudi Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.45
+    },
+    {
+      "rank": 2,
+      "name": "Bank AlBilad",
+      "ticker": "",
+      "weight": 9.32
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 6.78
+    },
+    {
+      "rank": 4,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 5,
+      "name": "Nahdi Medical Co",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 6,
+      "name": "Bank Al-Jazira",
+      "ticker": "",
+      "weight": 4.88
+    },
+    {
+      "rank": 7,
+      "name": "Sipchem",
+      "ticker": "",
+      "weight": 4.84
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 4.74
+    },
+    {
+      "rank": 9,
+      "name": "Co for Cooperative Insurance/T",
+      "ticker": "",
+      "weight": 4.29
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 3.82
+    }
+  ]
+}

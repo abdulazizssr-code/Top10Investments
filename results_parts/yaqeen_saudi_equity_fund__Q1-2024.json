@@ -1,0 +1,67 @@
+{
+  "fund_key": "yaqeen_saudi_equity_fund",
+  "fund": "YAQEEN Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 2,
+      "name": "STC",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 3,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 4,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 5,
+      "name": "BUPA ARABIA",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 6,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "YSCC",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "MOUWASAT",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

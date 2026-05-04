@@ -1,0 +1,67 @@
+{
+  "fund_key": "alinma_saudi_equity_fund",
+  "fund": "Alinma Saudi Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.35
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 3,
+      "name": "United Electronics Co.",
+      "ticker": "",
+      "weight": 5.99
+    },
+    {
+      "rank": 4,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 5.53
+    },
+    {
+      "rank": 5,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 5.48
+    },
+    {
+      "rank": 6,
+      "name": "Jahez",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Telecom Co.",
+      "ticker": "",
+      "weight": 5.14
+    },
+    {
+      "rank": 8,
+      "name": "Ades Holding Co.",
+      "ticker": "",
+      "weight": 4.99
+    },
+    {
+      "rank": 9,
+      "name": "Mouwasat Medical Services Co.",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 10,
+      "name": "Middle East Healthcare Co.",
+      "ticker": "",
+      "weight": 4.89
+    }
+  ]
+}

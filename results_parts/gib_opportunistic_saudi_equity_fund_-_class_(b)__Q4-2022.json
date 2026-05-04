@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(b)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (B)",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.7
+    },
+    {
+      "rank": 2,
+      "name": "SAFCO",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 3,
+      "name": "Bank Al Jazira",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 4,
+      "name": "Sipchem",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 5,
+      "name": "Chemanol",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 6,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 7,
+      "name": "Zoujaj",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Alamar Foods",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 9,
+      "name": "Solutions by STC",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Retal Urban Development",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

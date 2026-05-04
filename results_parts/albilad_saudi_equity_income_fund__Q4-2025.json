@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_saudi_equity_income_fund",
+  "fund": "Albilad Saudi Equity Income Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 20.1
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 9.1
+    },
+    {
+      "rank": 4,
+      "name": "Rasan",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 6,
+      "name": "Abdullah Al Othaim Markets",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 7,
+      "name": "National Company for Learning and Education",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "United Electronics Company (Extra)",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 9,
+      "name": "National Gypsum Company",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Post (SPL)",
+      "ticker": "",
+      "weight": 3.1
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "rassanh_flexible_saudi_equity_fund",
+  "fund": "Rassanh Flexible Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.3
+    },
+    {
+      "rank": 2,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Ceramics",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 5,
+      "name": "Al Jouf Cement",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 6,
+      "name": "AMAK",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 7,
+      "name": "Saif Gallery",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 8,
+      "name": "Naqi Water",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 9,
+      "name": "Sipchem",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 10,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 5.2
+    }
+  ]
+}

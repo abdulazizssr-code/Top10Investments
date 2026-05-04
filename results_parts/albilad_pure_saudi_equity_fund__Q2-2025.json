@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 20.21
+    },
+    {
+      "rank": 2,
+      "name": "Holding 2",
+      "ticker": "",
+      "weight": 10.24
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.01
+    },
+    {
+      "rank": 4,
+      "name": "Holding 4",
+      "ticker": "",
+      "weight": 5.16
+    },
+    {
+      "rank": 5,
+      "name": "Holding 5",
+      "ticker": "",
+      "weight": 4.71
+    },
+    {
+      "rank": 6,
+      "name": "Holding 6",
+      "ticker": "",
+      "weight": 4.47
+    },
+    {
+      "rank": 7,
+      "name": "Holding 7",
+      "ticker": "",
+      "weight": 4.14
+    },
+    {
+      "rank": 8,
+      "name": "Holding 8",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 9,
+      "name": "Holding 9",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 10,
+      "name": "Holding 10",
+      "ticker": "",
+      "weight": 3.63
+    }
+  ]
+}

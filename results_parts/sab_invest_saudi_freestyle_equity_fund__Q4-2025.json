@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_freestyle_equity_fund",
+  "fund": "SAB Invest Saudi Freestyle Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.83
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Re",
+      "ticker": "",
+      "weight": 4.87
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 4,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 4.45
+    },
+    {
+      "rank": 5,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 4.38
+    },
+    {
+      "rank": 6,
+      "name": "Budget Saudi",
+      "ticker": "",
+      "weight": 4.16
+    },
+    {
+      "rank": 7,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 4.14
+    },
+    {
+      "rank": 8,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 9,
+      "name": "Atheeb Telecom",
+      "ticker": "",
+      "weight": 3.82
+    },
+    {
+      "rank": 10,
+      "name": "Fitness Time (Leejam Sports)",
+      "ticker": "",
+      "weight": 3.22
+    }
+  ]
+}

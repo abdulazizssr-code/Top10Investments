@@ -1,0 +1,55 @@
+{
+  "fund_key": "riyad_banking_and_financial_institutions_equity_fund",
+  "fund": "Riyad Banking and Financial Institutions Equity Fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "MURABHA1",
+      "ticker": "",
+      "weight": 18.53
+    },
+    {
+      "rank": 2,
+      "name": "MURABHA2",
+      "ticker": "",
+      "weight": 16.23
+    },
+    {
+      "rank": 3,
+      "name": "SUKUK1",
+      "ticker": "",
+      "weight": 12.33
+    },
+    {
+      "rank": 4,
+      "name": "MURABHA3",
+      "ticker": "",
+      "weight": 11.67
+    },
+    {
+      "rank": 5,
+      "name": "MURABHA4",
+      "ticker": "",
+      "weight": 9.33
+    },
+    {
+      "rank": 6,
+      "name": "MURABHA5",
+      "ticker": "",
+      "weight": 9.31
+    },
+    {
+      "rank": 7,
+      "name": "MURABHA6",
+      "ticker": "",
+      "weight": 9.26
+    },
+    {
+      "rank": 8,
+      "name": "MURABHA7",
+      "ticker": "",
+      "weight": 6.98
+    }
+  ]
+}

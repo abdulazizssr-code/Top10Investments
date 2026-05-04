@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_digital_&_it_equity_fund_(shariah)",
+  "fund": "anb capital Digital & IT Equity Fund (Shariah)",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ETIHAD ETISALAT TELECOM",
+      "ticker": "",
+      "weight": 14.67
+    },
+    {
+      "rank": 2,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 12.44
+    },
+    {
+      "rank": 3,
+      "name": "TADAWUL GROUP",
+      "ticker": "",
+      "weight": 8.15
+    },
+    {
+      "rank": 4,
+      "name": "ARABIAN CONTRACTING SRVC",
+      "ticker": "",
+      "weight": 7.87
+    },
+    {
+      "rank": 5,
+      "name": "STC SOLUTIONS",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 6,
+      "name": "MOAMAR INFORMATION SYSTEM",
+      "ticker": "",
+      "weight": 6.56
+    },
+    {
+      "rank": 7,
+      "name": "TAM DEVELOPMENT",
+      "ticker": "",
+      "weight": 6.55
+    },
+    {
+      "rank": 8,
+      "name": "UNITED ELECTRONICS",
+      "ticker": "",
+      "weight": 5.19
+    },
+    {
+      "rank": 9,
+      "name": "SAUDI TELECOM COMPANY",
+      "ticker": "",
+      "weight": 5.18
+    },
+    {
+      "rank": 10,
+      "name": "JAHEZ INTERNATIONAL",
+      "ticker": "",
+      "weight": 4.02
+    }
+  ]
+}

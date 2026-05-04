@@ -1,0 +1,68 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Atheeb Telecommunication (GO Telecom)",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 5,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 6,
+      "name": "East Pipes Integrated Company for Industry",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "Fourth Milling Company",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 8,
+      "name": "Adeer Real Estate Company",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 10,
+      "name": "Electrical Industries Company",
+      "ticker": "",
+      "weight": 4.1
+    }
+  ],
+  "method": "highres_crop"
+}

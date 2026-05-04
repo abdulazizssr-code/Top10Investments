@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity_etf",
+  "fund": "Al Rajhi Saudi Equity ETF",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Sukuk Sustainable",
+      "ticker": "",
+      "weight": 13.5
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Real Estate",
+      "ticker": "",
+      "weight": 12.7
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi Monthly",
+      "ticker": "",
+      "weight": 12.6
+    },
+    {
+      "rank": 4,
+      "name": "Middle East Healthcare",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 5,
+      "name": "Al Rajhi Private Fund 5",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 6,
+      "name": "RHC Sukuk 03/15/2025",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 8,
+      "name": "Riyad Financing Fund III",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 9,
+      "name": "AL Maather REIT Fund",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "Dr. Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 3.5
+    }
+  ]
+}

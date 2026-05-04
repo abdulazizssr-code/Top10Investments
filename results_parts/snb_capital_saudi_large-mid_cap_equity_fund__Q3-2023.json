@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_saudi_large-mid_cap_equity_fund",
+  "fund": "SNB Capital Saudi Large-Mid Cap Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI BANK",
+      "ticker": "",
+      "weight": 15.89
+    },
+    {
+      "rank": 2,
+      "name": "AL HAMMADI HOLDING",
+      "ticker": "",
+      "weight": 7.39
+    },
+    {
+      "rank": 3,
+      "name": "SAUDI BASIC INDUSTRIES CORP",
+      "ticker": "",
+      "weight": 6.69
+    },
+    {
+      "rank": 4,
+      "name": "SAUDI ARABIAN OIL CO",
+      "ticker": "",
+      "weight": 5.93
+    },
+    {
+      "rank": 5,
+      "name": "ALDREES PETROLEUM AND TRANSP",
+      "ticker": "",
+      "weight": 5.88
+    },
+    {
+      "rank": 6,
+      "name": "CO FOR COOPERATIVE INSURANCE",
+      "ticker": "",
+      "weight": 5.71
+    },
+    {
+      "rank": 7,
+      "name": "BANK ALBILAD",
+      "ticker": "",
+      "weight": 5.62
+    },
+    {
+      "rank": 8,
+      "name": "POWER & WATER UTILITY CO FOR",
+      "ticker": "",
+      "weight": 5.17
+    },
+    {
+      "rank": 9,
+      "name": "AMERICANA RESTAURANTS INTERN",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 10,
+      "name": "NAHDI MEDICAL CO",
+      "ticker": "",
+      "weight": 4.54
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_freestyle_saudi_equity_fund",
+  "fund": "Riyad Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Global Research Enhanced Index Equity Active UCITS ETF Accum Shs USD",
+      "ticker": "",
+      "weight": 26.1
+    },
+    {
+      "rank": 2,
+      "name": "GMO Quality Fund",
+      "ticker": "",
+      "weight": 18.6
+    },
+    {
+      "rank": 3,
+      "name": "iShares MSCI World ETF",
+      "ticker": "",
+      "weight": 12.9
+    },
+    {
+      "rank": 4,
+      "name": "PIMCO Funds: Global Investors Series PLC - Global Bond Fund Institutional Accum Shs",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 5,
+      "name": "Riyad Saudi Equity Fund",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 6,
+      "name": "Jadwa Saudi Equity Fund Class B",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 7,
+      "name": "iShares MSCI Emerging Markets ETF",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 8,
+      "name": "Riyad SAR Liquidity Fund",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 9,
+      "name": "GCC Credit Fund",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 10,
+      "name": "Riyad Financing Fund 3",
+      "ticker": "",
+      "weight": 1.9
+    }
+  ]
+}

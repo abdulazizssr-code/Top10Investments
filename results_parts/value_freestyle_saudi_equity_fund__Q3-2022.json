@@ -1,0 +1,67 @@
+{
+  "fund_key": "value_freestyle_saudi_equity_fund",
+  "fund": "Value Freestyle Saudi Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 13.35
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Basic Industries Corp (SABIC)",
+      "ticker": "",
+      "weight": 6.53
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Oil Co (Aramco)",
+      "ticker": "",
+      "weight": 5.34
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.04
+    },
+    {
+      "rank": 5,
+      "name": "Bank Al Bilad",
+      "ticker": "",
+      "weight": 4.45
+    },
+    {
+      "rank": 6,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 4.15
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 3.86
+    },
+    {
+      "rank": 8,
+      "name": "Nahdi Medical Co",
+      "ticker": "",
+      "weight": 3.56
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Arabian Mining Co (Ma'aden)",
+      "ticker": "",
+      "weight": 3.26
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 3.26
+    }
+  ]
+}

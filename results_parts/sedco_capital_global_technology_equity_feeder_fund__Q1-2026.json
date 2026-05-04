@@ -1,0 +1,13 @@
+{
+  "fund_key": "sedco_capital_global_technology_equity_feeder_fund",
+  "fund": "SEDCO Capital Global Technology Equity Feeder Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SEDCO Capital Global Technology Equity Passive Fund (the Master Fund)",
+      "ticker": "",
+      "weight": 98.4
+    }
+  ]
+}

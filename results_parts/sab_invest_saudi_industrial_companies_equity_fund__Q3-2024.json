@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 10.48
+    },
+    {
+      "rank": 2,
+      "name": "ALTAISEER GROUP",
+      "ticker": "",
+      "weight": 8.62
+    },
+    {
+      "rank": 3,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 8.26
+    },
+    {
+      "rank": 4,
+      "name": "RIYADH CABLES",
+      "ticker": "",
+      "weight": 6.78
+    },
+    {
+      "rank": 5,
+      "name": "JAMJOOM PHARMACEUTICALS",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 6,
+      "name": "ELECTRICAL INDUSTRIES CO",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 7,
+      "name": "EAST PIPES",
+      "ticker": "",
+      "weight": 6.19
+    },
+    {
+      "rank": 8,
+      "name": "ALYAMAMAH STEEL",
+      "ticker": "",
+      "weight": 5.71
+    },
+    {
+      "rank": 9,
+      "name": "SHAKER",
+      "ticker": "",
+      "weight": 4.91
+    },
+    {
+      "rank": 10,
+      "name": "SADAFCO",
+      "ticker": "",
+      "weight": 3.79
+    }
+  ]
+}

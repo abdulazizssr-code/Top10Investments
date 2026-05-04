@@ -1,0 +1,18 @@
+{
+  "fund_key": "derayah_nomu_market_fund",
+  "fund": "Derayah Nomu Market Fund",
+  "quarter": "Q1-2026",
+  "method": "claude_code",
+  "holdings": [
+    {"rank": 1, "name": "SAUDI AZM FOR COMMUNICATION AND INFORMATION TECHNOLOGY CO.", "weight": 8.49},
+    {"rank": 2, "name": "TADWEER ENVIRONMENTAL RECYCLING CO.", "weight": 7.96},
+    {"rank": 3, "name": "EAST PIPES INTEGRATED COMPANY", "weight": 7.81},
+    {"rank": 4, "name": "ASAS MAKEEN REAL ESTATE DEVELOPMENT CO.", "weight": 5.36},
+    {"rank": 5, "name": "GAS ARABIAN SERVICES CO.", "weight": 5.00},
+    {"rank": 6, "name": "MIRAT DENTAL CLINICS CO.", "weight": 4.91},
+    {"rank": 7, "name": "QOMEX CO.", "weight": 4.82},
+    {"rank": 8, "name": "ESTARAT COMMUNICATION AND INFORMATION TECHNOLOGY", "weight": 4.71},
+    {"rank": 9, "name": "UNITED MINING CO.", "weight": 3.80},
+    {"rank": 10, "name": "SAUDI PAPER MANUFACTURING CO.", "weight": 3.18}
+  ]
+}

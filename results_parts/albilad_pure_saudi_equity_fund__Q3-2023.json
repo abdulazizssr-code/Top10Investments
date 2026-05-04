@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Electrical Industries Company",
+      "ticker": "",
+      "weight": 17.3
+    },
+    {
+      "rank": 2,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 9.1
+    },
+    {
+      "rank": 3,
+      "name": "Albilad Diversified SAR Fund",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 4,
+      "name": "Seera Group",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 5,
+      "name": "Sipchem",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 6,
+      "name": "Banque Saudi Fransi",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Airlines Catering",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 8,
+      "name": "Othaim Markets",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 9,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

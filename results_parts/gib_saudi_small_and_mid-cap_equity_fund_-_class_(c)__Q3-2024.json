@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_small_and_mid-cap_equity_fund_-_class_(c)",
+  "fund": "GIB Saudi Small and Mid-Cap Equity Fund - CLASS (C)",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "APCO",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 2,
+      "name": "EXTRA",
+      "ticker": "",
+      "weight": 8.3
+    },
+    {
+      "rank": 3,
+      "name": "JAMJOOMP",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 4,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 5,
+      "name": "EEC",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 6,
+      "name": "LUMI",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 7,
+      "name": "CARE",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 8,
+      "name": "AWPT",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 9,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 10,
+      "name": "SHAKER",
+      "ticker": "",
+      "weight": 6.6
+    }
+  ]
+}

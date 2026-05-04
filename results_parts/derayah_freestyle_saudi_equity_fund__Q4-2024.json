@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.16
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Paper Manufacturing Company",
+      "ticker": "",
+      "weight": 4.59
+    },
+    {
+      "rank": 3,
+      "name": "Madinah Cement Company",
+      "ticker": "",
+      "weight": 4.34
+    },
+    {
+      "rank": 4,
+      "name": "Marafiq (Power and Water Utility Company for Jubail and Yanbu)",
+      "ticker": "",
+      "weight": 4.26
+    },
+    {
+      "rank": 5,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 4.24
+    },
+    {
+      "rank": 6,
+      "name": "ADES Holding Company",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 7,
+      "name": "Al Moammar Information Systems Company",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "Maharah Human Resources Company",
+      "ticker": "",
+      "weight": 3.54
+    },
+    {
+      "rank": 9,
+      "name": "The National Company for Insurance",
+      "ticker": "",
+      "weight": 3.26
+    },
+    {
+      "rank": 10,
+      "name": "Yamamah Cement Company",
+      "ticker": "",
+      "weight": 3.18
+    }
+  ]
+}

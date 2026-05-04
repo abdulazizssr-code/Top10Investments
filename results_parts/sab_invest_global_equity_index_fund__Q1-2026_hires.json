@@ -1,0 +1,14 @@
+{
+  "fund_key": "sab_invest_global_equity_index_fund",
+  "fund": "SAB Invest Global Equity Index Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "HSBC Amanah Global Equity Index Fund",
+      "ticker": "",
+      "weight": 100.17
+    }
+  ],
+  "method": "highres_crop"
+}

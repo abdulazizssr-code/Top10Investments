@@ -1,0 +1,68 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(a)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (A)",
+  "quarter": "Q1-2026",
+  "method": "claude_code",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI BANK",
+      "weight": 20.0,
+      "estimated": true
+    },
+    {
+      "rank": 2,
+      "name": "ACWA POWER CO",
+      "weight": 9.5,
+      "estimated": true
+    },
+    {
+      "rank": 3,
+      "name": "ALDREES PETROLEUM AND TRANSPORT SERVICES",
+      "weight": 5.7,
+      "estimated": true
+    },
+    {
+      "rank": 4,
+      "name": "UNITED INTERNATIONAL TRANSPORTATION",
+      "weight": 5.5,
+      "estimated": true
+    },
+    {
+      "rank": 5,
+      "name": "BUPA ARABIA FOR COOPERATIVE INSURANCE",
+      "weight": 5.3,
+      "estimated": true
+    },
+    {
+      "rank": 6,
+      "name": "COMPANY FOR COOPERATIVE INSURANCE",
+      "weight": 5.2,
+      "estimated": true
+    },
+    {
+      "rank": 7,
+      "name": "AL-HASSAN GHAZI IBRAHIM SHAKER CO",
+      "weight": 5.0,
+      "estimated": true
+    },
+    {
+      "rank": 8,
+      "name": "SAUDI RE FOR COOPERATIVE REINSURANCE",
+      "weight": 4.7,
+      "estimated": true
+    },
+    {
+      "rank": 9,
+      "name": "RIYADH CABLES GROUP CO",
+      "weight": 4.3,
+      "estimated": true
+    },
+    {
+      "rank": 10,
+      "name": "ALINMA BANK",
+      "weight": 3.5,
+      "estimated": true
+    }
+  ]
+}

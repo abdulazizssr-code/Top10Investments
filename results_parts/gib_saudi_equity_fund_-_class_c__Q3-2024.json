@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_c",
+  "fund": "GIB Saudi Equity Fund - Class C",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.2
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 3,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 7,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "Astra Industrial Group",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 9,
+      "name": "Al Yamamah Steel (Shaker)",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "Jamjoom Pharmaceuticals",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

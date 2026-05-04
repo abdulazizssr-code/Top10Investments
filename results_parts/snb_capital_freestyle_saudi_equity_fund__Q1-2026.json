@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_freestyle_saudi_equity_fund",
+  "fund": "SNB Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.66
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 5.86
+    },
+    {
+      "rank": 3,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.81
+    },
+    {
+      "rank": 4,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 4.57
+    },
+    {
+      "rank": 5,
+      "name": "Theeb Rent A Car Co",
+      "ticker": "",
+      "weight": 4.43
+    },
+    {
+      "rank": 6,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 4.36
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 4.08
+    },
+    {
+      "rank": 8,
+      "name": "Aldrees Petroleum and Transport",
+      "ticker": "",
+      "weight": 3.95
+    },
+    {
+      "rank": 9,
+      "name": "Almarai Co",
+      "ticker": "",
+      "weight": 3.41
+    },
+    {
+      "rank": 10,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 3.33
+    }
+  ]
+}

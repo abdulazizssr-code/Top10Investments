@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_saudi_large-mid_cap_equity_fund",
+  "fund": "SNB Capital Saudi Large-Mid Cap Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 16.19
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 7.37
+    },
+    {
+      "rank": 3,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 7.12
+    },
+    {
+      "rank": 4,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 6.37
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 5.81
+    },
+    {
+      "rank": 6,
+      "name": "Nahdi Medical Co",
+      "ticker": "",
+      "weight": 5.31
+    },
+    {
+      "rank": 7,
+      "name": "Co for Cooperative Insurance",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 8,
+      "name": "Power & Water Utility Co for",
+      "ticker": "",
+      "weight": 4.91
+    },
+    {
+      "rank": 9,
+      "name": "Aldrees Petroleum and Transp",
+      "ticker": "",
+      "weight": 4.83
+    },
+    {
+      "rank": 10,
+      "name": "Americana Restaurants Intern",
+      "ticker": "",
+      "weight": 3.69
+    }
+  ]
+}

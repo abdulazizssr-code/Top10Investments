@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_opportunistic_saudi_equity_fund",
+  "fund": "Derayah Opportunistic Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "East Pipe",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 6.72
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Paper Manufacturing",
+      "ticker": "",
+      "weight": 6.17
+    },
+    {
+      "rank": 4,
+      "name": "NADEC",
+      "ticker": "",
+      "weight": 5.57
+    },
+    {
+      "rank": 5,
+      "name": "ALKAHN",
+      "ticker": "",
+      "weight": 5.48
+    },
+    {
+      "rank": 6,
+      "name": "Mouwasat",
+      "ticker": "",
+      "weight": 4.95
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 4.48
+    },
+    {
+      "rank": 8,
+      "name": "MEDC",
+      "ticker": "",
+      "weight": 4.29
+    },
+    {
+      "rank": 9,
+      "name": "ITAF Co",
+      "ticker": "",
+      "weight": 3.91
+    },
+    {
+      "rank": 10,
+      "name": "Almoosa",
+      "ticker": "",
+      "weight": 3.75
+    }
+  ]
+}

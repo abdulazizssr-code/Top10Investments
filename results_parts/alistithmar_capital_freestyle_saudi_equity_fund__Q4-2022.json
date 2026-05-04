@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_freestyle_saudi_equity_fund",
+  "fund": "Alistithmar Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 2,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 8.7
+    },
+    {
+      "rank": 3,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 4,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 5,
+      "name": "East Pipes",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 6,
+      "name": "Rasan",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 7,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 8,
+      "name": "Bawan",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Ceramics",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 10,
+      "name": "Aljazira",
+      "ticker": "",
+      "weight": 4.2
+    }
+  ]
+}

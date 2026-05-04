@@ -1,0 +1,67 @@
+{
+  "fund_key": "kamco_freestyle_saudi_equity_fund_(shariah)",
+  "fund": "KAMCO Freestyle Saudi Equity Fund (Shariah)",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 26.5
+    },
+    {
+      "rank": 2,
+      "name": "Etihad Etisalat Co (Mobily)",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 4,
+      "name": "Catrion Catering Holding Co",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 5,
+      "name": "ACWA Power Co",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 6,
+      "name": "Riyad Cables Group",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 7,
+      "name": "United International Transportation Co (Budget Saudi)",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 8,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Internet and Communications Services Co (Solutions)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 10,
+      "name": "Almarai Co",
+      "ticker": "",
+      "weight": 4.9
+    }
+  ]
+}

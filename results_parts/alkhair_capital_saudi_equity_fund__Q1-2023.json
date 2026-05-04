@@ -1,0 +1,67 @@
+{
+  "fund_key": "alkhair_capital_saudi_equity_fund",
+  "fund": "Alkhair Capital Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 29.19
+    },
+    {
+      "rank": 2,
+      "name": "Nama Chemicals Co",
+      "ticker": "",
+      "weight": 9.16
+    },
+    {
+      "rank": 3,
+      "name": "Almunajem Foods",
+      "ticker": "",
+      "weight": 8.91
+    },
+    {
+      "rank": 4,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 8.27
+    },
+    {
+      "rank": 5,
+      "name": "Alsaif Gallery",
+      "ticker": "",
+      "weight": 7.26
+    },
+    {
+      "rank": 6,
+      "name": "Methanol Chemicals Co.",
+      "ticker": "",
+      "weight": 6.51
+    },
+    {
+      "rank": 7,
+      "name": "Tadawul Group",
+      "ticker": "",
+      "weight": 6.05
+    },
+    {
+      "rank": 8,
+      "name": "Alujain Corp.",
+      "ticker": "",
+      "weight": 5.45
+    },
+    {
+      "rank": 9,
+      "name": "Najran Cement Company",
+      "ticker": "",
+      "weight": 4.09
+    },
+    {
+      "rank": 10,
+      "name": "The Qassim Cement Co",
+      "ticker": "",
+      "weight": 3.06
+    }
+  ]
+}

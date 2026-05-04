@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 9.1
+    },
+    {
+      "rank": 2,
+      "name": "Aswaq Al Othaim",
+      "ticker": "",
+      "weight": 8.6
+    },
+    {
+      "rank": 3,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 8.4
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Telecom (STC)",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 5,
+      "name": "Tameer / Injaz",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Catering (Tamween)",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 7,
+      "name": "SISCO",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 8,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 9,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 10,
+      "name": "Electrical Industries",
+      "ticker": "",
+      "weight": 4.4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "winveston_saudi_equity_quant_fund",
+  "fund": "Winveston Saudi Equity Quant Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ADCO",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 2,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 3,
+      "name": "ARNB",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 4,
+      "name": "RJHI",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 5,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 6,
+      "name": "GIG",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 7,
+      "name": "ARAMCO",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 8,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 9,
+      "name": "BSFR",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 10,
+      "name": "STC",
+      "ticker": "",
+      "weight": 4.1
+    }
+  ]
+}

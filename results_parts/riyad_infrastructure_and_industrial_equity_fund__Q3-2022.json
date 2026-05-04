@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_infrastructure_and_industrial_equity_fund",
+  "fund": "Riyad Infrastructure and Industrial Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Microsoft Corp",
+      "ticker": "",
+      "weight": 8
+    },
+    {
+      "rank": 2,
+      "name": "Apple",
+      "ticker": "",
+      "weight": 8
+    },
+    {
+      "rank": 3,
+      "name": "Alphabet",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 4,
+      "name": "Amazon",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 5,
+      "name": "UnitedHealth Group",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 6,
+      "name": "PepsiCo",
+      "ticker": "",
+      "weight": 3
+    },
+    {
+      "rank": 7,
+      "name": "Norfolk Southern",
+      "ticker": "",
+      "weight": 2
+    },
+    {
+      "rank": 8,
+      "name": "Boston Scientific",
+      "ticker": "",
+      "weight": 2
+    },
+    {
+      "rank": 9,
+      "name": "Schlumberger",
+      "ticker": "",
+      "weight": 2
+    },
+    {
+      "rank": 10,
+      "name": "Bristol Mayers",
+      "ticker": "",
+      "weight": 2
+    }
+  ]
+}

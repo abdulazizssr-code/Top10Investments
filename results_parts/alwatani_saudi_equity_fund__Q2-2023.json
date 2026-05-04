@@ -1,0 +1,67 @@
+{
+  "fund_key": "alwatani_saudi_equity_fund",
+  "fund": "AlWatani Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "MARAFIQ",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 2,
+      "name": "MOBILY",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 3,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 4,
+      "name": "SADAFCO",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 5,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 6,
+      "name": "ARAMCO",
+      "ticker": "",
+      "weight": 7.7
+    },
+    {
+      "rank": 7,
+      "name": "BSFR",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 8,
+      "name": "SEERA",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 9,
+      "name": "RJHI",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 10,
+      "name": "ADCO",
+      "ticker": "",
+      "weight": 5.7
+    }
+  ]
+}

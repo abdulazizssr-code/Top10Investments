@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_fund",
+  "fund": "SAB Invest Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 2,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 3,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 8.4
+    },
+    {
+      "rank": 4,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 5,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 6,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "AMERICANA",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 8,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 9,
+      "name": "AWPT",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "STC",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

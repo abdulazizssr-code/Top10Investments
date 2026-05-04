@@ -1,0 +1,49 @@
+{
+  "fund_key": "bmk_saudi_equity_fund",
+  "fund": "BMK Saudi Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Riyad SAR Trade Fund",
+      "ticker": "",
+      "weight": 26.96
+    },
+    {
+      "rank": 2,
+      "name": "SICO Capital Money Market Fund",
+      "ticker": "",
+      "weight": 26.91
+    },
+    {
+      "rank": 3,
+      "name": "Riyadh Cement",
+      "ticker": "",
+      "weight": 1.96
+    },
+    {
+      "rank": 4,
+      "name": "Watani Iron Steel",
+      "ticker": "",
+      "weight": 1.64
+    },
+    {
+      "rank": 5,
+      "name": "TIBBIYAH",
+      "ticker": "",
+      "weight": 0.97
+    },
+    {
+      "rank": 6,
+      "name": "SAIB",
+      "ticker": "",
+      "weight": 0.16
+    },
+    {
+      "rank": 7,
+      "name": "Yamamah Cement",
+      "ticker": "",
+      "weight": 0.003
+    }
+  ]
+}

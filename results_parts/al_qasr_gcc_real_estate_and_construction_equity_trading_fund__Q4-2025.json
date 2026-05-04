@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_qasr_gcc_real_estate_and_construction_equity_trading_fund",
+  "fund": "Al-Qasr GCC Real Estate and Construction Equity Trading Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Emaar Properties",
+      "ticker": "",
+      "weight": 11.79
+    },
+    {
+      "rank": 2,
+      "name": "Aldar Properties",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 3,
+      "name": "Jabal Omar Development Co",
+      "ticker": "",
+      "weight": 8.12
+    },
+    {
+      "rank": 4,
+      "name": "Alandalus Property Co",
+      "ticker": "",
+      "weight": 6.14
+    },
+    {
+      "rank": 5,
+      "name": "Makkah Construction & Development Co",
+      "ticker": "",
+      "weight": 5.53
+    },
+    {
+      "rank": 6,
+      "name": "RAK Properties PJSC",
+      "ticker": "",
+      "weight": 4.88
+    },
+    {
+      "rank": 7,
+      "name": "Dar Al Arkan Real Estate Development Co",
+      "ticker": "",
+      "weight": 4.62
+    },
+    {
+      "rank": 8,
+      "name": "Retal Urban Development Co",
+      "ticker": "",
+      "weight": 4.08
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Pipes Co",
+      "ticker": "",
+      "weight": 3.87
+    },
+    {
+      "rank": 10,
+      "name": "Ras Al Khaimah Ceramics PJSC",
+      "ticker": "",
+      "weight": 3.62
+    }
+  ]
+}

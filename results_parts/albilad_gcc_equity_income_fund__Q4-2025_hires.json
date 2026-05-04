@@ -1,0 +1,68 @@
+{
+  "fund_key": "albilad_gcc_equity_income_fund",
+  "fund": "Albilad GCC Equity Income Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.0
+    },
+    {
+      "rank": 2,
+      "name": "Abu Dhabi Islamic Bank",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 3,
+      "name": "ADNOC Distribution",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 4,
+      "name": "Emirates NBD",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "First Abu Dhabi Bank",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 7,
+      "name": "Zain",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 8,
+      "name": "Abu Dhabi Commercial Bank",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 9,
+      "name": "Dubai Islamic Bank",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 10,
+      "name": "RAKBANK",
+      "ticker": "",
+      "weight": 2.9
+    }
+  ],
+  "method": "highres_crop"
+}

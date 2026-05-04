@@ -1,0 +1,68 @@
+{
+  "fund_key": "anb_capital_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Saudi Equity Fund (Shariah)",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi Bank",
+      "ticker": "",
+      "weight": 19.54
+    },
+    {
+      "rank": 2,
+      "name": "Sulaiman Alhabib Medical",
+      "ticker": "",
+      "weight": 6.21
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum & Transport",
+      "ticker": "",
+      "weight": 6.05
+    },
+    {
+      "rank": 4,
+      "name": "Tawuniya Insurance",
+      "ticker": "",
+      "weight": 5.92
+    },
+    {
+      "rank": 5,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 6,
+      "name": "Maaden Mining",
+      "ticker": "",
+      "weight": 5.26
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 4.18
+    },
+    {
+      "rank": 8,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 3.85
+    },
+    {
+      "rank": 9,
+      "name": "Almasane Alkobra Mining",
+      "ticker": "",
+      "weight": 3.78
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Ground Services",
+      "ticker": "",
+      "weight": 3.64
+    }
+  ],
+  "method": "highres_crop"
+}

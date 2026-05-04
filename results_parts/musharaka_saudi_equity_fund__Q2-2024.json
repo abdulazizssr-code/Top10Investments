@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Talco",
+      "ticker": "",
+      "weight": 7.95
+    },
+    {
+      "rank": 2,
+      "name": "Leejam Sports (Fitness Time)",
+      "ticker": "",
+      "weight": 7.75
+    },
+    {
+      "rank": 3,
+      "name": "Alandalus Property",
+      "ticker": "",
+      "weight": 7.25
+    },
+    {
+      "rank": 4,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 5,
+      "name": "SAL Saudi Logistics Services",
+      "ticker": "",
+      "weight": 6.75
+    },
+    {
+      "rank": 6,
+      "name": "Alef Mim Ba (ALMB)",
+      "ticker": "",
+      "weight": 6.25
+    },
+    {
+      "rank": 7,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 8,
+      "name": "Al-Leef",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 9,
+      "name": "Miahona",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 4.8
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fund_key": "snb_capital_arab_markets_equity_fund",
+  "fund": "SNB Capital Arab Markets Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI BANK",
+      "ticker": "",
+      "weight": 16.18
+    },
+    {
+      "rank": 2,
+      "name": "SAUDI ARABIAN OIL CO",
+      "ticker": "",
+      "weight": 6.32
+    },
+    {
+      "rank": 3,
+      "name": "SEERA GROUP HOLDING",
+      "ticker": "",
+      "weight": 4.86
+    },
+    {
+      "rank": 4,
+      "name": "EMAAR PROPERTIES PJSC",
+      "ticker": "",
+      "weight": 4.65
+    },
+    {
+      "rank": 5,
+      "name": "ADNOC LOGISTICS & SERVICES",
+      "ticker": "",
+      "weight": 4.57
+    },
+    {
+      "rank": 6,
+      "name": "ATAA EDUCATIONAL CO",
+      "ticker": "",
+      "weight": 4.54
+    },
+    {
+      "rank": 7,
+      "name": "ETIHAD ETISALAT CO",
+      "ticker": "",
+      "weight": 4.39
+    },
+    {
+      "rank": 8,
+      "name": "SAUDI TELECOM CO",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 9,
+      "name": "BANK ALBILAD",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 10,
+      "name": "ABU DHABI ISLAMIC BANK",
+      "ticker": "",
+      "weight": 4.05
+    }
+  ],
+  "method": "highres_crop"
+}

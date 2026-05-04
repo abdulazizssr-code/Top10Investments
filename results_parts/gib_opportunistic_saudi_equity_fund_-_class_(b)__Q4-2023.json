@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(b)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (B)",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 2,
+      "name": "United Electronics Company (Extra)",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "Advanced Petrochemical Company",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Ground Services",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "Al Hassan Ghazi Ibrahim Shaker",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "Leejam Sports Company",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 9,
+      "name": "United International Transportation (Budget Saudi)",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 10,
+      "name": "National Agricultural Development Company (NADEC)",
+      "ticker": "",
+      "weight": 4.3
+    }
+  ]
+}

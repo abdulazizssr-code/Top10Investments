@@ -1,0 +1,58 @@
+{
+  "fund_key": "jadwa_gcc_equity_fund_class_d",
+  "fund": "Jadwa GCC Equity Fund Class D",
+  "quarter": "Q1-2026",
+  "method": "claude_code",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI BANK",
+      "weight": 8.23
+    },
+    {
+      "rank": 2,
+      "name": "SAUDI ARABIAN OIL COMPANY",
+      "weight": 4.28
+    },
+    {
+      "rank": 3,
+      "name": "ADNOC LOGISTICS & SERVICES",
+      "weight": 3.85
+    },
+    {
+      "rank": 4,
+      "name": "SAUDI TELECOM CO",
+      "weight": 3.82
+    },
+    {
+      "rank": 5,
+      "name": "ADNOC DRILLING CO PJSC",
+      "weight": 3.27
+    },
+    {
+      "rank": 6,
+      "name": "EMAAR PROPERTIES PJSC",
+      "weight": 3.03
+    },
+    {
+      "rank": 7,
+      "name": "EMIRATES INTEGRATED TELECOMM",
+      "weight": 2.88
+    },
+    {
+      "rank": 8,
+      "name": "DUBAI ISLAMIC BANK",
+      "weight": 2.8
+    },
+    {
+      "rank": 9,
+      "name": "OQ EXPLORATION & PRODUCTION",
+      "weight": 2.75
+    },
+    {
+      "rank": 10,
+      "name": "ADNOC GAS PLC",
+      "weight": 2.63
+    }
+  ]
+}

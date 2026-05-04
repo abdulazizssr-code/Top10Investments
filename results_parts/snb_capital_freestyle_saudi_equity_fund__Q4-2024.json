@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_freestyle_saudi_equity_fund",
+  "fund": "SNB Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAB Invest Saudi Riyal Murabaha Fund",
+      "ticker": "",
+      "weight": 5.06
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Electricity Co Sukuk",
+      "ticker": "",
+      "weight": 3.89
+    },
+    {
+      "rank": 3,
+      "name": "TMS SUKUK",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 4,
+      "name": "Republic of Indonesia Sukuk",
+      "ticker": "",
+      "weight": 3.69
+    },
+    {
+      "rank": 5,
+      "name": "Arab National Bank Sukuk",
+      "ticker": "",
+      "weight": 3.53
+    },
+    {
+      "rank": 6,
+      "name": "Arab Republic of Egypt Sukuk",
+      "ticker": "",
+      "weight": 3.47
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Telecom Co Sukuk",
+      "ticker": "",
+      "weight": 3.25
+    },
+    {
+      "rank": 8,
+      "name": "DP WORLD SUKUK",
+      "ticker": "",
+      "weight": 2.97
+    },
+    {
+      "rank": 9,
+      "name": "SHARJAH SUKUK PROGRAM LTD",
+      "ticker": "",
+      "weight": 2.96
+    },
+    {
+      "rank": 10,
+      "name": "OTEL SUKUK LTD.",
+      "ticker": "",
+      "weight": 2.88
+    }
+  ]
+}

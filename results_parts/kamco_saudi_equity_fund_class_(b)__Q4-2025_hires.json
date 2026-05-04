@@ -1,0 +1,68 @@
+{
+  "fund_key": "kamco_saudi_equity_fund_class_(b)",
+  "fund": "Kamco Saudi Equity Fund Class (B)",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 21.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank (SNB)",
+      "ticker": "",
+      "weight": 10.0
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat Co (Mobily)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Awwal Bank (SAB)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Banque Saudi Fransi",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Almarai Co",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ],
+  "method": "highres_crop"
+}

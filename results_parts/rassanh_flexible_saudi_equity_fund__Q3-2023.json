@@ -1,0 +1,67 @@
+{
+  "fund_key": "rassanh_flexible_saudi_equity_fund",
+  "fund": "Rassanh Flexible Saudi Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 2,
+      "name": "ZAIN KSA",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 4,
+      "name": "JAMJOOM PHARMA",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 5,
+      "name": "TASNEE",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 6,
+      "name": "FIRST MILLS",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 7,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 8,
+      "name": "RETAL",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 9,
+      "name": "SABIC AGRI-NUTRIENTS",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Kayan",
+      "ticker": "",
+      "weight": 4.5
+    }
+  ]
+}

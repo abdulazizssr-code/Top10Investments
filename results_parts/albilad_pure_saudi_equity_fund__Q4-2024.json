@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.3
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 3,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 7.7
+    },
+    {
+      "rank": 4,
+      "name": "Dr. Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 5,
+      "name": "The Company for Cooperative Insurance (Tawuniya)",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 6,
+      "name": "Tibbiah (Medical)",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Ground Services",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 8,
+      "name": "Advanced Petrochemical",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 9,
+      "name": "Emaar Economic City",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Chemical",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

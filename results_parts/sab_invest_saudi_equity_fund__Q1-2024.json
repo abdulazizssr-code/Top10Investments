@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_fund",
+  "fund": "SAB Invest Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ADES HOLDING CO",
+      "ticker": "",
+      "weight": 8.74
+    },
+    {
+      "rank": 2,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 7.73
+    },
+    {
+      "rank": 3,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 7.55
+    },
+    {
+      "rank": 4,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 7.34
+    },
+    {
+      "rank": 5,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 7.28
+    },
+    {
+      "rank": 6,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 6.45
+    },
+    {
+      "rank": 7,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 6.07
+    },
+    {
+      "rank": 8,
+      "name": "NADEC",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 9,
+      "name": "ALARABIA",
+      "ticker": "",
+      "weight": 5.21
+    },
+    {
+      "rank": 10,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 4.85
+    }
+  ]
+}

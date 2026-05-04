@@ -1,0 +1,68 @@
+{
+  "fund_key": "alkhair_capital_saudi_equity_fund",
+  "fund": "Alkhair Capital Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 9.78
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.46
+    },
+    {
+      "rank": 3,
+      "name": "Rasan Information Technology Co.",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 4,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 6.25
+    },
+    {
+      "rank": 5,
+      "name": "Quara Finance",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 6,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabian Mining Co. (Ma'aden)",
+      "ticker": "",
+      "weight": 4.65
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Telecom Co.",
+      "ticker": "",
+      "weight": 3.91
+    },
+    {
+      "rank": 9,
+      "name": "ADES Holding Co.",
+      "ticker": "",
+      "weight": 3.15
+    },
+    {
+      "rank": 10,
+      "name": "Etihad Etisalat Co. (Mobily)",
+      "ticker": "",
+      "weight": 3.11
+    }
+  ],
+  "method": "highres_crop"
+}

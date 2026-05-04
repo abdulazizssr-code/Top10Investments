@@ -1,0 +1,68 @@
+{
+  "fund_key": "gib_opportunistic_mena_equity_fund___class_(b)",
+  "fund": "GIB Opportunistic MENA Equity Fund - Class (B)",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 10.1
+    },
+    {
+      "rank": 2,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 3,
+      "name": "Riyadh Cables Group Company",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 4,
+      "name": "The Company for Cooperative Insurance (Tawuniya)",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 5,
+      "name": "Middle East Specialized Cables Company",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 6,
+      "name": "Jamjoom Pharmaceuticals Factory",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 7,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 3.6
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Reinsurance Company (Saudi Re)",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 9,
+      "name": "Almawarid Manpower Company",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 10,
+      "name": "Presight AI Holding PLC",
+      "ticker": "",
+      "weight": 3.2
+    }
+  ],
+  "method": "highres_crop"
+}

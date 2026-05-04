@@ -1,0 +1,68 @@
+{
+  "fund_key": "snb_capital_saudi_small_and_mid_cap_equity_fund",
+  "fund": "SNB Capital Saudi Small and Mid-Cap Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 6.88
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum and Transport Services Co",
+      "ticker": "",
+      "weight": 6.04
+    },
+    {
+      "rank": 4,
+      "name": "Rasan Information Technology",
+      "ticker": "",
+      "weight": 5.91
+    },
+    {
+      "rank": 5,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 6,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 5.68
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Manpower Solutions Co",
+      "ticker": "",
+      "weight": 5.54
+    },
+    {
+      "rank": 8,
+      "name": "National Industrialization Co",
+      "ticker": "",
+      "weight": 5.46
+    },
+    {
+      "rank": 9,
+      "name": "Ataa Educational Co",
+      "ticker": "",
+      "weight": 5.44
+    },
+    {
+      "rank": 10,
+      "name": "Theeb Rent A Car Co",
+      "ticker": "",
+      "weight": 4.93
+    }
+  ],
+  "method": "highres_crop"
+}

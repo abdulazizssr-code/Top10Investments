@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Airlines Catering Company",
+      "ticker": "",
+      "weight": 4.51
+    },
+    {
+      "rank": 2,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.23
+    },
+    {
+      "rank": 3,
+      "name": "United Electronics Company",
+      "ticker": "",
+      "weight": 4.07
+    },
+    {
+      "rank": 4,
+      "name": "National Gas and Industrialization Company",
+      "ticker": "",
+      "weight": 4.04
+    },
+    {
+      "rank": 5,
+      "name": "Yamamah Cement",
+      "ticker": "",
+      "weight": 3.28
+    },
+    {
+      "rank": 6,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 3.24
+    },
+    {
+      "rank": 7,
+      "name": "Middle East Paper Company",
+      "ticker": "",
+      "weight": 3.23
+    },
+    {
+      "rank": 8,
+      "name": "Madinah Cement",
+      "ticker": "",
+      "weight": 2.81
+    },
+    {
+      "rank": 9,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 2.69
+    },
+    {
+      "rank": 10,
+      "name": "Yamamah Cement",
+      "ticker": "",
+      "weight": 2.67
+    }
+  ]
+}

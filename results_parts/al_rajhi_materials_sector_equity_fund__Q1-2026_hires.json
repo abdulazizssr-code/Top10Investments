@@ -1,0 +1,68 @@
+{
+  "fund_key": "al_rajhi_materials_sector_equity_fund",
+  "fund": "Al Rajhi Materials Sector Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Mining Company",
+      "ticker": "",
+      "weight": 18.9
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 8.3
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabia Fertilizers Co.",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Kayan Petrochemical Company",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 6,
+      "name": "Zamil Industrial Investment Co",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 7,
+      "name": "Aldrees Petroleum and Transport Services Co.",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 8,
+      "name": "The National Shipping Co. of Saudi Arabia",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 9,
+      "name": "East Pipes Integrated Company for Industry",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 4.3
+    }
+  ],
+  "method": "highres_crop"
+}

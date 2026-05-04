@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Ma'aden",
+      "ticker": "",
+      "weight": 8.16
+    },
+    {
+      "rank": 2,
+      "name": "United Electronics Company",
+      "ticker": "",
+      "weight": 6.14
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Electricity Company",
+      "ticker": "",
+      "weight": 5.95
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Airlines Catering Company",
+      "ticker": "",
+      "weight": 5.77
+    },
+    {
+      "rank": 5,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 4.78
+    },
+    {
+      "rank": 6,
+      "name": "Middle East Paper Company",
+      "ticker": "",
+      "weight": 4.74
+    },
+    {
+      "rank": 7,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.51
+    },
+    {
+      "rank": 8,
+      "name": "Arabian Internet and Communications Services Company",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Kayan Petrochemical Company",
+      "ticker": "",
+      "weight": 3.76
+    },
+    {
+      "rank": 10,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

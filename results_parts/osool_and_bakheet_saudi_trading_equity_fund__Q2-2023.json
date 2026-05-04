@@ -1,0 +1,61 @@
+{
+  "fund_key": "osool_and_bakheet_saudi_trading_equity_fund",
+  "fund": "Osool and Bakheet Saudi Trading Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 13.88
+    },
+    {
+      "rank": 2,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 12.58
+    },
+    {
+      "rank": 3,
+      "name": "KEC",
+      "ticker": "",
+      "weight": 6.98
+    },
+    {
+      "rank": 4,
+      "name": "SEERA",
+      "ticker": "",
+      "weight": 6.19
+    },
+    {
+      "rank": 5,
+      "name": "MAHARAH",
+      "ticker": "",
+      "weight": 5.53
+    },
+    {
+      "rank": 6,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.88
+    },
+    {
+      "rank": 7,
+      "name": "CATERING",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 8,
+      "name": "ETIHAD ETISALAT",
+      "ticker": "",
+      "weight": 4.59
+    },
+    {
+      "rank": 9,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 4.35
+    }
+  ]
+}

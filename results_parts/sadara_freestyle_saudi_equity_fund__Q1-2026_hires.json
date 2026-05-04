@@ -1,0 +1,68 @@
+{
+  "fund_key": "sadara_freestyle_saudi_equity_fund",
+  "fund": "Sadara Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 17.0
+    },
+    {
+      "rank": 2,
+      "name": "Arab National Bank",
+      "ticker": "",
+      "weight": 16.8
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 11.4
+    },
+    {
+      "rank": 4,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 11.4
+    },
+    {
+      "rank": 5,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 6,
+      "name": "Elm Company",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Real Estate Company",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 9,
+      "name": "Sipchem (Sahara International Petrochemical)",
+      "ticker": "",
+      "weight": 2.4
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 2.3
+    }
+  ],
+  "method": "highres_crop"
+}

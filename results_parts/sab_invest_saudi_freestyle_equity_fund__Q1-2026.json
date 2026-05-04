@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_freestyle_equity_fund",
+  "fund": "SAB Invest Saudi Freestyle Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 19.88
+    },
+    {
+      "rank": 2,
+      "name": "Aldrees",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 3,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 4.79
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.62
+    },
+    {
+      "rank": 5,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 4.45
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Re",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 7,
+      "name": "Bupa Arabia",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 3.76
+    },
+    {
+      "rank": 9,
+      "name": "Atheeb Telecom",
+      "ticker": "",
+      "weight": 3.61
+    },
+    {
+      "rank": 10,
+      "name": "Rasan Information Technology Co",
+      "ticker": "",
+      "weight": 3.54
+    }
+  ]
+}

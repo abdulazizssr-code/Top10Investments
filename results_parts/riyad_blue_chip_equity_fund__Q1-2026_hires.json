@@ -1,0 +1,68 @@
+{
+  "fund_key": "riyad_blue_chip_equity_fund",
+  "fund": "Riyad Blue Chip Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 21.2
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 17.7
+    },
+    {
+      "rank": 3,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 4,
+      "name": "STC",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 5,
+      "name": "Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 6,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 9,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 10,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ],
+  "method": "highres_crop"
+}

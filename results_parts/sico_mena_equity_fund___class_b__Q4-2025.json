@@ -1,0 +1,67 @@
+{
+  "fund_key": "sico_mena_equity_fund___class_b",
+  "fund": "SICO MENA Equity Fund - Class B",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.1
+    },
+    {
+      "rank": 2,
+      "name": "ADNOC Logistics & Services",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat Co (Mobily)",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 5,
+      "name": "ADES Holding Co",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 6,
+      "name": "Alarabia Co",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 7,
+      "name": "United International Transportation",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 8,
+      "name": "Aldrees Petroleum and Transport Services Co",
+      "ticker": "",
+      "weight": 2.9
+    },
+    {
+      "rank": 9,
+      "name": "Boubyan Bank KSCP",
+      "ticker": "",
+      "weight": 2.8
+    },
+    {
+      "rank": 10,
+      "name": "Aldar Properties PJSC",
+      "ticker": "",
+      "weight": 2.6
+    }
+  ]
+}

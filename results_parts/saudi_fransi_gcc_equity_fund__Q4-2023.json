@@ -1,0 +1,67 @@
+{
+  "fund_key": "saudi_fransi_gcc_equity_fund",
+  "fund": "Saudi Fransi GCC Equity Fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.28
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 7.54
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Automotive Services (SASCO)",
+      "ticker": "",
+      "weight": 6.85
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 6.63
+    },
+    {
+      "rank": 5,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 5.51
+    },
+    {
+      "rank": 6,
+      "name": "AlKhorayef Water and Power",
+      "ticker": "",
+      "weight": 4.73
+    },
+    {
+      "rank": 7,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.66
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 4.63
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 4.58
+    },
+    {
+      "rank": 10,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 4.14
+    }
+  ]
+}

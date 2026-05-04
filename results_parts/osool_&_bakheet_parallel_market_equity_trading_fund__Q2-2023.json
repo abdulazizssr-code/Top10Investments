@@ -1,0 +1,67 @@
+{
+  "fund_key": "osool_&_bakheet_parallel_market_equity_trading_fund",
+  "fund": "Osool & Bakheet Parallel Market Equity Trading Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "RIYADH CEMENT",
+      "ticker": "",
+      "weight": 19.05
+    },
+    {
+      "rank": 2,
+      "name": "ACADEMY OF LEARNING",
+      "ticker": "",
+      "weight": 8.86
+    },
+    {
+      "rank": 3,
+      "name": "JAHEZ",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "CMCER",
+      "ticker": "",
+      "weight": 4.89
+    },
+    {
+      "rank": 5,
+      "name": "TIBBIYAH",
+      "ticker": "",
+      "weight": 4.75
+    },
+    {
+      "rank": 6,
+      "name": "Sure",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "WATANI STEEL",
+      "ticker": "",
+      "weight": 4.67
+    },
+    {
+      "rank": 8,
+      "name": "OBEIKAN GLASS",
+      "ticker": "",
+      "weight": 4.54
+    },
+    {
+      "rank": 9,
+      "name": "BANAN",
+      "ticker": "",
+      "weight": 4.34
+    },
+    {
+      "rank": 10,
+      "name": "AME",
+      "ticker": "",
+      "weight": 4.23
+    }
+  ]
+}

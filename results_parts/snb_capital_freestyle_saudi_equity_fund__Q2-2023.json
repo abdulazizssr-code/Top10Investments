@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_freestyle_saudi_equity_fund",
+  "fund": "SNB Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "KSASUK 2.6 06/17/31",
+      "ticker": "",
+      "weight": 6.46
+    },
+    {
+      "rank": 2,
+      "name": "SABBAB Float 07/22/30",
+      "ticker": "",
+      "weight": 6.21
+    },
+    {
+      "rank": 3,
+      "name": "SAB Invest Saudi Riyal Murabaha Fund",
+      "ticker": "",
+      "weight": 5.87
+    },
+    {
+      "rank": 4,
+      "name": "ARAMCO 2.694 06/17/31",
+      "ticker": "",
+      "weight": 5.45
+    },
+    {
+      "rank": 5,
+      "name": "KSA 2 1/4 05/17/31",
+      "ticker": "",
+      "weight": 5.15
+    },
+    {
+      "rank": 6,
+      "name": "Dubai Islamic Bank",
+      "ticker": "",
+      "weight": 4.75
+    },
+    {
+      "rank": 7,
+      "name": "EMAARM 4.564 06/18/24",
+      "ticker": "",
+      "weight": 4.25
+    },
+    {
+      "rank": 8,
+      "name": "RIBL 3.174 02/25/30",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Electricity Company Sukuk 4.723% 27/09/2028",
+      "ticker": "",
+      "weight": 4.07
+    },
+    {
+      "rank": 10,
+      "name": "Aldar Sukuk No 2",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

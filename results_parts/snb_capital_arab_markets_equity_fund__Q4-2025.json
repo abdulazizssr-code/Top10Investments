@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_arab_markets_equity_fund",
+  "fund": "SNB Capital Arab Markets Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.77
+    },
+    {
+      "rank": 2,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 4.82
+    },
+    {
+      "rank": 3,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.38
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 4.12
+    },
+    {
+      "rank": 5,
+      "name": "ADNOC Logistics & Services",
+      "ticker": "",
+      "weight": 4.09
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 3.96
+    },
+    {
+      "rank": 7,
+      "name": "Emaar Properties PJSC",
+      "ticker": "",
+      "weight": 3.96
+    },
+    {
+      "rank": 8,
+      "name": "Abu Dhabi Islamic Bank",
+      "ticker": "",
+      "weight": 3.89
+    },
+    {
+      "rank": 9,
+      "name": "Flynas Co SJSC",
+      "ticker": "",
+      "weight": 3.81
+    },
+    {
+      "rank": 10,
+      "name": "Aldrees Petroleum and Transport",
+      "ticker": "",
+      "weight": 3.6
+    }
+  ]
+}

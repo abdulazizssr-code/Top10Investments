@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_small_and_mid-cap_equity_fund_-_class_(a)",
+  "fund": "GIB Saudi Small and Mid-Cap Equity Fund - Class (A)",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "United International Transportation Co",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Re for Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum and Transport Services Co",
+      "ticker": "",
+      "weight": 7.2
+    },
+    {
+      "rank": 4,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 5,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 6,
+      "name": "Middle East Specialized Cables Co",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 7,
+      "name": "Al-Hassan G.I. Shaker Co",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 8,
+      "name": "Flynas Co",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 9,
+      "name": "Almawarid Manpower Co",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "Advanced Petrochemical Co",
+      "ticker": "",
+      "weight": 4.5
+    }
+  ]
+}

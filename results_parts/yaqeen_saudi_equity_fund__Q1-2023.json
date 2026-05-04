@@ -1,0 +1,67 @@
+{
+  "fund_key": "yaqeen_saudi_equity_fund",
+  "fund": "YAQEEN Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 14.8
+    },
+    {
+      "rank": 2,
+      "name": "STC",
+      "ticker": "",
+      "weight": 7.9
+    },
+    {
+      "rank": 3,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 4,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "ETIHAD ETISALAT",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 6,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 7,
+      "name": "LUBEREF",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 8,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 9,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 2.8
+    }
+  ]
+}

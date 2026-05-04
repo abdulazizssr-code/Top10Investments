@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_construction_and_cement_companies_equity_fund",
+  "fund": "SAB Invest Saudi Construction and Cement Companies Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SPM",
+      "ticker": "",
+      "weight": 9.04
+    },
+    {
+      "rank": 2,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 8.88
+    },
+    {
+      "rank": 3,
+      "name": "CHEMICAL",
+      "ticker": "",
+      "weight": 7.65
+    },
+    {
+      "rank": 4,
+      "name": "MESC",
+      "ticker": "",
+      "weight": 6.62
+    },
+    {
+      "rank": 5,
+      "name": "AWPT",
+      "ticker": "",
+      "weight": 6.12
+    },
+    {
+      "rank": 6,
+      "name": "ZOUJAJ",
+      "ticker": "",
+      "weight": 6.07
+    },
+    {
+      "rank": 7,
+      "name": "RIYADH CABLES",
+      "ticker": "",
+      "weight": 5.47
+    },
+    {
+      "rank": 8,
+      "name": "YAMAMA CEMENT",
+      "ticker": "",
+      "weight": 4.84
+    },
+    {
+      "rank": 9,
+      "name": "SHAKER",
+      "ticker": "",
+      "weight": 4.24
+    },
+    {
+      "rank": 10,
+      "name": "EAST PIPES",
+      "ticker": "",
+      "weight": 3.98
+    }
+  ]
+}

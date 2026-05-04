@@ -1,0 +1,37 @@
+{
+  "fund_key": "bmk_saudi_equity_fund",
+  "fund": "BMK Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 14.4
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 8.3
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 4,
+      "name": "Dr. Sulaiman Al Habib Medical Services Group",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Telecom Co.",
+      "ticker": "",
+      "weight": 5.7
+    }
+  ]
+}

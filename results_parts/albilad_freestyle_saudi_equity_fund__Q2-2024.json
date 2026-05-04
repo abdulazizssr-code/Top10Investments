@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 14.7
+    },
+    {
+      "rank": 2,
+      "name": "Tadawul",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 3,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 4,
+      "name": "Albilad",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 5,
+      "name": "Knet",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 6,
+      "name": "Bupa",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 7,
+      "name": "Catrion",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Chemical Industries",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 10,
+      "name": "Research and Media",
+      "ticker": "",
+      "weight": 4.1
+    }
+  ]
+}

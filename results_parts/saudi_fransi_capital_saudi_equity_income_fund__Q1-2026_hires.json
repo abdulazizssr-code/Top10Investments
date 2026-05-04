@@ -1,0 +1,68 @@
+{
+  "fund_key": "saudi_fransi_capital_saudi_equity_income_fund",
+  "fund": "SAUDI FRANSI CAPITAL SAUDI EQUITY INCOME FUND",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 6.47
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Automotive Services Co",
+      "ticker": "",
+      "weight": 5.78
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 5.51
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Cement Co",
+      "ticker": "",
+      "weight": 5.49
+    },
+    {
+      "rank": 5,
+      "name": "Arabian Internet and Communications Services Co",
+      "ticker": "",
+      "weight": 5.46
+    },
+    {
+      "rank": 6,
+      "name": "Maharah Human Resources Co",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "SABIC Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 4.15
+    },
+    {
+      "rank": 8,
+      "name": "United Electronics Co",
+      "ticker": "",
+      "weight": 3.91
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 3.85
+    },
+    {
+      "rank": 10,
+      "name": "United International Transport",
+      "ticker": "",
+      "weight": 3.82
+    }
+  ],
+  "method": "highres_crop"
+}

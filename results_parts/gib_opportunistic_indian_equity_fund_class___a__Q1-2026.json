@@ -1,0 +1,13 @@
+{
+  "fund_key": "gib_opportunistic_indian_equity_fund_class___a",
+  "fund": "GIB Opportunistic Indian Equity Fund Class - A",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Tata Indian Sharia Equity Fund",
+      "ticker": "",
+      "weight": 100.0
+    }
+  ]
+}

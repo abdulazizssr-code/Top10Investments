@@ -1,0 +1,67 @@
+{
+  "fund_key": "jadwa_us_equity_fund",
+  "fund": "Jadwa US Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Jadwa Saudi Equity Fund - Class A",
+      "ticker": "",
+      "weight": 28.69
+    },
+    {
+      "rank": 2,
+      "name": "Jadwa Global Sukuk Fund - Class A",
+      "ticker": "",
+      "weight": 19.68
+    },
+    {
+      "rank": 3,
+      "name": "Aljazira Sukuk Fund",
+      "ticker": "",
+      "weight": 17.49
+    },
+    {
+      "rank": 4,
+      "name": "ARTAL Murabaha Fund (Class A)",
+      "ticker": "",
+      "weight": 7.97
+    },
+    {
+      "rank": 5,
+      "name": "Jadwa Saudi Equity Fund II - Class B",
+      "ticker": "",
+      "weight": 6.89
+    },
+    {
+      "rank": 6,
+      "name": "Jadwa Saudi Riyal Murabaha Fund - Class C",
+      "ticker": "",
+      "weight": 6.04
+    },
+    {
+      "rank": 7,
+      "name": "Jadwa Multi-Manager International Absolute Return Fund 3 - Class A",
+      "ticker": "",
+      "weight": 1.76
+    },
+    {
+      "rank": 8,
+      "name": "Jadwa Multi-Manager International Real Assets Fund 2 - Class A",
+      "ticker": "",
+      "weight": 1.68
+    },
+    {
+      "rank": 9,
+      "name": "Jadwa Multi-Manager International Absolute Return Fund 2 - Class A",
+      "ticker": "",
+      "weight": 1.65
+    },
+    {
+      "rank": 10,
+      "name": "Jadwa Multi-Manager International Real Assets Fund - Class A",
+      "ticker": "",
+      "weight": 1.63
+    }
+  ]
+}

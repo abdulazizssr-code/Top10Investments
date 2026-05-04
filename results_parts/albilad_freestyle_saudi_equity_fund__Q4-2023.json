@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 2,
+      "name": "Bank",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 7.7
+    },
+    {
+      "rank": 4,
+      "name": "Etihad",
+      "ticker": "",
+      "weight": 7.7
+    },
+    {
+      "rank": 5,
+      "name": "Maharah",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 6,
+      "name": "SISCO",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 7,
+      "name": "Tazweed",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 8,
+      "name": "Arabian Drilling",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 9,
+      "name": "Petro Rabigh",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 10,
+      "name": "Anaam",
+      "ticker": "",
+      "weight": 4.2
+    }
+  ]
+}

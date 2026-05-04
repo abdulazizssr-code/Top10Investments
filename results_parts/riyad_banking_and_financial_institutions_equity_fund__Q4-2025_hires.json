@@ -1,0 +1,62 @@
+{
+  "fund_key": "riyad_banking_and_financial_institutions_equity_fund",
+  "fund": "Riyad Banking and Financial Institutions Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Investment Bank (SAIB)",
+      "ticker": "",
+      "weight": 11.3
+    },
+    {
+      "rank": 2,
+      "name": "National Bank of Kuwait (NBK)",
+      "ticker": "",
+      "weight": 10.2
+    },
+    {
+      "rank": 3,
+      "name": "Bank Aljazira (BAJ)",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Investment Bank (SAIB)",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 5,
+      "name": "Arab National Bank (ANB)",
+      "ticker": "",
+      "weight": 9.1
+    },
+    {
+      "rank": 6,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 9.1
+    },
+    {
+      "rank": 7,
+      "name": "National Bank of Kuwait (NBK)",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 8,
+      "name": "Arab Banking Corporation (ABC)",
+      "ticker": "",
+      "weight": 7.9
+    },
+    {
+      "rank": 9,
+      "name": "Arab Banking Corporation (ABC)",
+      "ticker": "",
+      "weight": 5.7
+    }
+  ],
+  "method": "highres_crop"
+}

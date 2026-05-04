@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity_fund",
+  "fund": "Al Rajhi Saudi Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.9
+    },
+    {
+      "rank": 2,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 3,
+      "name": "MUR 1",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 4,
+      "name": "Makkah Construction and Development",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 5,
+      "name": "The National Shipping Company",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Mining",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 7,
+      "name": "Jabal Omar Development",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 8,
+      "name": "Bawan Company",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 9,
+      "name": "National Gas and Industrialization",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 10,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 3.2
+    }
+  ]
+}

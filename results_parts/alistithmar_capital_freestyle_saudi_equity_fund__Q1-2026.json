@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_freestyle_saudi_equity_fund",
+  "fund": "Alistithmar Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 8.19
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 8.15
+    },
+    {
+      "rank": 3,
+      "name": "ARAMCO",
+      "ticker": "",
+      "weight": 5.62
+    },
+    {
+      "rank": 4,
+      "name": "SGS",
+      "ticker": "",
+      "weight": 4.85
+    },
+    {
+      "rank": 5,
+      "name": "Almasane Alkobra",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Real Estate Co",
+      "ticker": "",
+      "weight": 3.83
+    },
+    {
+      "rank": 7,
+      "name": "ADES",
+      "ticker": "",
+      "weight": 3.66
+    },
+    {
+      "rank": 8,
+      "name": "MAHARAH",
+      "ticker": "",
+      "weight": 3.25
+    },
+    {
+      "rank": 9,
+      "name": "ALBABTAIN",
+      "ticker": "",
+      "weight": 2.96
+    },
+    {
+      "rank": 10,
+      "name": "RIYADH CABLES",
+      "ticker": "",
+      "weight": 2.92
+    }
+  ]
+}

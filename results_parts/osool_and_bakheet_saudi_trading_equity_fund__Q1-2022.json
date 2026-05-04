@@ -1,0 +1,67 @@
+{
+  "fund_key": "osool_and_bakheet_saudi_trading_equity_fund",
+  "fund": "Osool and Bakheet Saudi Trading Equity Fund",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 2,
+      "name": "ALUJAIN",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 3,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 4,
+      "name": "SAFCO",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "SEERA",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "ETIHAD ETISALAT",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "STC",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "SAUDI KAYAN",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "CARE",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

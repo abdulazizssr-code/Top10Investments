@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_infrastructure_and_industrial_equity_fund",
+  "fund": "Riyad Infrastructure and Industrial Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Microsoft",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 2,
+      "name": "Apple",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 3,
+      "name": "Alphabet",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "UnitedHealth Group",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 5,
+      "name": "Amazon.com",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 6,
+      "name": "Johnson & Johnson",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 7,
+      "name": "Walmart",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 8,
+      "name": "JPMorgan Chase",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 9,
+      "name": "Coca Cola",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 10,
+      "name": "Progressive Corp.",
+      "ticker": "",
+      "weight": 2.0
+    }
+  ]
+}

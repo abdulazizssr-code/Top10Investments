@@ -1,0 +1,67 @@
+{
+  "fund_key": "miyar_saudi_equity_fund",
+  "fund": "Miyar Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAL",
+      "ticker": "",
+      "weight": 8
+    },
+    {
+      "rank": 2,
+      "name": "ARAMCO",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 3,
+      "name": "ADES",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 4,
+      "name": "NAHDI",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 5,
+      "name": "TADAWUL",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 6,
+      "name": "SMASCO",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 7,
+      "name": "WALAA",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 8,
+      "name": "2P",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 9,
+      "name": "EAST PIPES",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 10,
+      "name": "LUMI",
+      "ticker": "",
+      "weight": 4
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_c",
+  "fund": "GIB Saudi Equity Fund - Class C",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "RJHI AB",
+      "ticker": "",
+      "weight": 17.5
+    },
+    {
+      "rank": 2,
+      "name": "SNB AB",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 3,
+      "name": "SABIC AB",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 4,
+      "name": "STC AB",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 5,
+      "name": "CHEMANOL AB",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 6,
+      "name": "KAYAN AB",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 7,
+      "name": "RIBL AB",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 8,
+      "name": "EEC AB",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "SAFCO AB",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "MAADEN AB",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

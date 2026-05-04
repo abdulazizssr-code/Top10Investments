@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund___class_b",
+  "fund": "GIB Saudi Equity Fund - Class B",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI BANK",
+      "ticker": "",
+      "weight": 20.0
+    },
+    {
+      "rank": 2,
+      "name": "THE SAUDI NATIONAL BANK",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 3,
+      "name": "ACWA POWER CO",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 4,
+      "name": "ELECTRICAL INDUSTRIES CO",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 5,
+      "name": "ALINMA BANK",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 6,
+      "name": "ALDREES PETROLEUM AND TRANSPORT SERVICES",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "THE COMPANY FOR COOPERATIVE INSURANCE",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "RIYADH CABLES GROUP CO",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 9,
+      "name": "SAUDI ARABIAN OIL CO",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "ELM CO",
+      "ticker": "",
+      "weight": 3.5
+    }
+  ]
+}

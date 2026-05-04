@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_companies_equity_fund",
+  "fund": "SAB Invest Saudi Companies Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 16.97
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 8.99
+    },
+    {
+      "rank": 3,
+      "name": "Americana Restaurants International",
+      "ticker": "",
+      "weight": 6.94
+    },
+    {
+      "rank": 4,
+      "name": "Leejam Sports Co JSC",
+      "ticker": "",
+      "weight": 4.93
+    },
+    {
+      "rank": 5,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 4.91
+    },
+    {
+      "rank": 6,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 4.73
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 4.69
+    },
+    {
+      "rank": 8,
+      "name": "Alamar Foods",
+      "ticker": "",
+      "weight": 4.52
+    },
+    {
+      "rank": 9,
+      "name": "Co for Cooperative Insurance",
+      "ticker": "",
+      "weight": 4.36
+    },
+    {
+      "rank": 10,
+      "name": "United International Transport",
+      "ticker": "",
+      "weight": 4.09
+    }
+  ]
+}

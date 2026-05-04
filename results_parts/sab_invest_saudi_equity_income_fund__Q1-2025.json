@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_income_fund",
+  "fund": "SAB Invest Saudi Equity Income Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 9.11
+    },
+    {
+      "rank": 2,
+      "name": "SAUDI RE",
+      "ticker": "",
+      "weight": 7.29
+    },
+    {
+      "rank": 3,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 7.16
+    },
+    {
+      "rank": 4,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 5,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 6.63
+    },
+    {
+      "rank": 6,
+      "name": "ALMARAI",
+      "ticker": "",
+      "weight": 6.32
+    },
+    {
+      "rank": 7,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 5.69
+    },
+    {
+      "rank": 8,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 9,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 4.49
+    },
+    {
+      "rank": 10,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 4.04
+    }
+  ]
+}

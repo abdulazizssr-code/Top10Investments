@@ -1,0 +1,68 @@
+{
+  "fund_key": "al_saffa_saudi_equity_trading_fund",
+  "fund": "Al-Saffa Saudi Equity Trading Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.78
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Automotive Services Co",
+      "ticker": "",
+      "weight": 8.92
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum and Transport",
+      "ticker": "",
+      "weight": 7.65
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 5.97
+    },
+    {
+      "rank": 5,
+      "name": "Bank AlBilad",
+      "ticker": "",
+      "weight": 5.73
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 5.04
+    },
+    {
+      "rank": 7,
+      "name": "Dr Sulaiman Al Habib Medical Services Group",
+      "ticker": "",
+      "weight": 3.96
+    },
+    {
+      "rank": 8,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 3.92
+    },
+    {
+      "rank": 9,
+      "name": "United International Transport",
+      "ticker": "",
+      "weight": 3.39
+    },
+    {
+      "rank": 10,
+      "name": "Tamkeen Human Resources Co",
+      "ticker": "",
+      "weight": 3.04
+    }
+  ],
+  "method": "highres_crop"
+}

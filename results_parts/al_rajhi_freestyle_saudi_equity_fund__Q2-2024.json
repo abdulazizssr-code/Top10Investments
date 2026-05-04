@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_freestyle_saudi_equity_fund",
+  "fund": "Al Rajhi Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 12.8
+    },
+    {
+      "rank": 2,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 3,
+      "name": "ACWA Power Co.",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 4,
+      "name": "Makkah Construction and Development Co.",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 5,
+      "name": "National Gas and Industrialization Co.",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Research and Marketing Group",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 7,
+      "name": "Middle East Specialized Cables Co",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Airlines Catering Company",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 9,
+      "name": "Aldrees Petroleum and Transport Services Co.",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.5
+    }
+  ]
+}

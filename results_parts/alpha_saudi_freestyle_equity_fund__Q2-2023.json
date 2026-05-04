@@ -1,0 +1,67 @@
+{
+  "fund_key": "alpha_saudi_freestyle_equity_fund",
+  "fund": "Alpha Saudi Freestyle Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.14
+    },
+    {
+      "rank": 2,
+      "name": "Al Inma Bank",
+      "ticker": "",
+      "weight": 9.34
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Re For Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 4,
+      "name": "Middle East Healthcare Co",
+      "ticker": "",
+      "weight": 7.22
+    },
+    {
+      "rank": 5,
+      "name": "Al Hammadi Co For Development and Investment",
+      "ticker": "",
+      "weight": 6.44
+    },
+    {
+      "rank": 6,
+      "name": "Arabian Internet and Communications Services Co",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 7,
+      "name": "Aldawaa Medical Services Co",
+      "ticker": "",
+      "weight": 5.63
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Automotive Services Co",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 9,
+      "name": "National Industrialization Co",
+      "ticker": "",
+      "weight": 4.91
+    },
+    {
+      "rank": 10,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 4.56
+    }
+  ]
+}

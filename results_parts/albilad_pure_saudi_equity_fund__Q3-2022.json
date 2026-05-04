@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.0
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 14.0
+    },
+    {
+      "rank": 3,
+      "name": "United International Transportation (Budget Saudi)",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 4,
+      "name": "Mouwasat Medical Services",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "United Electronics (eXtra)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 7,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 9,
+      "name": "Al Othaim Markets",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 10,
+      "name": "Mobile Telecommunications Co. (Zain)",
+      "ticker": "",
+      "weight": 2.5
+    }
+  ]
+}

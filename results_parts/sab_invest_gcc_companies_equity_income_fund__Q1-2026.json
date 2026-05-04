@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_gcc_companies_equity_income_fund",
+  "fund": "SAB Invest GCC Companies Equity Income Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Mobile Telecommunications Co K",
+      "ticker": "",
+      "weight": 4.74
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 3,
+      "name": "Emirates Telecommunications Group",
+      "ticker": "",
+      "weight": 4.53
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "Albabtain",
+      "ticker": "",
+      "weight": 4.18
+    },
+    {
+      "rank": 6,
+      "name": "Jamjoom Fashion Trading Co",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 7,
+      "name": "Abu Dhabi Islamic Bank PJSC",
+      "ticker": "",
+      "weight": 4.04
+    },
+    {
+      "rank": 8,
+      "name": "Medicare Group",
+      "ticker": "",
+      "weight": 3.98
+    },
+    {
+      "rank": 9,
+      "name": "Abu Dhabi Ports",
+      "ticker": "",
+      "weight": 3.97
+    },
+    {
+      "rank": 10,
+      "name": "Emirates Integrated Telecommunications",
+      "ticker": "",
+      "weight": 3.91
+    }
+  ]
+}

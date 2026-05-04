@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_freestyle_equity_fund",
+  "fund": "SAB Invest Saudi Freestyle Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 17.52
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 8.43
+    },
+    {
+      "rank": 3,
+      "name": "AMERICANA",
+      "ticker": "",
+      "weight": 5.86
+    },
+    {
+      "rank": 4,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 5.22
+    },
+    {
+      "rank": 5,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 4.81
+    },
+    {
+      "rank": 6,
+      "name": "ALHAMMADI",
+      "ticker": "",
+      "weight": 4.81
+    },
+    {
+      "rank": 7,
+      "name": "ALARABIA",
+      "ticker": "",
+      "weight": 4.71
+    },
+    {
+      "rank": 8,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 4.55
+    },
+    {
+      "rank": 9,
+      "name": "ALAMAR",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 10,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 4.4
+    }
+  ]
+}

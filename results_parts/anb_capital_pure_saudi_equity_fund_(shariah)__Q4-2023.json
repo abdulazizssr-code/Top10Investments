@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI BANK",
+      "ticker": "",
+      "weight": 10.3
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA BANK",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 3,
+      "name": "SULAIMAN ALHABIB MEDICAL",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 4,
+      "name": "TAWUNIYA INSURANCE",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 5,
+      "name": "SAUDI AIRLINES CATERING",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 6,
+      "name": "ALKHORAYEF WATER POWER TECH",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 7,
+      "name": "PERFECT PRESENTATION",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 8,
+      "name": "SAHARA PETROCHEMICAL",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 9,
+      "name": "MOUWASAT MEDICAL SRVC",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 10,
+      "name": "BUPA ARABIA",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

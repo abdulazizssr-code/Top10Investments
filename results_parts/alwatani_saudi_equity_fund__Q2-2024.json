@@ -1,0 +1,61 @@
+{
+  "fund_key": "alwatani_saudi_equity_fund",
+  "fund": "AlWatani Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Arab National Bank (ARNB)",
+      "ticker": "",
+      "weight": 10.1
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank (SNB)",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 3,
+      "name": "Banque Saudi Fransi (BSFR)",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 4,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Aramco (ARAMCO)",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 6,
+      "name": "Riyad Bank (RIBL)",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 7,
+      "name": "Al Rajhi Bank (RJHI)",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 8,
+      "name": "ADCO",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 9,
+      "name": "Marafiq",
+      "ticker": "",
+      "weight": 6.3
+    }
+  ]
+}

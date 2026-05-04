@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.3
+    },
+    {
+      "rank": 2,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 7.2
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 4,
+      "name": "Tawuniya (Cooperative Insurance)",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 5,
+      "name": "Dr. Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 6,
+      "name": "Aldrees Petroleum & Transport",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 7,
+      "name": "Tibbiyah (Medical)",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Steel Pipe (Anabeeb)",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 9,
+      "name": "Aslak (Saudi Cable)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Al Wataniya (National Industrialization)",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

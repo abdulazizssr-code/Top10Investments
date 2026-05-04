@@ -1,0 +1,67 @@
+{
+  "fund_key": "winveston_saudi_equity_quant_fund",
+  "fund": "Winveston Saudi Equity Quant Fund",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.5
+    },
+    {
+      "rank": 2,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 3,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 4,
+      "name": "Bank Al Jazira",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 5,
+      "name": "Mobily",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 6,
+      "name": "Arab National Bank",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 7,
+      "name": "Taiba",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 8,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 9,
+      "name": "SADAFCO",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 10,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 4.8
+    }
+  ]
+}

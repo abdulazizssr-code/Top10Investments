@@ -1,0 +1,68 @@
+{
+  "fund_key": "value_freestyle_saudi_equity_fund",
+  "fund": "Value Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 22.59
+    },
+    {
+      "rank": 2,
+      "name": "Etihad Etisalat and Communications Services Co",
+      "ticker": "",
+      "weight": 13.39
+    },
+    {
+      "rank": 3,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 12.57
+    },
+    {
+      "rank": 4,
+      "name": "SABIC Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 10.15
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 8.4
+    },
+    {
+      "rank": 6,
+      "name": "Sulaiman Al Habib Medical Services Group",
+      "ticker": "",
+      "weight": 8.08
+    },
+    {
+      "rank": 7,
+      "name": "Al Hammadi Company for Development and Investment",
+      "ticker": "",
+      "weight": 7.44
+    },
+    {
+      "rank": 8,
+      "name": "Umm Al Qura for Development and Construction Co",
+      "ticker": "",
+      "weight": 6.44
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Cable Company",
+      "ticker": "",
+      "weight": 5.61
+    },
+    {
+      "rank": 10,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 5.32
+    }
+  ],
+  "method": "highres_crop"
+}

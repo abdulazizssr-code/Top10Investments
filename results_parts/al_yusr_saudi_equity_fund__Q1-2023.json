@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_yusr_saudi_equity_fund",
+  "fund": "Al Yusr Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 16.5
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 3,
+      "name": "ALARABIA",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 4,
+      "name": "AWPT",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 5,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 6,
+      "name": "ALHAMMADI",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "THEEB",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "RETAL",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 10,
+      "name": "MOUWASAT",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

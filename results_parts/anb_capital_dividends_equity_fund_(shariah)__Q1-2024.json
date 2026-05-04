@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_dividends_equity_fund_(shariah)",
+  "fund": "anb capital Dividends Equity Fund (Shariah)",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAUDI TELECOM COMPANY",
+      "ticker": "",
+      "weight": 7.42
+    },
+    {
+      "rank": 2,
+      "name": "SAHARA PETROCHEMICAL",
+      "ticker": "",
+      "weight": 6.94
+    },
+    {
+      "rank": 3,
+      "name": "JARIR MARKETING",
+      "ticker": "",
+      "weight": 6.83
+    },
+    {
+      "rank": 4,
+      "name": "AL RAJHI REIT",
+      "ticker": "",
+      "weight": 6.48
+    },
+    {
+      "rank": 5,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 6.22
+    },
+    {
+      "rank": 6,
+      "name": "STC SOLUTIONS",
+      "ticker": "",
+      "weight": 5.39
+    },
+    {
+      "rank": 7,
+      "name": "SAUDI CEMENT",
+      "ticker": "",
+      "weight": 5.04
+    },
+    {
+      "rank": 8,
+      "name": "CENOMI CENTERS",
+      "ticker": "",
+      "weight": 4.68
+    },
+    {
+      "rank": 9,
+      "name": "LUMI RENTAL",
+      "ticker": "",
+      "weight": 4.28
+    },
+    {
+      "rank": 10,
+      "name": "UNITED ELECTRONICS",
+      "ticker": "",
+      "weight": 4.14
+    }
+  ]
+}

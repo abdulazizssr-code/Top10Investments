@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Seera Group",
+      "ticker": "",
+      "weight": 9.09
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 8.07
+    },
+    {
+      "rank": 3,
+      "name": "Al Othaim Markets",
+      "ticker": "",
+      "weight": 7.91
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 5,
+      "name": "SISCO",
+      "ticker": "",
+      "weight": 6.61
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Catering",
+      "ticker": "",
+      "weight": 6.39
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Hotels",
+      "ticker": "",
+      "weight": 6.14
+    },
+    {
+      "rank": 8,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 6.05
+    },
+    {
+      "rank": 9,
+      "name": "Tanmiah",
+      "ticker": "",
+      "weight": 5.55
+    },
+    {
+      "rank": 10,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.06
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity_2_fund",
+  "fund": "Al Rajhi Saudi Equity-2 Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank SAR Additional Tier 1 Sukuk",
+      "ticker": "",
+      "weight": 10.8
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank - Alinma 4 PREP",
+      "ticker": "",
+      "weight": 10.5
+    },
+    {
+      "rank": 3,
+      "name": "BSF-KSA-Murabaha-1 (Banque Saudi Fransi)",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 4,
+      "name": "Riyad Bank Tier 1 Sukuk",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 5,
+      "name": "SAB-KSA-Murabaha-1 (Saudi Awwal Bank)",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 6,
+      "name": "BSF-KSA-Murabaha-2 (Banque Saudi Fransi)",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 7,
+      "name": "SNB Tier 1 Sukuk 2022 (Saudi National Bank)",
+      "ticker": "",
+      "weight": 1.6
+    },
+    {
+      "rank": 8,
+      "name": "BAJ-KSA-Murabaha-1 (Bank Aljazira)",
+      "ticker": "",
+      "weight": 1.3
+    },
+    {
+      "rank": 9,
+      "name": "BAJ-KSA-Murabaha-2 (Bank Aljazira)",
+      "ticker": "",
+      "weight": 1.3
+    },
+    {
+      "rank": 10,
+      "name": "BAJ-KSA-Murabaha-3 (Bank Aljazira)",
+      "ticker": "",
+      "weight": 1.3
+    }
+  ]
+}

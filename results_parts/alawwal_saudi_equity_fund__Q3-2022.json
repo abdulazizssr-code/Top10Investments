@@ -1,0 +1,49 @@
+{
+  "fund_key": "alawwal_saudi_equity_fund",
+  "fund": "Alawwal Saudi Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Sahl",
+      "ticker": "",
+      "weight": 23.75
+    },
+    {
+      "rank": 2,
+      "name": "Amana Insurance",
+      "ticker": "",
+      "weight": 2.3
+    },
+    {
+      "rank": 3,
+      "name": "Aseeg (United Cooperative Assurance)",
+      "ticker": "",
+      "weight": 1.5
+    },
+    {
+      "rank": 4,
+      "name": "East Pipes",
+      "ticker": "",
+      "weight": 1.38
+    },
+    {
+      "rank": 5,
+      "name": "Retal",
+      "ticker": "",
+      "weight": 1.31
+    },
+    {
+      "rank": 6,
+      "name": "Aljouf Mineral Water",
+      "ticker": "",
+      "weight": 0.88
+    },
+    {
+      "rank": 7,
+      "name": "Jahez",
+      "ticker": "",
+      "weight": 0.48
+    }
+  ]
+}

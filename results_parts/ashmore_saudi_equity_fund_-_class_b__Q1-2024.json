@@ -1,0 +1,67 @@
+{
+  "fund_key": "ashmore_saudi_equity_fund_-_class_b",
+  "fund": "Ashmore Saudi Equity Fund - Class B",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "MBC Group CJSC",
+      "ticker": "",
+      "weight": 9.53
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.51
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 7.86
+    },
+    {
+      "rank": 4,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.56
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 6.38
+    },
+    {
+      "rank": 6,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 5.17
+    },
+    {
+      "rank": 7,
+      "name": "Almarai Co Ltd",
+      "ticker": "",
+      "weight": 4.18
+    },
+    {
+      "rank": 8,
+      "name": "Al Babtain Power & Telecommunication",
+      "ticker": "",
+      "weight": 3.91
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 3.91
+    },
+    {
+      "rank": 10,
+      "name": "United International Transportation",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

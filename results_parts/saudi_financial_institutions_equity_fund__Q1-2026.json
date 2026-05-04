@@ -1,0 +1,67 @@
+{
+  "fund_key": "saudi_financial_institutions_equity_fund",
+  "fund": "Saudi Financial Institutions Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.51
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank (SNB)",
+      "ticker": "",
+      "weight": 17.84
+    },
+    {
+      "rank": 3,
+      "name": "Banque Saudi Fransi",
+      "ticker": "",
+      "weight": 9.2
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 9.15
+    },
+    {
+      "rank": 5,
+      "name": "Arab National Bank",
+      "ticker": "",
+      "weight": 8.61
+    },
+    {
+      "rank": 6,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 8.34
+    },
+    {
+      "rank": 7,
+      "name": "The Saudi Investment Bank",
+      "ticker": "",
+      "weight": 8.07
+    },
+    {
+      "rank": 8,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.95
+    },
+    {
+      "rank": 9,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.45
+    },
+    {
+      "rank": 10,
+      "name": "Bank Al-Jazira",
+      "ticker": "",
+      "weight": 4.79
+    }
+  ]
+}

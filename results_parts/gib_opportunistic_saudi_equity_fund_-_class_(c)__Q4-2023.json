@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(c)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (C)",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALINMA AB",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 2,
+      "name": "EXTRA AB",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 3,
+      "name": "EEC AB",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "RJHI AB",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "APPC AB",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 6,
+      "name": "SGS AB",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 7,
+      "name": "SHAKER AB",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "LEEJAM AB",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 9,
+      "name": "BUDGET AB",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 10,
+      "name": "NADEC AB",
+      "ticker": "",
+      "weight": 4.3
+    }
+  ]
+}

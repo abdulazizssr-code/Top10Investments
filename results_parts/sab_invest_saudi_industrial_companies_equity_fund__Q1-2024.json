@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 11.88
+    },
+    {
+      "rank": 2,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 8.45
+    },
+    {
+      "rank": 3,
+      "name": "ADES Holding Co",
+      "ticker": "",
+      "weight": 7.69
+    },
+    {
+      "rank": 4,
+      "name": "NADEC",
+      "ticker": "",
+      "weight": 6.97
+    },
+    {
+      "rank": 5,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 5.93
+    },
+    {
+      "rank": 6,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 4.17
+    },
+    {
+      "rank": 7,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 8,
+      "name": "Catering",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 9,
+      "name": "Jamjoom Pharmaceuticals",
+      "ticker": "",
+      "weight": 3.65
+    },
+    {
+      "rank": 10,
+      "name": "Savola Group",
+      "ticker": "",
+      "weight": 3.45
+    }
+  ]
+}

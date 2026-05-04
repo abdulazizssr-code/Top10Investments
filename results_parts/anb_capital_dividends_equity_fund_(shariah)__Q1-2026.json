@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_dividends_equity_fund_(shariah)",
+  "fund": "anb capital Dividends Equity Fund (Shariah)",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 9.86
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 9.66
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Company",
+      "ticker": "",
+      "weight": 9.51
+    },
+    {
+      "rank": 4,
+      "name": "United Electronics",
+      "ticker": "",
+      "weight": 7.76
+    },
+    {
+      "rank": 5,
+      "name": "Sulaiman Al Habib Medical",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 6,
+      "name": "Aldrees Petroleum & Transport",
+      "ticker": "",
+      "weight": 6.53
+    },
+    {
+      "rank": 7,
+      "name": "Budget Saudi",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Ground Services",
+      "ticker": "",
+      "weight": 4.66
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 4.31
+    },
+    {
+      "rank": 10,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 3.93
+    }
+  ]
+}

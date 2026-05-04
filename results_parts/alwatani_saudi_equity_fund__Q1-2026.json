@@ -1,0 +1,67 @@
+{
+  "fund_key": "alwatani_saudi_equity_fund",
+  "fund": "AlWatani Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 3,
+      "name": "Gulf Insurance Group",
+      "ticker": "",
+      "weight": 9.1
+    },
+    {
+      "rank": 4,
+      "name": "Arabian Drilling Company",
+      "ticker": "",
+      "weight": 8.4
+    },
+    {
+      "rank": 5,
+      "name": "Saudi British Bank (SABB)",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 6,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.2
+    },
+    {
+      "rank": 7,
+      "name": "Banque Saudi Fransi",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 9,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 2.4
+    },
+    {
+      "rank": 10,
+      "name": "BUILDSTA",
+      "ticker": "",
+      "weight": 2.4
+    }
+  ]
+}

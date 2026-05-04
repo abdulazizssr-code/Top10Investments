@@ -1,0 +1,67 @@
+{
+  "fund_key": "bmk_saudi_freestyle_equity_fund_sharia_compliant",
+  "fund": "BMK Saudi Freestyle Equity Fund Sharia Compliant",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "BMK Murabaha Fund",
+      "ticker": "",
+      "weight": 23
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 22
+    },
+    {
+      "rank": 3,
+      "name": "Riyadh Cement Co.",
+      "ticker": "",
+      "weight": 9
+    },
+    {
+      "rank": 4,
+      "name": "Dr. Sulaiman Al Habib Medical Services Group",
+      "ticker": "",
+      "weight": 8
+    },
+    {
+      "rank": 5,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 8
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Telecom Co.",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Electricity Co.",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 9,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 10,
+      "name": "The Power and Water Utility Co. for Jubail-Yanbu",
+      "ticker": "",
+      "weight": 5
+    }
+  ]
+}

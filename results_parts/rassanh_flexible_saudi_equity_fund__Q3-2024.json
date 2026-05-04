@@ -1,0 +1,67 @@
+{
+  "fund_key": "rassanh_flexible_saudi_equity_fund",
+  "fund": "Rassanh Flexible Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 15.3
+    },
+    {
+      "rank": 2,
+      "name": "ADVANCED",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 3,
+      "name": "SAVOLA GROUP",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 4,
+      "name": "SULAIMAN ALHABIB",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 5,
+      "name": "ACWA POWER",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 6,
+      "name": "TADAWUL GROUP",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 7,
+      "name": "ARABIAN DRILLING",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 8,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "SAL",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 10,
+      "name": "BJAZ",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

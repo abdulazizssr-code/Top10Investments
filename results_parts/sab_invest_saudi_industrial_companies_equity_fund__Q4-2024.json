@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SPM",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 2,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 8.79
+    },
+    {
+      "rank": 3,
+      "name": "SAVOLA GROUP",
+      "ticker": "",
+      "weight": 7.22
+    },
+    {
+      "rank": 4,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 6.82
+    },
+    {
+      "rank": 5,
+      "name": "ALBABTAIN",
+      "ticker": "",
+      "weight": 5.19
+    },
+    {
+      "rank": 6,
+      "name": "ELECTRICAL INDUSTRIES CO",
+      "ticker": "",
+      "weight": 5.12
+    },
+    {
+      "rank": 7,
+      "name": "EAST PIPES",
+      "ticker": "",
+      "weight": 5.05
+    },
+    {
+      "rank": 8,
+      "name": "SADAFCO",
+      "ticker": "",
+      "weight": 4.77
+    },
+    {
+      "rank": 9,
+      "name": "ARABIAN PIPES CO",
+      "ticker": "",
+      "weight": 4.65
+    },
+    {
+      "rank": 10,
+      "name": "TANMIAH",
+      "ticker": "",
+      "weight": 4.31
+    }
+  ]
+}

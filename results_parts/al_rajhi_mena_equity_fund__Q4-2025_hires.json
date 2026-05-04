@@ -1,0 +1,68 @@
+{
+  "fund_key": "al_rajhi_mena_equity_fund",
+  "fund": "Al Rajhi MENA Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Awaeed Fund",
+      "ticker": "",
+      "weight": 22.2
+    },
+    {
+      "rank": 2,
+      "name": "Riyad Bank Tier 1 Sukuk",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 3,
+      "name": "Gulf International Bank - Saudi",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 4,
+      "name": "SNB Tier 1 Sukuk 2022",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Tier 1 Sukuk Limited",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 6,
+      "name": "Oman Sukuk 25",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 7,
+      "name": "Emaar Properties PJSC Sukuk",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 8,
+      "name": "Boubyan Tier 1 Sukuk Ltd",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 9,
+      "name": "Mumtalakat (XS2103157991)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank SAR Additional Tier 1 Sukuk",
+      "ticker": "",
+      "weight": 4.3
+    }
+  ],
+  "method": "highres_crop"
+}

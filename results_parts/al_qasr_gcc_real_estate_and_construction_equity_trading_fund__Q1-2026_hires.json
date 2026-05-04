@@ -1,0 +1,68 @@
+{
+  "fund_key": "al_qasr_gcc_real_estate_and_construction_equity_trading_fund",
+  "fund": "Al-Qasr GCC Real Estate and Construction Equity Trading Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Emaar Properties",
+      "ticker": "",
+      "weight": 14.63
+    },
+    {
+      "rank": 2,
+      "name": "Aldar Properties",
+      "ticker": "",
+      "weight": 9.69
+    },
+    {
+      "rank": 3,
+      "name": "Jabal Omar Development Co",
+      "ticker": "",
+      "weight": 7.29
+    },
+    {
+      "rank": 4,
+      "name": "Alandalus Property Co",
+      "ticker": "",
+      "weight": 6.43
+    },
+    {
+      "rank": 5,
+      "name": "Makkah Construction & Development",
+      "ticker": "",
+      "weight": 5.89
+    },
+    {
+      "rank": 6,
+      "name": "RAK Properties",
+      "ticker": "",
+      "weight": 5.23
+    },
+    {
+      "rank": 7,
+      "name": "Retal Urban Development Co",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "Al Babtain Power & Telecommunication",
+      "ticker": "",
+      "weight": 4.54
+    },
+    {
+      "rank": 9,
+      "name": "Dar Al Arkan Real Estate Development",
+      "ticker": "",
+      "weight": 4.29
+    },
+    {
+      "rank": 10,
+      "name": "Yamama Cement Co",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ],
+  "method": "highres_crop"
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.02
+    },
+    {
+      "rank": 2,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 8.67
+    },
+    {
+      "rank": 3,
+      "name": "Dr. Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 8.27
+    },
+    {
+      "rank": 4,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 7.58
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 6,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 6.02
+    },
+    {
+      "rank": 7,
+      "name": "Jabal Omar Development",
+      "ticker": "",
+      "weight": 4.22
+    },
+    {
+      "rank": 8,
+      "name": "Mouwasat Medical Services",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 9,
+      "name": "Jamjoom Pharma",
+      "ticker": "",
+      "weight": 3.66
+    },
+    {
+      "rank": 10,
+      "name": "Flynas",
+      "ticker": "",
+      "weight": 3.56
+    }
+  ]
+}

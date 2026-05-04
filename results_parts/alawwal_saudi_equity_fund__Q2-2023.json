@@ -1,0 +1,77 @@
+{
+  "fund_key": "alawwal_saudi_equity_fund",
+  "fund": "Alawwal Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Sipchem (Saudi International Petrochemical)",
+      "ticker": "",
+      "weight": 12.2,
+      "estimated": true
+    },
+    {
+      "rank": 2,
+      "name": "Yanbu Cement",
+      "ticker": "",
+      "weight": 11.71,
+      "estimated": true
+    },
+    {
+      "rank": 3,
+      "name": "Riyadh Cables",
+      "ticker": "",
+      "weight": 11.22,
+      "estimated": true
+    },
+    {
+      "rank": 4,
+      "name": "SISCO",
+      "ticker": "",
+      "weight": 10.73,
+      "estimated": true
+    },
+    {
+      "rank": 5,
+      "name": "Theeb Rent a Car",
+      "ticker": "",
+      "weight": 10.24,
+      "estimated": true
+    },
+    {
+      "rank": 6,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 9.76,
+      "estimated": true
+    },
+    {
+      "rank": 7,
+      "name": "Arabian Internet and Communications Services (Solutions)",
+      "ticker": "",
+      "weight": 9.27,
+      "estimated": true
+    },
+    {
+      "rank": 8,
+      "name": "First Mills",
+      "ticker": "",
+      "weight": 8.78,
+      "estimated": true
+    },
+    {
+      "rank": 9,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 8.29,
+      "estimated": true
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.8,
+      "estimated": true
+    }
+  ]
+}

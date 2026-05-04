@@ -1,0 +1,68 @@
+{
+  "fund_key": "snb_capital_saudi_large_mid_cap_equity_fund",
+  "fund": "SNB Capital Saudi Large-Mid Cap Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.75
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Mining Co (Ma'aden)",
+      "ticker": "",
+      "weight": 9.72
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat Co (Mobily)",
+      "ticker": "",
+      "weight": 8.72
+    },
+    {
+      "rank": 4,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 8.06
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Telecom Co (STC)",
+      "ticker": "",
+      "weight": 7.78
+    },
+    {
+      "rank": 6,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 6.01
+    },
+    {
+      "rank": 7,
+      "name": "Aldrees Petroleum and Transport Services Co",
+      "ticker": "",
+      "weight": 5.67
+    },
+    {
+      "rank": 8,
+      "name": "Theeb Rent a Car Co",
+      "ticker": "",
+      "weight": 4.73
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Arabian Oil Co (Aramco)",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 10,
+      "name": "Almarai Co",
+      "ticker": "",
+      "weight": 4.03
+    }
+  ],
+  "method": "highres_crop"
+}

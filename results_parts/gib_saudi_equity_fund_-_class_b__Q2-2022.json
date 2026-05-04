@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_b",
+  "fund": "GIB Saudi Equity Fund - Class B",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank (RJHI)",
+      "ticker": "",
+      "weight": 17.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank (SNB)",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 3,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 5,
+      "name": "Chemanol",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 6,
+      "name": "Kayan",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 7,
+      "name": "Riyad Bank (RIBL)",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 8,
+      "name": "Etihad Etisalat (EEC)",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "SAFCO",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

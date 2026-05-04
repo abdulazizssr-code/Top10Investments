@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Term Deposit",
+      "ticker": "",
+      "weight": 19.22
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Atheeb Telecom (GO)",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 5,
+      "name": "Adeer Real Estate",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 6,
+      "name": "Aldawaa Medical Services",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 8,
+      "name": "Alef Mim Yaa",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 9,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 10,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 4.4
+    }
+  ]
+}

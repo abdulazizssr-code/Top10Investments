@@ -1,0 +1,68 @@
+{
+  "fund_key": "gib_saudi_equity_fund___class_c",
+  "fund": "GIB Saudi Equity Fund - Class C",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 20.0
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Oil Co (Aramco)",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "Company for Cooperative Insurance (Tawuniya)",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 5,
+      "name": "ACWA Power Co",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 7,
+      "name": "Bupa Arabia for Cooperative Insurance",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "Aldrees Petroleum and Transport Services Co",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 9,
+      "name": "Riyadh Cables Group Co",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 3.7
+    }
+  ],
+  "method": "highres_crop"
+}

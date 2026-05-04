@@ -1,0 +1,67 @@
+{
+  "fund_key": "jadwa_saudi_equity_fund___class_b",
+  "fund": "Jadwa Saudi Equity Fund - Class B",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 12.98
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Oil Company",
+      "ticker": "",
+      "weight": 8.08
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 4,
+      "name": "The National Shipping Company of Saudi Arabia",
+      "ticker": "",
+      "weight": 5.15
+    },
+    {
+      "rank": 5,
+      "name": "SABIC Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 4.63
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.94
+    },
+    {
+      "rank": 7,
+      "name": "Almarai Co",
+      "ticker": "",
+      "weight": 3.26
+    },
+    {
+      "rank": 8,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 3.12
+    },
+    {
+      "rank": 9,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 2.85
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 2.75
+    }
+  ]
+}

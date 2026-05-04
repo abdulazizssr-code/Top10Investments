@@ -1,0 +1,68 @@
+{
+  "fund_key": "al_saffa_saudi_equity_trading_fund",
+  "fund": "Al-Saffa Saudi Equity Trading Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.75
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Automotive Services Co",
+      "ticker": "",
+      "weight": 8.07
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum and Transport",
+      "ticker": "",
+      "weight": 6.56
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 5.76
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 4.92
+    },
+    {
+      "rank": 7,
+      "name": "Bank AlBilad",
+      "ticker": "",
+      "weight": 4.65
+    },
+    {
+      "rank": 8,
+      "name": "Dr. Sulaiman Al Habib Medical Group",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 9,
+      "name": "United International Transport",
+      "ticker": "",
+      "weight": 3.02
+    },
+    {
+      "rank": 10,
+      "name": "Umm Al Qura for Development and Construction Co.",
+      "ticker": "",
+      "weight": 2.94
+    }
+  ],
+  "method": "highres_crop"
+}

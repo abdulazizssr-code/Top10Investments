@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_small_and_mid-cap_equity_fund_-_class_(b)",
+  "fund": "GIB Saudi Small and Mid-Cap Equity Fund - CLASS (B)",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Jamjoom Pharmaceuticals Factory",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 2,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 3,
+      "name": "Almawarid Manpower Co",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "Middle East Specialized Cables Co",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 5,
+      "name": "Riyadh Cables Group Co",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 6,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 7,
+      "name": "United International Transportation Co",
+      "ticker": "",
+      "weight": 7.4
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Re for Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 9,
+      "name": "ACWA Power Co",
+      "ticker": "",
+      "weight": 8.7
+    },
+    {
+      "rank": 10,
+      "name": "Co for Cooperative Insurance",
+      "ticker": "",
+      "weight": 9.3
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "fund_key": "riyad_freestyle_saudi_equity_fund",
+  "fund": "Riyad Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ISHARES MSCI WORLD ETF",
+      "ticker": "",
+      "weight": 32
+    },
+    {
+      "rank": 2,
+      "name": "VANGUARD TOTAL WORLD STOCK ETF",
+      "ticker": "",
+      "weight": 29
+    },
+    {
+      "rank": 3,
+      "name": "Riyad Saudi Equity Fund",
+      "ticker": "",
+      "weight": 15
+    },
+    {
+      "rank": 4,
+      "name": "PIMCO GLOBAL BOND",
+      "ticker": "",
+      "weight": 12
+    },
+    {
+      "rank": 5,
+      "name": "Riyad USD Diversified Trade Fund",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 6,
+      "name": "Riyad SAR Diversified Trade Fund",
+      "ticker": "",
+      "weight": 1
+    }
+  ]
+}

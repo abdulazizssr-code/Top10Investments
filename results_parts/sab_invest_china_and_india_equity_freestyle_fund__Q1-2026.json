@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_china_and_india_equity_freestyle_fund",
+  "fund": "SAB Invest China and India Equity Freestyle Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alibaba Group Holding Ltd",
+      "ticker": "",
+      "weight": 8.74
+    },
+    {
+      "rank": 2,
+      "name": "Reliance Industries",
+      "ticker": "",
+      "weight": 7.82
+    },
+    {
+      "rank": 3,
+      "name": "Infosys Ltd",
+      "ticker": "",
+      "weight": 6.97
+    },
+    {
+      "rank": 4,
+      "name": "MakeMyTrip Ltd",
+      "ticker": "",
+      "weight": 4.63
+    },
+    {
+      "rank": 5,
+      "name": "Dr Reddys Lab",
+      "ticker": "",
+      "weight": 4.61
+    },
+    {
+      "rank": 6,
+      "name": "Xiaomi Corp",
+      "ticker": "",
+      "weight": 3.33
+    },
+    {
+      "rank": 7,
+      "name": "Nongfu Spring Co",
+      "ticker": "",
+      "weight": 2.97
+    },
+    {
+      "rank": 8,
+      "name": "China Molybdenum",
+      "ticker": "",
+      "weight": 2.9
+    },
+    {
+      "rank": 9,
+      "name": "Meituan",
+      "ticker": "",
+      "weight": 2.88
+    },
+    {
+      "rank": 10,
+      "name": "Wipro ADR",
+      "ticker": "",
+      "weight": 2.78
+    }
+  ]
+}

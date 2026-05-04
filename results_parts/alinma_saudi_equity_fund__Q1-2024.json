@@ -1,0 +1,67 @@
+{
+  "fund_key": "alinma_saudi_equity_fund",
+  "fund": "Alinma Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi",
+      "ticker": "",
+      "weight": 17.07
+    },
+    {
+      "rank": 2,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 9.48
+    },
+    {
+      "rank": 3,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 7.62
+    },
+    {
+      "rank": 4,
+      "name": "Theeb",
+      "ticker": "",
+      "weight": 6.29
+    },
+    {
+      "rank": 5,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 6.03
+    },
+    {
+      "rank": 6,
+      "name": "Retal",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 7,
+      "name": "Zain Ksa",
+      "ticker": "",
+      "weight": 5.95
+    },
+    {
+      "rank": 8,
+      "name": "Saudi German Health",
+      "ticker": "",
+      "weight": 5.55
+    },
+    {
+      "rank": 9,
+      "name": "Tanmiah",
+      "ticker": "",
+      "weight": 5.27
+    },
+    {
+      "rank": 10,
+      "name": "Alhammadi",
+      "ticker": "",
+      "weight": 5.13
+    }
+  ]
+}

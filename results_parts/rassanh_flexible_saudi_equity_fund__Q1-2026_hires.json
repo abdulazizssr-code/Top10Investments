@@ -1,0 +1,68 @@
+{
+  "fund_key": "rassanh_flexible_saudi_equity_fund",
+  "fund": "Rassanh Flexible Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 14.75
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.25
+    },
+    {
+      "rank": 3,
+      "name": "Maaden (Saudi Arabian Mining Company)",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 4,
+      "name": "Rasan",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 6,
+      "name": "Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 7,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "Tasheel Finance",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "STC (Saudi Telecom Company)",
+      "ticker": "",
+      "weight": 3.75
+    },
+    {
+      "rank": 10,
+      "name": "ADES Holding",
+      "ticker": "",
+      "weight": 3.75
+    }
+  ],
+  "method": "highres_crop"
+}

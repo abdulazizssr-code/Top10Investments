@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_saudi_equity_active_trading_fund",
+  "fund": "SNB Capital Saudi Equity Active Trading Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alibaba Group Holding Ltd",
+      "ticker": "",
+      "weight": 8.58
+    },
+    {
+      "rank": 2,
+      "name": "Reliance Industries",
+      "ticker": "",
+      "weight": 7.28
+    },
+    {
+      "rank": 3,
+      "name": "Infosys Limited",
+      "ticker": "",
+      "weight": 6.91
+    },
+    {
+      "rank": 4,
+      "name": "Xiaomi Corp",
+      "ticker": "",
+      "weight": 6.76
+    },
+    {
+      "rank": 5,
+      "name": "Meituan Dianping",
+      "ticker": "",
+      "weight": 6.27
+    },
+    {
+      "rank": 6,
+      "name": "PDD Holdings",
+      "ticker": "",
+      "weight": 4.28
+    },
+    {
+      "rank": 7,
+      "name": "JD.com Inc",
+      "ticker": "",
+      "weight": 4.21
+    },
+    {
+      "rank": 8,
+      "name": "BYD Co",
+      "ticker": "",
+      "weight": 3.42
+    },
+    {
+      "rank": 9,
+      "name": "Wipro",
+      "ticker": "",
+      "weight": 2.88
+    },
+    {
+      "rank": 10,
+      "name": "Pop Mart International Group",
+      "ticker": "",
+      "weight": 2.71
+    }
+  ]
+}

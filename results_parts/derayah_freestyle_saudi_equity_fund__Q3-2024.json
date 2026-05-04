@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Paper Manufacturing Company",
+      "ticker": "",
+      "weight": 4.88
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.75
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.69
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Oil Company (Aramco)",
+      "ticker": "",
+      "weight": 4.59
+    },
+    {
+      "rank": 5,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 4.57
+    },
+    {
+      "rank": 6,
+      "name": "Cement Madina Company",
+      "ticker": "",
+      "weight": 4.55
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Electricity & Water Utility Company (Marafiq)",
+      "ticker": "",
+      "weight": 4.48
+    },
+    {
+      "rank": 8,
+      "name": "The Company for Cooperative Insurance (Tawuniya)",
+      "ticker": "",
+      "weight": 3.85
+    },
+    {
+      "rank": 9,
+      "name": "Mouwasat Medical Services Company",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 10,
+      "name": "Maharah Human Resources Company",
+      "ticker": "",
+      "weight": 3.48
+    }
+  ]
+}

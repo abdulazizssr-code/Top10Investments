@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.1
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 4,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 5,
+      "name": "Bank Al Bilad",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 6,
+      "name": "Bupa",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 7,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 8,
+      "name": "Abdullah Al Othaim",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 9,
+      "name": "NAHDI",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 10,
+      "name": "Bank Al Jazira",
+      "ticker": "",
+      "weight": 3.3
+    }
+  ]
+}

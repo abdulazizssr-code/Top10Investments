@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 12.02
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 11.62
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 8.99
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Electricity",
+      "ticker": "",
+      "weight": 7.71
+    },
+    {
+      "rank": 5,
+      "name": "Sisco",
+      "ticker": "",
+      "weight": 7.51
+    },
+    {
+      "rank": 6,
+      "name": "Yansab",
+      "ticker": "",
+      "weight": 6.74
+    },
+    {
+      "rank": 7,
+      "name": "Red Sea",
+      "ticker": "",
+      "weight": 6.19
+    },
+    {
+      "rank": 8,
+      "name": "Tanmiah",
+      "ticker": "",
+      "weight": 6.11
+    },
+    {
+      "rank": 9,
+      "name": "Rotana",
+      "ticker": "",
+      "weight": 6.04
+    },
+    {
+      "rank": 10,
+      "name": "Aljazira",
+      "ticker": "",
+      "weight": 6.02
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "alwatani_saudi_equity_fund",
+  "fund": "AlWatani Saudi Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "RJHI",
+      "ticker": "",
+      "weight": 10.7
+    },
+    {
+      "rank": 2,
+      "name": "ADCO",
+      "ticker": "",
+      "weight": 10.1
+    },
+    {
+      "rank": 3,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 4,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 5,
+      "name": "ARNB",
+      "ticker": "",
+      "weight": 9.2
+    },
+    {
+      "rank": 6,
+      "name": "ARAMCO",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 7,
+      "name": "MARAFIQ",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "BSFR",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 9,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "YACCO",
+      "ticker": "",
+      "weight": 3.2
+    }
+  ]
+}

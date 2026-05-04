@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_dividends_equity_fund_(shariah)",
+  "fund": "anb capital Dividends Equity Fund (Shariah)",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 9.85
+    },
+    {
+      "rank": 2,
+      "name": "SULAIMAN ALHABIB MEDICAL",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 3,
+      "name": "EMAAR DEVELOPMET",
+      "ticker": "",
+      "weight": 6.58
+    },
+    {
+      "rank": 4,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 5,
+      "name": "ALINMA BANK",
+      "ticker": "",
+      "weight": 5.24
+    },
+    {
+      "rank": 6,
+      "name": "ALMODAWAT SPECIALIZED MEDICAL",
+      "ticker": "",
+      "weight": 4.99
+    },
+    {
+      "rank": 7,
+      "name": "STC SOLUTIONS",
+      "ticker": "",
+      "weight": 4.96
+    },
+    {
+      "rank": 8,
+      "name": "ALRAJHI BANK",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 9,
+      "name": "JARIR MARKETING",
+      "ticker": "",
+      "weight": 4.78
+    },
+    {
+      "rank": 10,
+      "name": "ARAMCO BASE OIL",
+      "ticker": "",
+      "weight": 4.52
+    }
+  ]
+}

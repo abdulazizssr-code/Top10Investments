@@ -1,0 +1,68 @@
+{
+  "fund_key": "osool_and_bakheet_saudi_trading_equity_fund",
+  "fund": "Osool and Bakheet Saudi Trading Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi Bank",
+      "ticker": "",
+      "weight": 13.04
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 5.47
+    },
+    {
+      "rank": 3,
+      "name": "ACWA Power",
+      "ticker": "",
+      "weight": 4.39
+    },
+    {
+      "rank": 4,
+      "name": "STC",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.92
+    },
+    {
+      "rank": 6,
+      "name": "Jabal Omar Development",
+      "ticker": "",
+      "weight": 3.46
+    },
+    {
+      "rank": 7,
+      "name": "Masar",
+      "ticker": "",
+      "weight": 3.32
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Tadawul Group (EIC)",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 9,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 3.07
+    },
+    {
+      "rank": 10,
+      "name": "Jahez",
+      "ticker": "",
+      "weight": 3.07
+    }
+  ],
+  "method": "highres_crop"
+}

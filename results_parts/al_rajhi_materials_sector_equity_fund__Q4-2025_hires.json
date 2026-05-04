@@ -1,0 +1,68 @@
+{
+  "fund_key": "al_rajhi_materials_sector_equity_fund",
+  "fund": "Al Rajhi Materials Sector Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Mining Company (Ma'aden)",
+      "ticker": "",
+      "weight": 19.9
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabia Fertilizers Co. (SAFCO)",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Basic Industries Corp (SABIC)",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Kayan Petrochemical Company",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 6,
+      "name": "Yanbu National Petrochemical Company",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 7,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 8,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "Saudi International Petrochemical Company (Sipchem)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "The National Shipping Company of Saudi Arabia (Bahri)",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ],
+  "method": "highres_crop"
+}

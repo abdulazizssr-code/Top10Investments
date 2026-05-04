@@ -1,0 +1,67 @@
+{
+  "fund_key": "rassanh_flexible_saudi_equity_fund",
+  "fund": "Rassanh Flexible Saudi Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 15.2
+    },
+    {
+      "rank": 2,
+      "name": "SULAIMAN ALHABIB",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 3,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 4,
+      "name": "BJAZ",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 5,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 6,
+      "name": "Nice One",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 7,
+      "name": "ACWA POWER",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 8,
+      "name": "ALARABIA",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 9,
+      "name": "YSCC",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 10,
+      "name": "JAMJOOM PHARMA",
+      "ticker": "",
+      "weight": 4.1
+    }
+  ]
+}

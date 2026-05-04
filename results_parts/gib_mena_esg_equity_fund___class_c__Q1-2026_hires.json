@@ -1,0 +1,68 @@
+{
+  "fund_key": "gib_mena_esg_equity_fund___class_c",
+  "fund": "GIB MENA ESG Equity Fund - Class C",
+  "quarter": "Q1-2026",
+  "method": "claude_code",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI BANK",
+      "weight": 10.3,
+      "estimated": true
+    },
+    {
+      "rank": 2,
+      "name": "THE SAUDI NATIONAL BANK",
+      "weight": 7.2,
+      "estimated": true
+    },
+    {
+      "rank": 3,
+      "name": "MIDDLE EAST SPECIALIZED CABLES",
+      "weight": 4.8,
+      "estimated": true
+    },
+    {
+      "rank": 4,
+      "name": "COMPANY FOR COOPERATIVE INSURANCE",
+      "weight": 4.5,
+      "estimated": true
+    },
+    {
+      "rank": 5,
+      "name": "RIYADH CABLES GROUP CO",
+      "weight": 4.3,
+      "estimated": true
+    },
+    {
+      "rank": 6,
+      "name": "SAUDI RE FOR COOPERATIVE REINSURANCE",
+      "weight": 3.9,
+      "estimated": true
+    },
+    {
+      "rank": 7,
+      "name": "JAMJOOM PHARMACEUTICALS FACTORY",
+      "weight": 3.8,
+      "estimated": true
+    },
+    {
+      "rank": 8,
+      "name": "ALDREES PETROLEUM AND TRANSPORT SERVICES",
+      "weight": 3.5,
+      "estimated": true
+    },
+    {
+      "rank": 9,
+      "name": "PRESIGHT AI HOLDING PLC",
+      "weight": 3.2,
+      "estimated": true
+    },
+    {
+      "rank": 10,
+      "name": "NATIONAL MEDICAL CARE CO",
+      "weight": 3.2,
+      "estimated": true
+    }
+  ]
+}

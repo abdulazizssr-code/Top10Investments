@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Andalus Property",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 2,
+      "name": "Leejam Sports (Fitness Time)",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 4,
+      "name": "Alif Meem Yaa (AMY)",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 6,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 7,
+      "name": "SAL Saudi Logistics Services",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Gas",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 9,
+      "name": "Saudi German Health",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "Al Mahafza for Education",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ]
+}

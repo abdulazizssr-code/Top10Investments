@@ -1,0 +1,67 @@
+{
+  "fund_key": "rassanh_flexible_saudi_equity_fund",
+  "fund": "Rassanh Flexible Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 10.3
+    },
+    {
+      "rank": 2,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 3,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 4,
+      "name": "CHEMANOL",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 5,
+      "name": "SIPCHEM",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 6,
+      "name": "ZAIN KSA",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 7,
+      "name": "TASNEE",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 8,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 9,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 10,
+      "name": "SPM",
+      "ticker": "",
+      "weight": 5.6
+    }
+  ]
+}

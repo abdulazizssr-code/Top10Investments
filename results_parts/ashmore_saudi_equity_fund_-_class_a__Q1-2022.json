@@ -1,0 +1,67 @@
+{
+  "fund_key": "ashmore_saudi_equity_fund_-_class_a",
+  "fund": "Ashmore Saudi Equity Fund - Class A",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.74
+    },
+    {
+      "rank": 2,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 9.41
+    },
+    {
+      "rank": 3,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 8.63
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 8.3
+    },
+    {
+      "rank": 5,
+      "name": "Al Hammadi Development And Investment Co",
+      "ticker": "",
+      "weight": 7.27
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Electricity Co",
+      "ticker": "",
+      "weight": 6.11
+    },
+    {
+      "rank": 8,
+      "name": "Aldrees Petroleum Operates G",
+      "ticker": "",
+      "weight": 5.83
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Ind Investment Group",
+      "ticker": "",
+      "weight": 3.55
+    },
+    {
+      "rank": 10,
+      "name": "Leejam Sports Co Jsc",
+      "ticker": "",
+      "weight": 3.46
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "fund_key": "bmk_saudi_freestyle_equity_fund_sharia_compliant",
+  "fund": "BMK Saudi Freestyle Equity Fund Sharia Compliant",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 13.3
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Oil",
+      "ticker": "",
+      "weight": 11.71,
+      "estimated": true
+    },
+    {
+      "rank": 3,
+      "name": "DR. Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 9.2
+    },
+    {
+      "rank": 4,
+      "name": "Riyad Cement",
+      "ticker": "",
+      "weight": 10.73,
+      "estimated": true
+    },
+    {
+      "rank": 5,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 6,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 9.76,
+      "estimated": true
+    },
+    {
+      "rank": 7,
+      "name": "Marafiq",
+      "ticker": "",
+      "weight": 9.27,
+      "estimated": true
+    },
+    {
+      "rank": 8,
+      "name": "Telecom",
+      "ticker": "",
+      "weight": 8.78,
+      "estimated": true
+    },
+    {
+      "rank": 9,
+      "name": "Bank Al Bilad",
+      "ticker": "",
+      "weight": 8.29,
+      "estimated": true
+    },
+    {
+      "rank": 10,
+      "name": "BMK Saudi Freestyle Equity Fund",
+      "ticker": "",
+      "weight": 3.7
+    }
+  ]
+}

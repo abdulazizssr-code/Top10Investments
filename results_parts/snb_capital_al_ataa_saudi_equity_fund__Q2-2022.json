@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_al_ataa_saudi_equity_fund",
+  "fund": "SNB Capital Al Ataa Saudi Equity Fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.72
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 8.49
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 7.09
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 6.98
+    },
+    {
+      "rank": 5,
+      "name": "Bank AlBilad",
+      "ticker": "",
+      "weight": 5.99
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 5.85
+    },
+    {
+      "rank": 7,
+      "name": "ACWA Power Co",
+      "ticker": "",
+      "weight": 4.78
+    },
+    {
+      "rank": 8,
+      "name": "United Electronics Co",
+      "ticker": "",
+      "weight": 4.23
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 4.12
+    },
+    {
+      "rank": 10,
+      "name": "Sipchem",
+      "ticker": "",
+      "weight": 3.92
+    }
+  ]
+}

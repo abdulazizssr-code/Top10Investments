@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_gcc_growth_and_income_equity_fund",
+  "fund": "Derayah GCC Growth and Income Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Emaar Properties",
+      "ticker": "",
+      "weight": 5.91
+    },
+    {
+      "rank": 2,
+      "name": "IIB",
+      "ticker": "",
+      "weight": 5.37
+    },
+    {
+      "rank": 3,
+      "name": "AMMOC",
+      "ticker": "",
+      "weight": 5.04
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Paper Manufacturing",
+      "ticker": "",
+      "weight": 4.99
+    },
+    {
+      "rank": 5,
+      "name": "CABK",
+      "ticker": "",
+      "weight": 4.51
+    },
+    {
+      "rank": 6,
+      "name": "East Pipes Integrated",
+      "ticker": "",
+      "weight": 4.29
+    },
+    {
+      "rank": 7,
+      "name": "Riyad Finance House",
+      "ticker": "",
+      "weight": 3.87
+    },
+    {
+      "rank": 8,
+      "name": "City Cement",
+      "ticker": "",
+      "weight": 3.77
+    },
+    {
+      "rank": 9,
+      "name": "NESCC",
+      "ticker": "",
+      "weight": 3.52
+    },
+    {
+      "rank": 10,
+      "name": "Tasnee Cement",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ]
+}

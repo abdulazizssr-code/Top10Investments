@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_saudi_equity_income_fund",
+  "fund": "Albilad Saudi Equity Income Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Dr. Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 2,
+      "name": "Amlak International",
+      "ticker": "",
+      "weight": 8.2
+    },
+    {
+      "rank": 3,
+      "name": "Almutawera (Mutaweera)",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 4,
+      "name": "Al Jazira",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Ground Services",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 7,
+      "name": "SAICO",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 8,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 9,
+      "name": "Avid",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

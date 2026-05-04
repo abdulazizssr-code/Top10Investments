@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_c",
+  "fund": "GIB Saudi Equity Fund - Class C",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.8
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 3,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 4,
+      "name": "SAFCO",
+      "ticker": "",
+      "weight": 8.7
+    },
+    {
+      "rank": 5,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 6,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 7,
+      "name": "Chemanol",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Kayan",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 9,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 10,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.2
+    }
+  ]
+}

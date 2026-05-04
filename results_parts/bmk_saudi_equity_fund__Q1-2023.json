@@ -1,0 +1,67 @@
+{
+  "fund_key": "bmk_saudi_equity_fund",
+  "fund": "BMK Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "KNOWLEDGENET",
+      "ticker": "",
+      "weight": 9.36
+    },
+    {
+      "rank": 2,
+      "name": "Arabian Drilling",
+      "ticker": "",
+      "weight": 7.87
+    },
+    {
+      "rank": 3,
+      "name": "MARAFIQ",
+      "ticker": "",
+      "weight": 4.54
+    },
+    {
+      "rank": 4,
+      "name": "Riyadh Cement",
+      "ticker": "",
+      "weight": 3.62
+    },
+    {
+      "rank": 5,
+      "name": "Watani Iron Steel",
+      "ticker": "",
+      "weight": 3.32
+    },
+    {
+      "rank": 6,
+      "name": "LUBEREF",
+      "ticker": "",
+      "weight": 2.98
+    },
+    {
+      "rank": 7,
+      "name": "Nofoth",
+      "ticker": "",
+      "weight": 2.46
+    },
+    {
+      "rank": 8,
+      "name": "TIBBIYAH",
+      "ticker": "",
+      "weight": 2.2
+    },
+    {
+      "rank": 9,
+      "name": "ALSAIF GALLERY",
+      "ticker": "",
+      "weight": 1.96
+    },
+    {
+      "rank": 10,
+      "name": "ALBABTAIN FOOD",
+      "ticker": "",
+      "weight": 1.73
+    }
+  ]
+}

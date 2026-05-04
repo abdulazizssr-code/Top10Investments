@@ -1,0 +1,68 @@
+{
+  "fund_key": "artal_saudi_equity_freestyle_fund_(class_a)",
+  "fund": "Artal Saudi Equity Freestyle Fund (Class A)",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AlRajhi Bank",
+      "ticker": "",
+      "weight": 19.87
+    },
+    {
+      "rank": 2,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 9.05
+    },
+    {
+      "rank": 3,
+      "name": "Advanced Petrochemical",
+      "ticker": "",
+      "weight": 7.52
+    },
+    {
+      "rank": 4,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 7.23
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 6.43
+    },
+    {
+      "rank": 6,
+      "name": "Theeb",
+      "ticker": "",
+      "weight": 5.41
+    },
+    {
+      "rank": 7,
+      "name": "Zamil",
+      "ticker": "",
+      "weight": 4.58
+    },
+    {
+      "rank": 8,
+      "name": "Al Drees",
+      "ticker": "",
+      "weight": 4.44
+    },
+    {
+      "rank": 9,
+      "name": "Astra",
+      "ticker": "",
+      "weight": 4.28
+    },
+    {
+      "rank": 10,
+      "name": "Albilad Bank",
+      "ticker": "",
+      "weight": 3.97
+    }
+  ],
+  "method": "highres_crop"
+}

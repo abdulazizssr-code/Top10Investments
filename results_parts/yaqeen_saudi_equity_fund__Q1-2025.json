@@ -1,0 +1,67 @@
+{
+  "fund_key": "yaqeen_saudi_equity_fund",
+  "fund": "YAQEEN Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 19.5
+    },
+    {
+      "rank": 2,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 3,
+      "name": "ALBILAD",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 4,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 5,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 6,
+      "name": "SIPCHEM",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 7,
+      "name": "THEEB",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 8,
+      "name": "ATHEEB TELECOM",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 9,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 10,
+      "name": "AMAK",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

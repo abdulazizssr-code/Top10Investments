@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund___class_(c)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (C)",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.0
+    },
+    {
+      "rank": 2,
+      "name": "ACWA Power Company",
+      "ticker": "",
+      "weight": 10.0
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum and Transport Services Company",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 4,
+      "name": "United International Transportation Company (Budget Saudi)",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 5,
+      "name": "Bupa Arabia for Cooperative Insurance",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 6,
+      "name": "The Company for Cooperative Insurance (Tawuniya)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "Al Hassan Ghazi Ibrahim Shaker Company",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Reinsurance Company (Saudi Re)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 9,
+      "name": "Riyadh Cables Group Company",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.5
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ADES HOLDING CO",
+      "ticker": "",
+      "weight": 9.56
+    },
+    {
+      "rank": 2,
+      "name": "CHEMICAL",
+      "ticker": "",
+      "weight": 9.44
+    },
+    {
+      "rank": 3,
+      "name": "SPM",
+      "ticker": "",
+      "weight": 8.12
+    },
+    {
+      "rank": 4,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 7.14
+    },
+    {
+      "rank": 5,
+      "name": "ZOUJAJ",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 6,
+      "name": "AWPT",
+      "ticker": "",
+      "weight": 5.17
+    },
+    {
+      "rank": 7,
+      "name": "TANMIAH",
+      "ticker": "",
+      "weight": 4.98
+    },
+    {
+      "rank": 8,
+      "name": "Al Mawarid Manpower Co.",
+      "ticker": "",
+      "weight": 4.05
+    },
+    {
+      "rank": 9,
+      "name": "EAST PIPES",
+      "ticker": "",
+      "weight": 3.97
+    },
+    {
+      "rank": 10,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 3.89
+    }
+  ]
+}

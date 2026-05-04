@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.06
+    },
+    {
+      "rank": 2,
+      "name": "Bank",
+      "ticker": "",
+      "weight": 7.91
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 4,
+      "name": "Al Arabi",
+      "ticker": "",
+      "weight": 6.32
+    },
+    {
+      "rank": 5,
+      "name": "Al Bilad",
+      "ticker": "",
+      "weight": 5.68
+    },
+    {
+      "rank": 6,
+      "name": "Al Islamiyah",
+      "ticker": "",
+      "weight": 5.67
+    },
+    {
+      "rank": 7,
+      "name": "Hadeed",
+      "ticker": "",
+      "weight": 5.58
+    },
+    {
+      "rank": 8,
+      "name": "Chemicals",
+      "ticker": "",
+      "weight": 5.52
+    },
+    {
+      "rank": 9,
+      "name": "Bank",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 10,
+      "name": "Al Iqtisadiyah",
+      "ticker": "",
+      "weight": 4.99
+    }
+  ]
+}

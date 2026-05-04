@@ -1,0 +1,67 @@
+{
+  "fund_key": "sico_kingdom_equity_fund___class_b",
+  "fund": "SICO Kingdom Equity Fund - Class B",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.28
+    },
+    {
+      "rank": 2,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 8.98
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Mining Co (Ma'aden)",
+      "ticker": "",
+      "weight": 4.16
+    },
+    {
+      "rank": 4,
+      "name": "Rasan",
+      "ticker": "",
+      "weight": 2.89
+    },
+    {
+      "rank": 5,
+      "name": "Retal",
+      "ticker": "",
+      "weight": 3.14
+    },
+    {
+      "rank": 6,
+      "name": "Etihad Etisalat Co (Mobily)",
+      "ticker": "",
+      "weight": 3.49
+    },
+    {
+      "rank": 7,
+      "name": "ACES Holding Co",
+      "ticker": "",
+      "weight": 3.58
+    },
+    {
+      "rank": 8,
+      "name": "Almarai Co",
+      "ticker": "",
+      "weight": 2.56
+    },
+    {
+      "rank": 9,
+      "name": "United International Transportation Co (Budget Saudi)",
+      "ticker": "",
+      "weight": 2.77
+    },
+    {
+      "rank": 10,
+      "name": "Al Masane Al Kobra Mining Co (AMAK)",
+      "ticker": "",
+      "weight": 2.83
+    }
+  ]
+}

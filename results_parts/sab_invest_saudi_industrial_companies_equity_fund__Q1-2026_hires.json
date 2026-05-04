@@ -1,0 +1,68 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 12.59
+    },
+    {
+      "rank": 2,
+      "name": "ADES Holding Co",
+      "ticker": "",
+      "weight": 9.16
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 8.88
+    },
+    {
+      "rank": 4,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 6.17
+    },
+    {
+      "rank": 5,
+      "name": "Riyadh Cables",
+      "ticker": "",
+      "weight": 5.22
+    },
+    {
+      "rank": 6,
+      "name": "AMAK",
+      "ticker": "",
+      "weight": 5.11
+    },
+    {
+      "rank": 7,
+      "name": "East Pipes",
+      "ticker": "",
+      "weight": 5.05
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Cable",
+      "ticker": "",
+      "weight": 4.34
+    },
+    {
+      "rank": 9,
+      "name": "Zamil Industrial",
+      "ticker": "",
+      "weight": 3.99
+    },
+    {
+      "rank": 10,
+      "name": "ACWA Power",
+      "ticker": "",
+      "weight": 3.58
+    }
+  ],
+  "method": "highres_crop"
+}

@@ -1,0 +1,68 @@
+{
+  "fund_key": "al_yusr_saudi_equity_fund",
+  "fund": "Al Yusr Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAB Murabaha Deposit",
+      "ticker": "",
+      "weight": 27.48
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 21.24
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 7.23
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 5.74
+    },
+    {
+      "rank": 5,
+      "name": "STC",
+      "ticker": "",
+      "weight": 5.32
+    },
+    {
+      "rank": 6,
+      "name": "Bahri",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 7,
+      "name": "Albabtain",
+      "ticker": "",
+      "weight": 3.84
+    },
+    {
+      "rank": 8,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.76
+    },
+    {
+      "rank": 9,
+      "name": "Jamjoom Fashion Trading Co",
+      "ticker": "",
+      "weight": 3.6
+    },
+    {
+      "rank": 10,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 3.02
+    }
+  ],
+  "method": "highres_crop"
+}

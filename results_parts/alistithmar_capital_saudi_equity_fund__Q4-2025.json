@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_saudi_equity_fund",
+  "fund": "Alistithmar Capital Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 13.81
+    },
+    {
+      "rank": 2,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 6.19
+    },
+    {
+      "rank": 3,
+      "name": "ARAMCO",
+      "ticker": "",
+      "weight": 6.09
+    },
+    {
+      "rank": 4,
+      "name": "ANB",
+      "ticker": "",
+      "weight": 4.35
+    },
+    {
+      "rank": 5,
+      "name": "SGS",
+      "ticker": "",
+      "weight": 4.33
+    },
+    {
+      "rank": 6,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 4.16
+    },
+    {
+      "rank": 7,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 3.93
+    },
+    {
+      "rank": 8,
+      "name": "Almasane Alkobra",
+      "ticker": "",
+      "weight": 3.35
+    },
+    {
+      "rank": 9,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 3.35
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Real Estate Co",
+      "ticker": "",
+      "weight": 2.79
+    }
+  ]
+}

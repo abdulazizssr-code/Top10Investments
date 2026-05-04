@@ -1,0 +1,67 @@
+{
+  "fund_key": "yaqeen_saudi_equity_fund",
+  "fund": "YAQEEN Saudi Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 17.0
+    },
+    {
+      "rank": 2,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 3,
+      "name": "ALBILAD",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 4,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 5,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 7,
+      "name": "ARABIAN DRILLING",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "UIHC",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 9,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 10,
+      "name": "THEEB",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

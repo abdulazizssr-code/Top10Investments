@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_yusr_saudi_equity_fund",
+  "fund": "Al Yusr Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 7.86
+    },
+    {
+      "rank": 2,
+      "name": "SAUDI RE",
+      "ticker": "",
+      "weight": 7.24
+    },
+    {
+      "rank": 3,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 7.03
+    },
+    {
+      "rank": 4,
+      "name": "ALMARAI",
+      "ticker": "",
+      "weight": 6.96
+    },
+    {
+      "rank": 5,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 6.96
+    },
+    {
+      "rank": 6,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 6.53
+    },
+    {
+      "rank": 7,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 5.62
+    },
+    {
+      "rank": 8,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 4.89
+    },
+    {
+      "rank": 9,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 4.59
+    },
+    {
+      "rank": 10,
+      "name": "SAVOLA GROUP",
+      "ticker": "",
+      "weight": 3.86
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 37.7
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.9
+    },
+    {
+      "rank": 3,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 4,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 5,
+      "name": "Dr. Sulaiman Al-Habib Medical Services",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 6,
+      "name": "Elm Company",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 7,
+      "name": "Eastern Province Cement",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Kayan Petrochemical",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Cable Company",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

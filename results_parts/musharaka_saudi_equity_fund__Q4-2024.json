@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AME (Alef Meem Ya)",
+      "ticker": "",
+      "weight": 11.7
+    },
+    {
+      "rank": 2,
+      "name": "Alandalus Property",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 4,
+      "name": "STC",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 5,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 6,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 7,
+      "name": "TALCO",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 8,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 9,
+      "name": "Mobile Telecommunications (Zain)",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 10,
+      "name": "SAL Saudi Logistics",
+      "ticker": "",
+      "weight": 5.7
+    }
+  ]
+}

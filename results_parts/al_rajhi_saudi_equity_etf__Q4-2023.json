@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity_etf",
+  "fund": "Al Rajhi Saudi Equity ETF",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "RIYAD BANK TIER 1 SUKUK",
+      "ticker": "",
+      "weight": 27.25
+    },
+    {
+      "rank": 2,
+      "name": "Jadwa REIT Saudi Fund",
+      "ticker": "",
+      "weight": 9.21
+    },
+    {
+      "rank": 3,
+      "name": "AL Maather REIT Fund",
+      "ticker": "",
+      "weight": 9.01
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Hospitality REIT Fund",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 6.51
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 6.48
+    },
+    {
+      "rank": 7,
+      "name": "Al Rajhi Saving and Liquidity Fund - SAR",
+      "ticker": "",
+      "weight": 5.47
+    },
+    {
+      "rank": 8,
+      "name": "Riyad Financing Fund III",
+      "ticker": "",
+      "weight": 5.23
+    },
+    {
+      "rank": 9,
+      "name": "Al Rajhi Advanced Saving Fund",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 10,
+      "name": "SEDCO Capital REIT Fund",
+      "ticker": "",
+      "weight": 4.67
+    }
+  ]
+}

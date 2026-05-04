@@ -1,0 +1,67 @@
+{
+  "fund_key": "quencia_saudi_equity_fund_-_class_a",
+  "fund": "Quencia Saudi Equity Fund - Class A",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.4
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 3,
+      "name": "ALMASAR ALSHAMIL",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 4,
+      "name": "Almasane Alkobra Mining Co.",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 5,
+      "name": "ACWA POWER Co.",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabian Mining Co.",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 8,
+      "name": "Middle East Specialized Cables Co.",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 9,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "National Medical Care Co.",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

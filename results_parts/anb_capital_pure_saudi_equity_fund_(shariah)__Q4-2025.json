@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.53
+    },
+    {
+      "rank": 2,
+      "name": "Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 8.36
+    },
+    {
+      "rank": 3,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 7.23
+    },
+    {
+      "rank": 4,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 7.07
+    },
+    {
+      "rank": 5,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 6.18
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.07
+    },
+    {
+      "rank": 7,
+      "name": "Jabal Omar Development",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 8,
+      "name": "Flynas",
+      "ticker": "",
+      "weight": 3.55
+    },
+    {
+      "rank": 9,
+      "name": "Jamjoom Pharma",
+      "ticker": "",
+      "weight": 3.45
+    },
+    {
+      "rank": 10,
+      "name": "Middle East Pharmaceutical Industries (Avalon Pharma)",
+      "ticker": "",
+      "weight": 3.44
+    }
+  ]
+}

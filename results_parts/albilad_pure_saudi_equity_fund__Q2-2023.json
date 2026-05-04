@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 17.59
+    },
+    {
+      "rank": 2,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 10.57
+    },
+    {
+      "rank": 3,
+      "name": "Othaim Markets",
+      "ticker": "",
+      "weight": 8.21
+    },
+    {
+      "rank": 4,
+      "name": "Albilad Diversified SAR Fund",
+      "ticker": "",
+      "weight": 7.21
+    },
+    {
+      "rank": 5,
+      "name": "Catering",
+      "ticker": "",
+      "weight": 6.29
+    },
+    {
+      "rank": 6,
+      "name": "SISCO",
+      "ticker": "",
+      "weight": 4.76
+    },
+    {
+      "rank": 7,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 8,
+      "name": "Tanmiah",
+      "ticker": "",
+      "weight": 3.99
+    },
+    {
+      "rank": 9,
+      "name": "Solutions",
+      "ticker": "",
+      "weight": 3.85
+    },
+    {
+      "rank": 10,
+      "name": "Electrical Industries",
+      "ticker": "",
+      "weight": 3.71
+    }
+  ]
+}

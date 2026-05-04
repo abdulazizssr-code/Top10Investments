@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_financial_institutions_equity_fund",
+  "fund": "SAB Invest Saudi Financial Institutions Equity Fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 19.19
+    },
+    {
+      "rank": 2,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 18.25
+    },
+    {
+      "rank": 3,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 9.47
+    },
+    {
+      "rank": 4,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 9.43
+    },
+    {
+      "rank": 5,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 9.14
+    },
+    {
+      "rank": 6,
+      "name": "ALBILAD",
+      "ticker": "",
+      "weight": 8.95
+    },
+    {
+      "rank": 7,
+      "name": "BSFR",
+      "ticker": "",
+      "weight": 8.44
+    },
+    {
+      "rank": 8,
+      "name": "ANB",
+      "ticker": "",
+      "weight": 5.48
+    },
+    {
+      "rank": 9,
+      "name": "SAIB",
+      "ticker": "",
+      "weight": 4.89
+    },
+    {
+      "rank": 10,
+      "name": "TADAWUL GROUP",
+      "ticker": "",
+      "weight": 3.09
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "dinar_saudi_equity_fund",
+  "fund": "Dinar Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.23
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.48
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 4.49
+    },
+    {
+      "rank": 4,
+      "name": "National Medical Care Company",
+      "ticker": "",
+      "weight": 4.45
+    },
+    {
+      "rank": 5,
+      "name": "Astra Industrial Group",
+      "ticker": "",
+      "weight": 4.32
+    },
+    {
+      "rank": 6,
+      "name": "The National Shipping Company of Saudi Arabia (Bahri)",
+      "ticker": "",
+      "weight": 3.83
+    },
+    {
+      "rank": 7,
+      "name": "Mouwasat Medical Services Company",
+      "ticker": "",
+      "weight": 3.31
+    },
+    {
+      "rank": 8,
+      "name": "Maharah Human Resources Company",
+      "ticker": "",
+      "weight": 3.29
+    },
+    {
+      "rank": 9,
+      "name": "United International Transportation Company (Budget Saudi)",
+      "ticker": "",
+      "weight": 3.28
+    },
+    {
+      "rank": 10,
+      "name": "SABIC Agri-Nutrients Company",
+      "ticker": "",
+      "weight": 3.02
+    }
+  ]
+}

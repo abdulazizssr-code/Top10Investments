@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_al_ataa_saudi_equity_fund",
+  "fund": "SNB Capital Al Ataa Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.77
+    },
+    {
+      "rank": 2,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 7.46
+    },
+    {
+      "rank": 3,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 6.82
+    },
+    {
+      "rank": 4,
+      "name": "National Industrialization Co",
+      "ticker": "",
+      "weight": 6.17
+    },
+    {
+      "rank": 5,
+      "name": "Rasan Information Technology",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 6,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 5.26
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 8,
+      "name": "Aldrees Petroleum and Transport Services Co",
+      "ticker": "",
+      "weight": 4.77
+    },
+    {
+      "rank": 9,
+      "name": "National Shipping Co of the Saudi Arabia (Bahri)",
+      "ticker": "",
+      "weight": 4.13
+    },
+    {
+      "rank": 10,
+      "name": "Arriyadh Development Company",
+      "ticker": "",
+      "weight": 3.7
+    }
+  ]
+}

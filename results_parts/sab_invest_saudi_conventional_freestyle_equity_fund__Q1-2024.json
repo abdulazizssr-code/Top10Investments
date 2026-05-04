@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_conventional_freestyle_equity_fund",
+  "fund": "SAB Invest Saudi Conventional Freestyle Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ADES HOLDING CO",
+      "ticker": "",
+      "weight": 9.12
+    },
+    {
+      "rank": 2,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 3,
+      "name": "NADEC",
+      "ticker": "",
+      "weight": 7.75
+    },
+    {
+      "rank": 4,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 5,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 7.18
+    },
+    {
+      "rank": 6,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 7.09
+    },
+    {
+      "rank": 7,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 6.83
+    },
+    {
+      "rank": 8,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 6.05
+    },
+    {
+      "rank": 9,
+      "name": "ALARABIA",
+      "ticker": "",
+      "weight": 5.74
+    },
+    {
+      "rank": 10,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 3.71
+    }
+  ]
+}

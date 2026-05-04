@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Saudi Equity Fund (Shariah)",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi Bank",
+      "ticker": "",
+      "weight": 13.38
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 8.48
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Company",
+      "ticker": "",
+      "weight": 6.34
+    },
+    {
+      "rank": 4,
+      "name": "STC Solutions",
+      "ticker": "",
+      "weight": 5.27
+    },
+    {
+      "rank": 5,
+      "name": "Tawuniya Insurance",
+      "ticker": "",
+      "weight": 5.17
+    },
+    {
+      "rank": 6,
+      "name": "Sulaiman Alhabib Medical",
+      "ticker": "",
+      "weight": 5.17
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 5.13
+    },
+    {
+      "rank": 8,
+      "name": "Seera Holding",
+      "ticker": "",
+      "weight": 4.86
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Airlines Catering",
+      "ticker": "",
+      "weight": 4.42
+    },
+    {
+      "rank": 10,
+      "name": "Lumi Rentals",
+      "ticker": "",
+      "weight": 4.16
+    }
+  ]
+}

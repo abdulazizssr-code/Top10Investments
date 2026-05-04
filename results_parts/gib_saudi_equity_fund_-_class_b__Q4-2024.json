@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_b",
+  "fund": "GIB Saudi Equity Fund - Class B",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 16.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 3,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 4,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 5,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 6,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 7,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.6
+    },
+    {
+      "rank": 9,
+      "name": "Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 10,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 3.3
+    }
+  ]
+}

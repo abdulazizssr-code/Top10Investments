@@ -1,0 +1,68 @@
+{
+  "fund_key": "sab_invest_gcc_conventional_equity_fund",
+  "fund": "SAB Invest GCC Conventional Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.03
+    },
+    {
+      "rank": 2,
+      "name": "Mobile Telecommunications Co K (Zain Kuwait)",
+      "ticker": "",
+      "weight": 4.02
+    },
+    {
+      "rank": 3,
+      "name": "National Bank of Kuwait SAKP",
+      "ticker": "",
+      "weight": 3.93
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 3.92
+    },
+    {
+      "rank": 5,
+      "name": "Jamjoom Fashion Trading Co",
+      "ticker": "",
+      "weight": 3.87
+    },
+    {
+      "rank": 6,
+      "name": "Emirates Telecommunications Group (e&)",
+      "ticker": "",
+      "weight": 3.87
+    },
+    {
+      "rank": 7,
+      "name": "Albabtain",
+      "ticker": "",
+      "weight": 3.66
+    },
+    {
+      "rank": 8,
+      "name": "Abu Dhabi Islamic Bank PJSC",
+      "ticker": "",
+      "weight": 3.47
+    },
+    {
+      "rank": 9,
+      "name": "Abu Dhabi Ports",
+      "ticker": "",
+      "weight": 3.43
+    },
+    {
+      "rank": 10,
+      "name": "Bank Muscat",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ],
+  "method": "highres_crop"
+}

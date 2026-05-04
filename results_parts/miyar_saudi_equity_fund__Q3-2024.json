@@ -1,0 +1,61 @@
+{
+  "fund_key": "miyar_saudi_equity_fund",
+  "fund": "Miyar Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAL (Saudi Logistics Services)",
+      "ticker": "",
+      "weight": 8
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 3,
+      "name": "ARDS",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 4,
+      "name": "SNAACO",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 5,
+      "name": "Tadawul",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 6,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 7,
+      "name": "Luberef",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 8,
+      "name": "SPIMACO",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 9,
+      "name": "Solutions",
+      "ticker": "",
+      "weight": 5
+    }
+  ]
+}

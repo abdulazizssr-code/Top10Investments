@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(b)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (B)",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank (RJHI)",
+      "ticker": "",
+      "weight": 14.0
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank (ALINMA)",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat - Mobily (EEC)",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "Advanced Petrochemical Company (APPC)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "Al Hassan Ghazi Ibrahim Shaker (SHAKER)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Industrial Investment Group (SIIG)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 7,
+      "name": "Astra Industrial Group (ASTRA)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Ground Services (SGS)",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "AWPT",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Ataa Educational Company (ATAA)",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

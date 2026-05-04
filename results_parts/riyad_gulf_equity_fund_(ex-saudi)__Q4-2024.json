@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_gulf_equity_fund_(ex-saudi)",
+  "fund": "Riyad Gulf Equity Fund (ex-Saudi)",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Emaar Properties PJSC",
+      "ticker": "",
+      "weight": 13.05
+    },
+    {
+      "rank": 2,
+      "name": "Emirates Telecommunications Group",
+      "ticker": "",
+      "weight": 7.79
+    },
+    {
+      "rank": 3,
+      "name": "Qatar Islamic Bank SAQ Ord",
+      "ticker": "",
+      "weight": 5.62
+    },
+    {
+      "rank": 4,
+      "name": "Industries Qatar Ord",
+      "ticker": "",
+      "weight": 5.31
+    },
+    {
+      "rank": 5,
+      "name": "Aldar Properties PJSC Ord",
+      "ticker": "",
+      "weight": 4.48
+    },
+    {
+      "rank": 6,
+      "name": "Dubai Electricity & Water Authority",
+      "ticker": "",
+      "weight": 3.89
+    },
+    {
+      "rank": 7,
+      "name": "Dubai Islamic Bank Ord",
+      "ticker": "",
+      "weight": 3.87
+    },
+    {
+      "rank": 8,
+      "name": "Abu Dhabi Islamic Bank PJSC Ord",
+      "ticker": "",
+      "weight": 3.49
+    },
+    {
+      "rank": 9,
+      "name": "Emaar Development PJSC Ord",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 10,
+      "name": "Masraf Al Rayan Ord",
+      "ticker": "",
+      "weight": 2.71
+    }
+  ]
+}

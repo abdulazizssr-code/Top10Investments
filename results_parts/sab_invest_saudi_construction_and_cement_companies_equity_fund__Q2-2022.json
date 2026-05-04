@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_construction_and_cement_companies_equity_fund",
+  "fund": "SAB Invest Saudi Construction and Cement Companies Equity Fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Najran Cement Company",
+      "ticker": "",
+      "weight": 9.99
+    },
+    {
+      "rank": 2,
+      "name": "City Cement Company",
+      "ticker": "",
+      "weight": 9.9
+    },
+    {
+      "rank": 3,
+      "name": "Southern Province Cement",
+      "ticker": "",
+      "weight": 9.86
+    },
+    {
+      "rank": 4,
+      "name": "Bawan Co",
+      "ticker": "",
+      "weight": 9.45
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Cement",
+      "ticker": "",
+      "weight": 8.38
+    },
+    {
+      "rank": 6,
+      "name": "Arabian Cement",
+      "ticker": "",
+      "weight": 8.28
+    },
+    {
+      "rank": 7,
+      "name": "Qassim Cement",
+      "ticker": "",
+      "weight": 7.63
+    },
+    {
+      "rank": 8,
+      "name": "Yamamah Saudi Cement",
+      "ticker": "",
+      "weight": 7.62
+    },
+    {
+      "rank": 9,
+      "name": "Hail Cement Co",
+      "ticker": "",
+      "weight": 7.15
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Ceramic",
+      "ticker": "",
+      "weight": 5.95
+    }
+  ]
+}

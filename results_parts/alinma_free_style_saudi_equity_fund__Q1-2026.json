@@ -1,0 +1,67 @@
+{
+  "fund_key": "alinma_free_style_saudi_equity_fund",
+  "fund": "Alinma Free-Style Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.0
+    },
+    {
+      "rank": 2,
+      "name": "The Company for Cooperative Insurance (Tawuniya)",
+      "ticker": "",
+      "weight": 8.4
+    },
+    {
+      "rank": 3,
+      "name": "Alkhorayef Water and Power Technologies",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 4,
+      "name": "ACWA Power",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 5,
+      "name": "Bawan",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 6,
+      "name": "Maharah Human Resources",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Automotive Services Company (SASCO)",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 8,
+      "name": "Etihad Atheeb Telecommunications (GO Telecom)",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 9,
+      "name": "Tamasel",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 10,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 5.3
+    }
+  ]
+}

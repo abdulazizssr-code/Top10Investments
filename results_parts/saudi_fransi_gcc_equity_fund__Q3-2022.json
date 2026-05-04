@@ -1,0 +1,67 @@
+{
+  "fund_key": "saudi_fransi_gcc_equity_fund",
+  "fund": "Saudi Fransi GCC Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 13.15
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 8.73
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 6.34
+    },
+    {
+      "rank": 4,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 6.26
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Oil",
+      "ticker": "",
+      "weight": 6.24
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 7,
+      "name": "Arab National Bank",
+      "ticker": "",
+      "weight": 5.81
+    },
+    {
+      "rank": 8,
+      "name": "Jarir Marketing",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 4.23
+    },
+    {
+      "rank": 10,
+      "name": "Yanbu National Petrochemical",
+      "ticker": "",
+      "weight": 3.86
+    }
+  ]
+}

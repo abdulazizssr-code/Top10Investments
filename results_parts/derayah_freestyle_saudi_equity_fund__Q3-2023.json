@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "National Medical Care Company",
+      "ticker": "",
+      "weight": 3.24
+    },
+    {
+      "rank": 2,
+      "name": "Al Moammar Information Systems Company",
+      "ticker": "",
+      "weight": 3.21
+    },
+    {
+      "rank": 3,
+      "name": "BinDawood Holding Company",
+      "ticker": "",
+      "weight": 2.8
+    },
+    {
+      "rank": 4,
+      "name": "Riyadh Cement",
+      "ticker": "",
+      "weight": 2.8
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 2.32
+    },
+    {
+      "rank": 6,
+      "name": "Arabian Contracting Services Company",
+      "ticker": "",
+      "weight": 2.24
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Research and Media Group",
+      "ticker": "",
+      "weight": 2.09
+    },
+    {
+      "rank": 8,
+      "name": "Leejam Sports Company",
+      "ticker": "",
+      "weight": 2.08
+    },
+    {
+      "rank": 9,
+      "name": "United Electronics Company",
+      "ticker": "",
+      "weight": 2.03
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Airlines Catering Company",
+      "ticker": "",
+      "weight": 1.9
+    }
+  ]
+}

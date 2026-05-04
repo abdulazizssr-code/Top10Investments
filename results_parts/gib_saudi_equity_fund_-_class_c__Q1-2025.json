@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_c",
+  "fund": "GIB Saudi Equity Fund - Class C",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 4,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "Bupa Arabia",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 6,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 7,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Ma'aden",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 10,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 3.7
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fund_key": "snb_capital_saudi_small_and_mid_cap_equity_fund",
+  "fund": "SNB Capital Saudi Small and Mid-Cap Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Electrical Industries Co",
+      "ticker": "",
+      "weight": 5.84
+    },
+    {
+      "rank": 2,
+      "name": "Arriyadh Development Company",
+      "ticker": "",
+      "weight": 5.73
+    },
+    {
+      "rank": 3,
+      "name": "Flynas Co SJSC",
+      "ticker": "",
+      "weight": 5.65
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Manpower Solutions Co",
+      "ticker": "",
+      "weight": 5.63
+    },
+    {
+      "rank": 5,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 5.43
+    },
+    {
+      "rank": 6,
+      "name": "Ataa Educational Co",
+      "ticker": "",
+      "weight": 5.39
+    },
+    {
+      "rank": 7,
+      "name": "Rasan Information Technology",
+      "ticker": "",
+      "weight": 5.31
+    },
+    {
+      "rank": 8,
+      "name": "Aldrees Petroleum and Transport",
+      "ticker": "",
+      "weight": 5.22
+    },
+    {
+      "rank": 9,
+      "name": "Theeb Rent A Car Co",
+      "ticker": "",
+      "weight": 5.03
+    },
+    {
+      "rank": 10,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 4.31
+    }
+  ],
+  "method": "highres_crop"
+}

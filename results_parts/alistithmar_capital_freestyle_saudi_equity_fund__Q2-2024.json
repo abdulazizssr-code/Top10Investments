@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_freestyle_saudi_equity_fund",
+  "fund": "Alistithmar Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.17
+    },
+    {
+      "rank": 2,
+      "name": "Jabal Omar",
+      "ticker": "",
+      "weight": 7.23
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Real Estate (Al Aqaria)",
+      "ticker": "",
+      "weight": 6.46
+    },
+    {
+      "rank": 4,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.28
+    },
+    {
+      "rank": 6,
+      "name": "Riaya",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 4.64
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Telecom (STC)",
+      "ticker": "",
+      "weight": 4.54
+    },
+    {
+      "rank": 9,
+      "name": "Nahdi",
+      "ticker": "",
+      "weight": 3.97
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Ground Services",
+      "ticker": "",
+      "weight": 3.85
+    }
+  ]
+}

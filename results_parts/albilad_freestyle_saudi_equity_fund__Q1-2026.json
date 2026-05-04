@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "NIB",
+      "ticker": "",
+      "weight": 17.3
+    },
+    {
+      "rank": 2,
+      "name": "Naqi Water (Al-Wahaa Water)",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 3,
+      "name": "Injaz Exactus",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 4,
+      "name": "Al-Maaliya",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 5,
+      "name": "Aldrees",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 6,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 7,
+      "name": "ACWA Power",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 8,
+      "name": "Tamara",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 9,
+      "name": "Wataniya Cooperative Insurance",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 10,
+      "name": "Modern Telecom & IT (Al-Hadeeth)",
+      "ticker": "",
+      "weight": 4.9
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_opportunistic_saudi_equity_fund",
+  "fund": "Derayah Opportunistic Saudi Equity Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Paper Manufacturing",
+      "ticker": "",
+      "weight": 7.08
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 6.92
+    },
+    {
+      "rank": 3,
+      "name": "East Pipes",
+      "ticker": "",
+      "weight": 6.31
+    },
+    {
+      "rank": 4,
+      "name": "Atheeb Telecom",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 5,
+      "name": "CARE",
+      "ticker": "",
+      "weight": 5.23
+    },
+    {
+      "rank": 6,
+      "name": "MEEC",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 7,
+      "name": "Mouwasat",
+      "ticker": "",
+      "weight": 5.03
+    },
+    {
+      "rank": 8,
+      "name": "NADEC",
+      "ticker": "",
+      "weight": 4.99
+    },
+    {
+      "rank": 9,
+      "name": "Tanmiah Cement",
+      "ticker": "",
+      "weight": 4.88
+    },
+    {
+      "rank": 10,
+      "name": "City Cement",
+      "ticker": "",
+      "weight": 4.63
+    }
+  ]
+}

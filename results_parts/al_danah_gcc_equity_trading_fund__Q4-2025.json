@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_danah_gcc_equity_trading_fund",
+  "fund": "Al-Danah GCC Equity Trading Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 10.04
+    },
+    {
+      "rank": 2,
+      "name": "Emaar Properties",
+      "ticker": "",
+      "weight": 6.88
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Automotive Services Co",
+      "ticker": "",
+      "weight": 6.53
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 5.56
+    },
+    {
+      "rank": 5,
+      "name": "Aldrees Petroleum and Transport",
+      "ticker": "",
+      "weight": 5.51
+    },
+    {
+      "rank": 6,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 7,
+      "name": "Dubai Islamic Bank",
+      "ticker": "",
+      "weight": 4.07
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 3.49
+    },
+    {
+      "rank": 9,
+      "name": "Dr. Sulaiman Al Habib Medical Group",
+      "ticker": "",
+      "weight": 3.36
+    },
+    {
+      "rank": 10,
+      "name": "ADNOC Drilling Co",
+      "ticker": "",
+      "weight": 3.15
+    }
+  ]
+}

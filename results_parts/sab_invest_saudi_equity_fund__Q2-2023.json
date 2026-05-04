@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_fund",
+  "fund": "SAB Invest Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 8.81
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank/The",
+      "ticker": "",
+      "weight": 7.71
+    },
+    {
+      "rank": 3,
+      "name": "Americana Restaurants Internat",
+      "ticker": "",
+      "weight": 6.82
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 5,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 4.93
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 4.86
+    },
+    {
+      "rank": 7,
+      "name": "Alamar Foods",
+      "ticker": "",
+      "weight": 4.44
+    },
+    {
+      "rank": 8,
+      "name": "Leejam Sports Co JSC",
+      "ticker": "",
+      "weight": 4.39
+    },
+    {
+      "rank": 9,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 3.99
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

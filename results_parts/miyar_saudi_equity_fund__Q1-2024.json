@@ -1,0 +1,67 @@
+{
+  "fund_key": "miyar_saudi_equity_fund",
+  "fund": "Miyar Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "TADAWUL GROUP",
+      "ticker": "",
+      "weight": 8.22
+    },
+    {
+      "rank": 2,
+      "name": "NAHDI",
+      "ticker": "",
+      "weight": 8.14
+    },
+    {
+      "rank": 3,
+      "name": "WALAA",
+      "ticker": "",
+      "weight": 7.61
+    },
+    {
+      "rank": 4,
+      "name": "ADES",
+      "ticker": "",
+      "weight": 7.48
+    },
+    {
+      "rank": 5,
+      "name": "SAL",
+      "ticker": "",
+      "weight": 7.45
+    },
+    {
+      "rank": 6,
+      "name": "2P",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 7,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.61
+    },
+    {
+      "rank": 8,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 6.03
+    },
+    {
+      "rank": 9,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.71
+    },
+    {
+      "rank": 10,
+      "name": "EAST PIPES",
+      "ticker": "",
+      "weight": 4.68
+    }
+  ]
+}

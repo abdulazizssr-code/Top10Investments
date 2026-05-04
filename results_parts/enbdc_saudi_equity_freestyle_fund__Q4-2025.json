@@ -1,0 +1,67 @@
+{
+  "fund_key": "enbdc_saudi_equity_freestyle_fund",
+  "fund": "ENBDC Saudi Equity Freestyle Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 20
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 8
+    },
+    {
+      "rank": 4,
+      "name": "Dr Sulaiman Al Habib Medical",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 7,
+      "name": "CO for Cooperative Insurance",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 8,
+      "name": "Astra Industrial Group",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 9,
+      "name": "Bank Al Bilad",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 10,
+      "name": "BUPA Arabia for Cooperative",
+      "ticker": "",
+      "weight": 5
+    }
+  ]
+}

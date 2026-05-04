@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_saudi_large_mid_cap_equity_fund",
+  "fund": "SNB Capital Saudi Large-Mid Cap Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.48
+    },
+    {
+      "rank": 2,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 9.27
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 8.61
+    },
+    {
+      "rank": 5,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 7.93
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 6.86
+    },
+    {
+      "rank": 7,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 5.45
+    },
+    {
+      "rank": 8,
+      "name": "SABIC Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 5.01
+    },
+    {
+      "rank": 9,
+      "name": "Theeb Rent a Car Co",
+      "ticker": "",
+      "weight": 4.99
+    },
+    {
+      "rank": 10,
+      "name": "Dr Sulaiman Al Habib Medical",
+      "ticker": "",
+      "weight": 3.33
+    }
+  ]
+}

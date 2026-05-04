@@ -1,0 +1,67 @@
+{
+  "fund_key": "algorithm_enhanced_saudi_equity_trading_fund_class_b",
+  "fund": "Algorithm Enhanced Saudi Equity Trading Fund Class B",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.31
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 8.85
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 7.36
+    },
+    {
+      "rank": 4,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 5.19
+    },
+    {
+      "rank": 5,
+      "name": "Sabic Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 4.94
+    },
+    {
+      "rank": 6,
+      "name": "Al Masane Al Kobra Mining Co",
+      "ticker": "",
+      "weight": 3.55
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabia Oil Co",
+      "ticker": "",
+      "weight": 3.36
+    },
+    {
+      "rank": 8,
+      "name": "Al Babtain Power & Telecommunication",
+      "ticker": "",
+      "weight": 3.15
+    },
+    {
+      "rank": 9,
+      "name": "Jarir Marketing Co",
+      "ticker": "",
+      "weight": 2.96
+    },
+    {
+      "rank": 10,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 2.84
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fund_key": "rassanh_flexible_saudi_equity_fund",
+  "fund": "Rassanh Flexible Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 16.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 13.5
+    },
+    {
+      "rank": 3,
+      "name": "Maaden (Saudi Arabian Mining Company)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 4,
+      "name": "Leejam Sports (Fitness Time)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 6,
+      "name": "Dr. Sulaiman Al Habib Medical Services",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "Rasan Information Technology",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 9,
+      "name": "Yanbu Cement Company (YSCC)",
+      "ticker": "",
+      "weight": 3.6
+    },
+    {
+      "rank": 10,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ],
+  "method": "highres_crop"
+}

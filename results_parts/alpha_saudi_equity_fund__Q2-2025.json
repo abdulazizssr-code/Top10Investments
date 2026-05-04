@@ -1,0 +1,67 @@
+{
+  "fund_key": "alpha_saudi_equity_fund",
+  "fund": "Alpha Saudi Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.88
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.43
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 5.08
+    },
+    {
+      "rank": 4,
+      "name": "Co For Cooperative Insurance",
+      "ticker": "",
+      "weight": 5.04
+    },
+    {
+      "rank": 5,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 4.37
+    },
+    {
+      "rank": 6,
+      "name": "Aldrees Petroleum And Transport",
+      "ticker": "",
+      "weight": 4.16
+    },
+    {
+      "rank": 7,
+      "name": "Astra Industrial Group",
+      "ticker": "",
+      "weight": 3.82
+    },
+    {
+      "rank": 8,
+      "name": "Rasan Information Technology",
+      "ticker": "",
+      "weight": 3.79
+    },
+    {
+      "rank": 9,
+      "name": "Mediterranean & Gulf Insurance",
+      "ticker": "",
+      "weight": 3.57
+    },
+    {
+      "rank": 10,
+      "name": "Dr Sulaiman Al Habib Medical",
+      "ticker": "",
+      "weight": 3.2
+    }
+  ]
+}

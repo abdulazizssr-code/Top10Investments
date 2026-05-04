@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_fund",
+  "fund": "SAB Invest Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 9.34
+    },
+    {
+      "rank": 2,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 8.26
+    },
+    {
+      "rank": 3,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 5.83
+    },
+    {
+      "rank": 4,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 5.44
+    },
+    {
+      "rank": 5,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 4.17
+    },
+    {
+      "rank": 6,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 4.09
+    },
+    {
+      "rank": 7,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 3.78
+    },
+    {
+      "rank": 8,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 3.61
+    },
+    {
+      "rank": 9,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 3.44
+    },
+    {
+      "rank": 10,
+      "name": "SAUDI AWWAL BANK",
+      "ticker": "",
+      "weight": 3.41
+    }
+  ]
+}

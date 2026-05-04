@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_saudi_equity_active_trading_fund",
+  "fund": "SNB Capital Saudi Equity Active Trading Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alibaba Group Holding Ltd",
+      "ticker": "",
+      "weight": 9.26
+    },
+    {
+      "rank": 2,
+      "name": "Infosys Ltd",
+      "ticker": "",
+      "weight": 8.07
+    },
+    {
+      "rank": 3,
+      "name": "Meituan",
+      "ticker": "",
+      "weight": 7.94
+    },
+    {
+      "rank": 4,
+      "name": "Reliance Industries",
+      "ticker": "",
+      "weight": 7.43
+    },
+    {
+      "rank": 5,
+      "name": "PDD Holdings Inc",
+      "ticker": "",
+      "weight": 5.42
+    },
+    {
+      "rank": 6,
+      "name": "JD",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 7,
+      "name": "Xiaomi Corp",
+      "ticker": "",
+      "weight": 3.71
+    },
+    {
+      "rank": 8,
+      "name": "BYD Co",
+      "ticker": "",
+      "weight": 2.69
+    },
+    {
+      "rank": 9,
+      "name": "Wipro",
+      "ticker": "",
+      "weight": 2.68
+    },
+    {
+      "rank": 10,
+      "name": "Dr Reddy's Laboratories",
+      "ticker": "",
+      "weight": 2.67
+    }
+  ]
+}

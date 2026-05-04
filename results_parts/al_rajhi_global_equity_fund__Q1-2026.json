@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_global_equity_fund",
+  "fund": "Al-rajhi Global Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "NVIDIA Corp",
+      "ticker": "",
+      "weight": 8.95
+    },
+    {
+      "rank": 2,
+      "name": "Apple Inc",
+      "ticker": "",
+      "weight": 8.51
+    },
+    {
+      "rank": 3,
+      "name": "Alphabet Inc Class A",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 4,
+      "name": "Meta Platforms Inc",
+      "ticker": "",
+      "weight": 4.12
+    },
+    {
+      "rank": 5,
+      "name": "Microsoft Corp",
+      "ticker": "",
+      "weight": 3.72
+    },
+    {
+      "rank": 6,
+      "name": "Samsung Electronics GDR",
+      "ticker": "",
+      "weight": 2.46
+    },
+    {
+      "rank": 7,
+      "name": "McKesson Corp",
+      "ticker": "",
+      "weight": 2.1
+    },
+    {
+      "rank": 8,
+      "name": "Adobe Inc",
+      "ticker": "",
+      "weight": 1.86
+    },
+    {
+      "rank": 9,
+      "name": "Johnson & Johnson",
+      "ticker": "",
+      "weight": 1.84
+    },
+    {
+      "rank": 10,
+      "name": "Zoom Communications Inc",
+      "ticker": "",
+      "weight": 1.79
+    }
+  ]
+}

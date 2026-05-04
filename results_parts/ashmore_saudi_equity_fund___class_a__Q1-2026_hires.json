@@ -1,0 +1,68 @@
+{
+  "fund_key": "ashmore_saudi_equity_fund___class_a",
+  "fund": "Ashmore Saudi Equity Fund - Class A",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.9
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 9.35
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 8.48
+    },
+    {
+      "rank": 4,
+      "name": "Almarai Co Ltd",
+      "ticker": "",
+      "weight": 7.47
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 5.33
+    },
+    {
+      "rank": 6,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 5.02
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Kayan Petrochemical Co",
+      "ticker": "",
+      "weight": 4.81
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 4.56
+    },
+    {
+      "rank": 9,
+      "name": "National Industrialization Co",
+      "ticker": "",
+      "weight": 3.88
+    },
+    {
+      "rank": 10,
+      "name": "Sabic Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 3.64
+    }
+  ],
+  "method": "highres_crop"
+}

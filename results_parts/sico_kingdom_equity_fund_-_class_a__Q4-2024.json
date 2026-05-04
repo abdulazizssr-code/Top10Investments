@@ -1,0 +1,67 @@
+{
+  "fund_key": "sico_kingdom_equity_fund_-_class_a",
+  "fund": "SICO Kingdom Equity Fund - Class A",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.9
+    },
+    {
+      "rank": 2,
+      "name": "Rasan Information Tech.",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 3,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 4,
+      "name": "Power & Water Utility",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 6,
+      "name": "Bank Al-Jazira",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "Yamama Cement",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Re For Cooperative",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 9,
+      "name": "United Electronics",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "National Medical Care",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ]
+}

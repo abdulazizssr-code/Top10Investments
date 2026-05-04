@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_healthcare_equity_fund",
+  "fund": "Riyad Healthcare Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 14.6
+    },
+    {
+      "rank": 2,
+      "name": "Bupa Arabia",
+      "ticker": "",
+      "weight": 14.6
+    },
+    {
+      "rank": 3,
+      "name": "Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 14.1
+    },
+    {
+      "rank": 4,
+      "name": "Mouwasat",
+      "ticker": "",
+      "weight": 10.4
+    },
+    {
+      "rank": 5,
+      "name": "Nahdi",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 6,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 7,
+      "name": "Dallah Health",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 8,
+      "name": "Chemical",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 9,
+      "name": "Care",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 10,
+      "name": "Jamjoom Pharma",
+      "ticker": "",
+      "weight": 4.4
+    }
+  ]
+}

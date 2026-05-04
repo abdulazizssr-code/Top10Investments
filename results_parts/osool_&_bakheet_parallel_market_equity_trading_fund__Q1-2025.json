@@ -1,0 +1,67 @@
+{
+  "fund_key": "osool_&_bakheet_parallel_market_equity_trading_fund",
+  "fund": "Osool & Bakheet Parallel Market Equity Trading Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "JAHEZ",
+      "ticker": "",
+      "weight": 9.42
+    },
+    {
+      "rank": 2,
+      "name": "AME",
+      "ticker": "",
+      "weight": 8.18
+    },
+    {
+      "rank": 3,
+      "name": "BALADY",
+      "ticker": "",
+      "weight": 7.78
+    },
+    {
+      "rank": 4,
+      "name": "MULTI BUSINESS",
+      "ticker": "",
+      "weight": 7.4
+    },
+    {
+      "rank": 5,
+      "name": "NABA ALSAHA",
+      "ticker": "",
+      "weight": 7.21
+    },
+    {
+      "rank": 6,
+      "name": "PRO MEDEX",
+      "ticker": "",
+      "weight": 6.07
+    },
+    {
+      "rank": 7,
+      "name": "UNITED MINING",
+      "ticker": "",
+      "weight": 5.78
+    },
+    {
+      "rank": 8,
+      "name": "TADWEEER",
+      "ticker": "",
+      "weight": 5.45
+    },
+    {
+      "rank": 9,
+      "name": "HORIZON EDUCATIONAL",
+      "ticker": "",
+      "weight": 5.18
+    },
+    {
+      "rank": 10,
+      "name": "CMCER",
+      "ticker": "",
+      "weight": 4.62
+    }
+  ]
+}

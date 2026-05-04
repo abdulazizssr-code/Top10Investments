@@ -1,0 +1,68 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 12.86
+    },
+    {
+      "rank": 2,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 10.7
+    },
+    {
+      "rank": 3,
+      "name": "ADES Holding Co",
+      "ticker": "",
+      "weight": 7.9
+    },
+    {
+      "rank": 4,
+      "name": "AMAK",
+      "ticker": "",
+      "weight": 7.12
+    },
+    {
+      "rank": 5,
+      "name": "Astra Industrial",
+      "ticker": "",
+      "weight": 5.68
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Cable",
+      "ticker": "",
+      "weight": 5.07
+    },
+    {
+      "rank": 7,
+      "name": "East Pipes",
+      "ticker": "",
+      "weight": 4.51
+    },
+    {
+      "rank": 8,
+      "name": "Tamkeen",
+      "ticker": "",
+      "weight": 4.21
+    },
+    {
+      "rank": 9,
+      "name": "Almajed Oud",
+      "ticker": "",
+      "weight": 3.98
+    },
+    {
+      "rank": 10,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 3.48
+    }
+  ],
+  "method": "highres_crop"
+}

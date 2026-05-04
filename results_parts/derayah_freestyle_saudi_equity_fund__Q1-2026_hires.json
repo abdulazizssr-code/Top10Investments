@@ -1,0 +1,68 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.79
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Paper Manufacturing",
+      "ticker": "",
+      "weight": 5.97
+    },
+    {
+      "rank": 4,
+      "name": "East Pipes Integrated Company",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 4.64
+    },
+    {
+      "rank": 6,
+      "name": "SAL Saudi Logistics Services",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 7,
+      "name": "City Cement Company",
+      "ticker": "",
+      "weight": 3.99
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Power and Water Utility Company for Jubail and Yanbu (Marafiq)",
+      "ticker": "",
+      "weight": 3.96
+    },
+    {
+      "rank": 9,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 3.45
+    },
+    {
+      "rank": 10,
+      "name": "Elm Company",
+      "ticker": "",
+      "weight": 3.32
+    }
+  ],
+  "method": "highres_crop"
+}

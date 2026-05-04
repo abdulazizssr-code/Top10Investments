@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_fund",
+  "fund": "SAB Invest Saudi Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Oil CO",
+      "ticker": "",
+      "weight": 12.02
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.33
+    },
+    {
+      "rank": 3,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 10.05
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Basic Industries",
+      "ticker": "",
+      "weight": 9.28
+    },
+    {
+      "rank": 5,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 6.33
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.62
+    },
+    {
+      "rank": 7,
+      "name": "Arabian Internet and Communication Services Co",
+      "ticker": "",
+      "weight": 4.61
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 9,
+      "name": "Saudi British Bank",
+      "ticker": "",
+      "weight": 4.05
+    },
+    {
+      "rank": 10,
+      "name": "Sahara International Petrochemical",
+      "ticker": "",
+      "weight": 3.73
+    }
+  ]
+}

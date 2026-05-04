@@ -1,0 +1,68 @@
+{
+  "fund_key": "yaqeen_saudi_equity_fund",
+  "fund": "YAQEEN Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.9
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 8.2
+    },
+    {
+      "rank": 3,
+      "name": "Mouwasat Medical Services",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 4,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 5,
+      "name": "Rasan Information Technology",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 6,
+      "name": "Tawuniya (Company for Cooperative Insurance)",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 7,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "Cenomi Retail",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "Tasheel Finance",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 10,
+      "name": "Yanbu Cement (YC)",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ],
+  "method": "highres_crop"
+}

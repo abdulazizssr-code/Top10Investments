@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 17.4
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "Bank",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 5,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 6,
+      "name": "Bahri",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "Nesma",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 8,
+      "name": "Chemical",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 9,
+      "name": "Artex",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 4.6
+    }
+  ]
+}

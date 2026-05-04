@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(b)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (B)",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 13.8
+    },
+    {
+      "rank": 2,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 3,
+      "name": "Astra Industrial Group",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 4,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 5,
+      "name": "Budget Saudi",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "National Medical Care (Care)",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 7,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "United Electronics Company (Extra)",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 9,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.95
+    },
+    {
+      "rank": 10,
+      "name": "AWPT",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

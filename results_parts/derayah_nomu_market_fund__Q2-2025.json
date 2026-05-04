@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_nomu_market_fund",
+  "fund": "Derayah Nomu Market Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Azm Saudi Communications and Information Technology Company",
+      "ticker": "",
+      "weight": 9.46
+    },
+    {
+      "rank": 2,
+      "name": "National Environmental Recycling Company",
+      "ticker": "",
+      "weight": 6.71
+    },
+    {
+      "rank": 3,
+      "name": "Asas Makeen for Real Estate Development and Investment Company",
+      "ticker": "",
+      "weight": 5.52
+    },
+    {
+      "rank": 4,
+      "name": "Jahez Arabia for Services Company",
+      "ticker": "",
+      "weight": 4.86
+    },
+    {
+      "rank": 5,
+      "name": "Miral Medical Clinics Company",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 6,
+      "name": "United Arabian Flat Glass Company",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 7,
+      "name": "Jahez International Company for Information System Technology",
+      "ticker": "",
+      "weight": 3.08
+    },
+    {
+      "rank": 8,
+      "name": "United Mining Industries Company",
+      "ticker": "",
+      "weight": 2.72
+    },
+    {
+      "rank": 9,
+      "name": "Tam Development Company",
+      "ticker": "",
+      "weight": 2.71
+    },
+    {
+      "rank": 10,
+      "name": "Almodawat Specialized Medical Company",
+      "ticker": "",
+      "weight": 2.64
+    }
+  ]
+}

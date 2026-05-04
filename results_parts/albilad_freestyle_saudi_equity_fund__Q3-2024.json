@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.7
+    },
+    {
+      "rank": 2,
+      "name": "Walaa Cooperative Insurance",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 3,
+      "name": "Bindawood Holding",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "United Electronics Company (eXtra)",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 5,
+      "name": "Ù†Ø®Ùƒ",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Kayan Petrochemical",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 7,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 8,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 9,
+      "name": "Electrical Industries Company",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 10,
+      "name": "Advanced Petrochemical (Chemicals)",
+      "ticker": "",
+      "weight": 4.7
+    }
+  ]
+}

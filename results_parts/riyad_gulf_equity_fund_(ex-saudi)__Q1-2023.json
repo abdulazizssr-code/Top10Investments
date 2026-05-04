@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_gulf_equity_fund_(ex-saudi)",
+  "fund": "Riyad Gulf Equity Fund (ex-Saudi)",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Emirates Telecom",
+      "ticker": "",
+      "weight": 13.25
+    },
+    {
+      "rank": 2,
+      "name": "Kuwait Finance House",
+      "ticker": "",
+      "weight": 9.79
+    },
+    {
+      "rank": 3,
+      "name": "Emaar Properties",
+      "ticker": "",
+      "weight": 6.64
+    },
+    {
+      "rank": 4,
+      "name": "Industries Qatar",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 5,
+      "name": "Qatar Islamic Bank",
+      "ticker": "",
+      "weight": 5.87
+    },
+    {
+      "rank": 6,
+      "name": "Dahlia Dubai Holding",
+      "ticker": "",
+      "weight": 5.13
+    },
+    {
+      "rank": 7,
+      "name": "Masraf Al Rayan",
+      "ticker": "",
+      "weight": 4.02
+    },
+    {
+      "rank": 8,
+      "name": "Dubai Electricity and Water Authority",
+      "ticker": "",
+      "weight": 3.84
+    },
+    {
+      "rank": 9,
+      "name": "Dubai Islamic Bank",
+      "ticker": "",
+      "weight": 3.37
+    },
+    {
+      "rank": 10,
+      "name": "Aldar Properties",
+      "ticker": "",
+      "weight": 3.12
+    }
+  ]
+}

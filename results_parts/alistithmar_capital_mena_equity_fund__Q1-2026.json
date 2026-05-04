@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_mena_equity_fund",
+  "fund": "Alistithmar Capital MENA Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 8.16
+    },
+    {
+      "rank": 2,
+      "name": "Emaar Properties",
+      "ticker": "",
+      "weight": 7.14
+    },
+    {
+      "rank": 3,
+      "name": "National Bank of Kuwait",
+      "ticker": "",
+      "weight": 5.66
+    },
+    {
+      "rank": 4,
+      "name": "Dubai Islamic Bank",
+      "ticker": "",
+      "weight": 4.75
+    },
+    {
+      "rank": 5,
+      "name": "First Abu Dhabi Bank",
+      "ticker": "",
+      "weight": 4.63
+    },
+    {
+      "rank": 6,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 3.62
+    },
+    {
+      "rank": 7,
+      "name": "Maharah",
+      "ticker": "",
+      "weight": 3.41
+    },
+    {
+      "rank": 8,
+      "name": "Emirates NBD PJSC",
+      "ticker": "",
+      "weight": 3.39
+    },
+    {
+      "rank": 9,
+      "name": "Kuwait Finance House",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "Almasane Alkobra Mining Co.",
+      "ticker": "",
+      "weight": 3.01
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_freestyle_saudi_equity_fund",
+  "fund": "Al Rajhi Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Research and Marketing Group",
+      "ticker": "",
+      "weight": 9.44
+    },
+    {
+      "rank": 2,
+      "name": "Makkah Construction and Development Co.",
+      "ticker": "",
+      "weight": 8.69
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.35
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabia Fertilizers Co.",
+      "ticker": "",
+      "weight": 7.24
+    },
+    {
+      "rank": 5,
+      "name": "National Gas and Industrialization Co.",
+      "ticker": "",
+      "weight": 7.17
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 6.42
+    },
+    {
+      "rank": 7,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 8,
+      "name": "Arabian Drilling Co.",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Tadawul Group Holding Co.",
+      "ticker": "",
+      "weight": 4.33
+    },
+    {
+      "rank": 10,
+      "name": "Yamama Cement Company",
+      "ticker": "",
+      "weight": 4.27
+    }
+  ]
+}

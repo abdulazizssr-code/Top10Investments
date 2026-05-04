@@ -1,0 +1,68 @@
+{
+  "fund_key": "jadwa_arab_market_equity_fund___class_c",
+  "fund": "Jadwa Arab Market Equity Fund - Class C",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 8.57
+    },
+    {
+      "rank": 2,
+      "name": "ADNOC Logistics & Services",
+      "ticker": "",
+      "weight": 4.35
+    },
+    {
+      "rank": 3,
+      "name": "Dubai Islamic Bank",
+      "ticker": "",
+      "weight": 4.18
+    },
+    {
+      "rank": 4,
+      "name": "ADNOC Drilling Co PJSC",
+      "ticker": "",
+      "weight": 4.02
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Oil Company",
+      "ticker": "",
+      "weight": 3.96
+    },
+    {
+      "rank": 6,
+      "name": "Edita Food Industries SAE",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 7,
+      "name": "Emaar Properties PJSC",
+      "ticker": "",
+      "weight": 3.48
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 3.28
+    },
+    {
+      "rank": 9,
+      "name": "Emirates Integrated Telecommunications",
+      "ticker": "",
+      "weight": 3.17
+    },
+    {
+      "rank": 10,
+      "name": "OQ Exploration & Production",
+      "ticker": "",
+      "weight": 2.86
+    }
+  ],
+  "method": "highres_crop"
+}

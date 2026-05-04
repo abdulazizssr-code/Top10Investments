@@ -1,0 +1,67 @@
+{
+  "fund_key": "mefic_saudi_equity_freestyle_fund",
+  "fund": "MEFIC SAUDI EQUITY FREESTYLE FUND",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.53
+    },
+    {
+      "rank": 2,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 9.24
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 7.38
+    },
+    {
+      "rank": 4,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 6,
+      "name": "SAL Saudi Logistics",
+      "ticker": "",
+      "weight": 5.54
+    },
+    {
+      "rank": 7,
+      "name": "Bank AlJazira",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 8,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.48
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 4.96
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Aramco Base Oil Company Luberef",
+      "ticker": "",
+      "weight": 4.63
+    }
+  ]
+}

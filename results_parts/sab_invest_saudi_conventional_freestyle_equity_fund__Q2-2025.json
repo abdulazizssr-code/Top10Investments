@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_conventional_freestyle_equity_fund",
+  "fund": "SAB Invest Saudi Conventional Freestyle Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 17.3
+    },
+    {
+      "rank": 2,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 8.09
+    },
+    {
+      "rank": 3,
+      "name": "SAUDI RE",
+      "ticker": "",
+      "weight": 5.52
+    },
+    {
+      "rank": 4,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 5,
+      "name": "ALMARAI",
+      "ticker": "",
+      "weight": 4.45
+    },
+    {
+      "rank": 6,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 4.22
+    },
+    {
+      "rank": 7,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 3.52
+    },
+    {
+      "rank": 8,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 3.24
+    },
+    {
+      "rank": 9,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 3.18
+    },
+    {
+      "rank": 10,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 2.92
+    }
+  ]
+}

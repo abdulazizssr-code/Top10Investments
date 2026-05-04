@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(c)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (C)",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "RJHI AB",
+      "ticker": "",
+      "weight": 13.8
+    },
+    {
+      "rank": 2,
+      "name": "ALBI AB",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 3,
+      "name": "ASTRA AB",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 4,
+      "name": "LEEJAM AB",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 5,
+      "name": "BUDGET AB",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "CARE AB",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "TAWUNIYA AB",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "EXTRA AB",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "ALINMA AB",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 10,
+      "name": "AWPT AB",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fund_key": "anb_capital_digital_&_it_equity_fund_(shariah)",
+  "fund": "anb capital Digital & IT Equity Fund (Shariah)",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 14.9
+    },
+    {
+      "rank": 2,
+      "name": "Elm Company",
+      "ticker": "",
+      "weight": 11.48
+    },
+    {
+      "rank": 3,
+      "name": "Al Moammar Information Systems",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 8.24
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Atheeb Telecom (Go)",
+      "ticker": "",
+      "weight": 6.44
+    },
+    {
+      "rank": 6,
+      "name": "United Electronics Company (eXtra)",
+      "ticker": "",
+      "weight": 6.04
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 5.04
+    },
+    {
+      "rank": 8,
+      "name": "flynas",
+      "ticker": "",
+      "weight": 5.02
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Contracting Services (Al Arabia)",
+      "ticker": "",
+      "weight": 4.98
+    },
+    {
+      "rank": 10,
+      "name": "Edarat Communication and Information Technology",
+      "ticker": "",
+      "weight": 4.68
+    }
+  ],
+  "method": "highres_crop"
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Leejam Sports (Fitness Time)",
+      "ticker": "",
+      "weight": 8.8
+    },
+    {
+      "rank": 2,
+      "name": "SAL Saudi Logistics Services",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 3,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 7.7
+    },
+    {
+      "rank": 4,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 5,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 6,
+      "name": "Alandalus Property",
+      "ticker": "",
+      "weight": 5.75
+    },
+    {
+      "rank": 7,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 8,
+      "name": "AMY (Alif Meem Yaa)",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 9,
+      "name": "SISCO",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 10,
+      "name": "Saudi German Health",
+      "ticker": "",
+      "weight": 5.05
+    }
+  ]
+}

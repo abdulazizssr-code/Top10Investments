@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(b)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (B)",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.0
+    },
+    {
+      "rank": 2,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 3,
+      "name": "National Agricultural Development Co (NADEC)",
+      "ticker": "",
+      "weight": 5.75
+    },
+    {
+      "rank": 4,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 5,
+      "name": "Advanced Petrochemical Company",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 6,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "Arabian Contracting Services",
+      "ticker": "",
+      "weight": 4.75
+    },
+    {
+      "rank": 8,
+      "name": "United International Transportation (Budget Saudi)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 9,
+      "name": "Al Hassan Ghazi Ibrahim Shaker",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Glass Co (Zoujaj)",
+      "ticker": "",
+      "weight": 4.1
+    }
+  ]
+}

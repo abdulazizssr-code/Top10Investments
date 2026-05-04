@@ -1,0 +1,13 @@
+{
+  "fund_key": "al_rajhi_saudi_equity_etf",
+  "fund": "Al Rajhi Saudi Equity ETF",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Commodity SAR Fund",
+      "ticker": "",
+      "weight": 99.15
+    }
+  ]
+}

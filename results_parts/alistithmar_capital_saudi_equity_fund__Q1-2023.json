@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_saudi_equity_fund",
+  "fund": "Alistithmar Capital Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 10.7
+    },
+    {
+      "rank": 2,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 10.1
+    },
+    {
+      "rank": 3,
+      "name": "Al Ahli (NCB/SNB)",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 4,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 5,
+      "name": "Riyad",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 6,
+      "name": "Al Fransi",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 7,
+      "name": "Americana",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 8,
+      "name": "Seera",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 9,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 10,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ]
+}

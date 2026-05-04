@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_saudi_equity_fund",
+  "fund": "Alistithmar Capital Saudi Equity Fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 10.3
+    },
+    {
+      "rank": 2,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 3,
+      "name": "Al Ahli (SNB)",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 4,
+      "name": "Riyad",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "SAB",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 6,
+      "name": "Al Jazira",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 7,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 3.4
+    },
+    {
+      "rank": 8,
+      "name": "Albilad",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 9,
+      "name": "Kayan",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 10,
+      "name": "Kemanol",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

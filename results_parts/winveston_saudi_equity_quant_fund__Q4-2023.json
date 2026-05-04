@@ -1,0 +1,67 @@
+{
+  "fund_key": "winveston_saudi_equity_quant_fund",
+  "fund": "Winveston Saudi Equity Quant Fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "RJHI",
+      "ticker": "",
+      "weight": 11.7
+    },
+    {
+      "rank": 2,
+      "name": "BSFR",
+      "ticker": "",
+      "weight": 9.9
+    },
+    {
+      "rank": 3,
+      "name": "ARNB",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 4,
+      "name": "MARAFIQ",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 5,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 6,
+      "name": "RIBL",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 7,
+      "name": "ARAMCO",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 8,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 9,
+      "name": "ADCO",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 10,
+      "name": "YANSAB",
+      "ticker": "",
+      "weight": 2.7
+    }
+  ]
+}

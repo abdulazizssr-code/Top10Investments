@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_yusr_saudi_equity_fund",
+  "fund": "Al Yusr Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ADES HOLDING CO",
+      "ticker": "",
+      "weight": 9.35
+    },
+    {
+      "rank": 2,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 8.78
+    },
+    {
+      "rank": 3,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 8.18
+    },
+    {
+      "rank": 4,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 7.89
+    },
+    {
+      "rank": 5,
+      "name": "NADEC",
+      "ticker": "",
+      "weight": 7.83
+    },
+    {
+      "rank": 6,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 7,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 7.64
+    },
+    {
+      "rank": 8,
+      "name": "ALARABIA",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 9,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 4.07
+    },
+    {
+      "rank": 10,
+      "name": "SASCO",
+      "ticker": "",
+      "weight": 3.63
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(c)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (C)",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank (RJHI)",
+      "ticker": "",
+      "weight": 18.5
+    },
+    {
+      "rank": 2,
+      "name": "Bank Albilad (ALBI)",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 3,
+      "name": "Leejam Sports Company (LEEJAM)",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 4,
+      "name": "AWPT",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "Astra Industrial Group (ASTRA)",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 6,
+      "name": "Al Hassan Ghazi Ibrahim Shaker (SHAKER)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 7,
+      "name": "Aldrees Petroleum and Transport Services (ALDREES)",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 8,
+      "name": "United Electronics Company - eXtra (EXTRA)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "APCO",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "National Medical Care Company (CARE)",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

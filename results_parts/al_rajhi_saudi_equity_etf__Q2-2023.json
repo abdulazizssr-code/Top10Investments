@@ -1,0 +1,13 @@
+{
+  "fund_key": "al_rajhi_saudi_equity_etf",
+  "fund": "Al Rajhi Saudi Equity ETF",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Saving and Liquidity Fund - SAR",
+      "ticker": "",
+      "weight": 100
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_companies_equity_fund",
+  "fund": "SAB Invest Saudi Companies Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 13.65
+    },
+    {
+      "rank": 2,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 6.85
+    },
+    {
+      "rank": 3,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 6.78
+    },
+    {
+      "rank": 4,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 6.52
+    },
+    {
+      "rank": 5,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 6.45
+    },
+    {
+      "rank": 6,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 6.41
+    },
+    {
+      "rank": 7,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 5.68
+    },
+    {
+      "rank": 8,
+      "name": "ALARABIA",
+      "ticker": "",
+      "weight": 5.08
+    },
+    {
+      "rank": 9,
+      "name": "AMERICANA",
+      "ticker": "",
+      "weight": 4.66
+    },
+    {
+      "rank": 10,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 4.33
+    }
+  ]
+}

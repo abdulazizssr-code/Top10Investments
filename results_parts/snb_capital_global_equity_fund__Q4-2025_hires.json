@@ -1,0 +1,68 @@
+{
+  "fund_key": "snb_capital_global_equity_fund",
+  "fund": "SNB Capital Global Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "iShares Global Tech ETF",
+      "ticker": "",
+      "weight": 20.56
+    },
+    {
+      "rank": 2,
+      "name": "iShares MSCI ACWI ETF",
+      "ticker": "",
+      "weight": 12.85
+    },
+    {
+      "rank": 3,
+      "name": "iShares Global Financials ETF",
+      "ticker": "",
+      "weight": 12.01
+    },
+    {
+      "rank": 4,
+      "name": "iShares Global Consumer Discretionary ETF",
+      "ticker": "",
+      "weight": 9.27
+    },
+    {
+      "rank": 5,
+      "name": "Invesco Dow Jones Islamic Global",
+      "ticker": "",
+      "weight": 9.03
+    },
+    {
+      "rank": 6,
+      "name": "iShares Global Comm Services ETF",
+      "ticker": "",
+      "weight": 8.29
+    },
+    {
+      "rank": 7,
+      "name": "iShares Global Industrials ETF",
+      "ticker": "",
+      "weight": 7.17
+    },
+    {
+      "rank": 8,
+      "name": "iShares Global Healthcare ETF",
+      "ticker": "",
+      "weight": 6.45
+    },
+    {
+      "rank": 9,
+      "name": "iShares Global Consumer Staples ETF",
+      "ticker": "",
+      "weight": 3.95
+    },
+    {
+      "rank": 10,
+      "name": "iShares Global Energy ETF",
+      "ticker": "",
+      "weight": 2.73
+    }
+  ],
+  "method": "highres_crop"
+}

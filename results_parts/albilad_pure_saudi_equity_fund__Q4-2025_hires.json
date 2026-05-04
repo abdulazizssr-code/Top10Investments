@@ -1,0 +1,68 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 20.4
+    },
+    {
+      "rank": 2,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 3,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 4,
+      "name": "Dr. Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 5,
+      "name": "Aldrees",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 6,
+      "name": "National Medical Care",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 7,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 8,
+      "name": "Taiba Holding",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 9,
+      "name": "National Company for Learning and Education",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 10,
+      "name": "Amlak International",
+      "ticker": "",
+      "weight": 4.2
+    }
+  ],
+  "method": "highres_crop"
+}

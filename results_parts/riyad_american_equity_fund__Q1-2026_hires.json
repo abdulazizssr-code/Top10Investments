@@ -1,0 +1,14 @@
+{
+  "fund_key": "riyad_american_equity_fund",
+  "fund": "Riyad American Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Threadneedle US Equity Fund",
+      "ticker": "",
+      "weight": 98.2
+    }
+  ],
+  "method": "highres_crop"
+}

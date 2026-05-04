@@ -1,0 +1,55 @@
+{
+  "fund_key": "anb_invest_saudi_equity_trading_fund",
+  "fund": "ANB Invest Saudi Equity Trading Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "MUR1",
+      "ticker": "",
+      "weight": 23.49
+    },
+    {
+      "rank": 2,
+      "name": "MUR2",
+      "ticker": "",
+      "weight": 12.99
+    },
+    {
+      "rank": 3,
+      "name": "MUR3",
+      "ticker": "",
+      "weight": 8.87
+    },
+    {
+      "rank": 4,
+      "name": "MUR4",
+      "ticker": "",
+      "weight": 8.09
+    },
+    {
+      "rank": 5,
+      "name": "FUND1",
+      "ticker": "",
+      "weight": 7.66
+    },
+    {
+      "rank": 6,
+      "name": "MUR5",
+      "ticker": "",
+      "weight": 7.16
+    },
+    {
+      "rank": 7,
+      "name": "MUR6",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 8,
+      "name": "MUR7",
+      "ticker": "",
+      "weight": 5.94
+    }
+  ]
+}

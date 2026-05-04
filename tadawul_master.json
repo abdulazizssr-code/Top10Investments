@@ -1,0 +1,2070 @@
+{
+  "companies": [
+    {
+      "ticker": "1120",
+      "name_en": "Al Rajhi Bank",
+      "name_ar": "مصرف الراجحي",
+      "sector": "Banks",
+      "aliases": [
+        "ALRAJHI",
+        "الراجحي",
+        "Rajhi",
+        "AL RAJHI",
+        "RJHI",
+        "AL RAJHI BANK",
+        "ALRAJHI BANK",
+        "Al Rajhi"
+      ]
+    },
+    {
+      "ticker": "1180",
+      "name_en": "Saudi National Bank",
+      "name_ar": "البنك الأهلي السعودي",
+      "sector": "Banks",
+      "aliases": [
+        "SNB",
+        "الأهلي",
+        "NCB",
+        "National Commercial Bank",
+        "SAMBA",
+        "Samba Financial Group"
+      ]
+    },
+    {
+      "ticker": "1150",
+      "name_en": "Alinma Bank",
+      "name_ar": "مصرف الإنماء",
+      "sector": "Banks",
+      "aliases": [
+        "ALINMA",
+        "الإنماء",
+        "Inma",
+        "ALINMA BANK"
+      ]
+    },
+    {
+      "ticker": "1010",
+      "name_en": "Riyad Bank",
+      "name_ar": "بنك الرياض",
+      "sector": "Banks",
+      "aliases": [
+        "RIBL",
+        "الرياض",
+        "Riyadh Bank",
+        "Riyadh",
+        "RIYAD BANK"
+      ]
+    },
+    {
+      "ticker": "1140",
+      "name_en": "Bank Albilad",
+      "name_ar": "بنك البلاد",
+      "sector": "Banks",
+      "aliases": [
+        "ALBILAD",
+        "البلاد"
+      ]
+    },
+    {
+      "ticker": "1080",
+      "name_en": "Bank Aljazira",
+      "name_ar": "بنك الجزيرة",
+      "sector": "Banks",
+      "aliases": [
+        "BJAZ",
+        "الجزيرة",
+        "Jazira"
+      ]
+    },
+    {
+      "ticker": "1050",
+      "name_en": "Saudi Awwal Bank",
+      "name_ar": "البنك السعودي الأول",
+      "sector": "Banks",
+      "aliases": [
+        "SABB",
+        "ساب",
+        "Saudi British Bank",
+        "Awwal"
+      ]
+    },
+    {
+      "ticker": "1060",
+      "name_en": "Banque Saudi Fransi",
+      "name_ar": "البنك السعودي الفرنسي",
+      "sector": "Banks",
+      "aliases": [
+        "BSF",
+        "BSFR",
+        "الفرنسي",
+        "Saudi Fransi",
+        "SAUDI FRANSI BANK",
+        "Saudi Fransi Bank",
+        "SAUDI FRANSI"
+      ]
+    },
+    {
+      "ticker": "1030",
+      "name_en": "Saudi Investment Bank",
+      "name_ar": "البنك السعودي للاستثمار",
+      "sector": "Banks",
+      "aliases": [
+        "SAIB",
+        "للاستثمار"
+      ]
+    },
+    {
+      "ticker": "1020",
+      "name_en": "Arab National Bank",
+      "name_ar": "البنك العربي الوطني",
+      "sector": "Banks",
+      "aliases": [
+        "ANB",
+        "ARNB",
+        "العربي الوطني"
+      ]
+    },
+    {
+      "ticker": "1090",
+      "name_en": "Samba Financial Group",
+      "name_ar": "مجموعة سامبا المالية",
+      "sector": "Banks",
+      "aliases": [
+        "SAMBA",
+        "سامبا"
+      ]
+    },
+    {
+      "ticker": "2222",
+      "name_en": "Saudi Aramco",
+      "name_ar": "أرامكو السعودية",
+      "sector": "Energy",
+      "aliases": [
+        "ARAMCO",
+        "أرامكو",
+        "SAUDI ARAMCO",
+        "SAUDI ARABIAN OIL COMPANY",
+        "Saudi Arabian Oil Company",
+        "Saudi Arabian Oil"
+      ]
+    },
+    {
+      "ticker": "2082",
+      "name_en": "ACWA Power",
+      "name_ar": "أكوا باور",
+      "sector": "Energy",
+      "aliases": [
+        "ACWA",
+        "أكوا",
+        "ACWA POWER"
+      ]
+    },
+    {
+      "ticker": "5110",
+      "name_en": "Saudi Electricity Company",
+      "name_ar": "الشركة السعودية للكهرباء",
+      "sector": "Utilities",
+      "aliases": [
+        "SEC",
+        "الكهرباء",
+        "SECO",
+        "Saudi Electricity"
+      ]
+    },
+    {
+      "ticker": "2030",
+      "name_en": "Saudi Arabian Fertilizer Co (SAFCO)",
+      "name_ar": "سافكو",
+      "sector": "Materials",
+      "aliases": [
+        "SAFCO",
+        "سافكو"
+      ]
+    },
+    {
+      "ticker": "2381",
+      "name_en": "Arabian Drilling Company",
+      "name_ar": "الحفر العربية",
+      "sector": "Energy",
+      "aliases": [
+        "ADES",
+        "Arabian Drilling"
+      ]
+    },
+    {
+      "ticker": "2382",
+      "name_en": "ADES Holding",
+      "name_ar": "أديس القابضة",
+      "sector": "Energy",
+      "aliases": [
+        "ADES",
+        "أديس"
+      ]
+    },
+    {
+      "ticker": "2010",
+      "name_en": "SABIC",
+      "name_ar": "سابك",
+      "sector": "Materials",
+      "aliases": [
+        "سابك",
+        "Saudi Basic Industries",
+        "SABIC",
+        "sabic"
+      ]
+    },
+    {
+      "ticker": "1211",
+      "name_en": "Ma'aden",
+      "name_ar": "معادن",
+      "sector": "Materials",
+      "aliases": [
+        "MAADEN",
+        "معادن",
+        "Saudi Arabian Mining",
+        "Maaden",
+        "Ma'aden",
+        "المعادن"
+      ]
+    },
+    {
+      "ticker": "2020",
+      "name_en": "SABIC Agri-Nutrients Co",
+      "name_ar": "سابك للمغذيات الزراعية",
+      "sector": "Materials",
+      "aliases": [
+        "المغذيات",
+        "Agri-Nutrients",
+        "SABIC Agri-Nutrients",
+        "SABIC Agri-Nutrients Co",
+        "SABIC AGRI-NUTRIENTS CO"
+      ]
+    },
+    {
+      "ticker": "2330",
+      "name_en": "Advanced Petrochemical",
+      "name_ar": "المتقدمة للبتروكيماويات",
+      "sector": "Materials",
+      "aliases": [
+        "المتقدمة",
+        "APPC",
+        "Advanced"
+      ]
+    },
+    {
+      "ticker": "2290",
+      "name_en": "Yanbu National Petrochemical (Yansab)",
+      "name_ar": "ينساب",
+      "sector": "Materials",
+      "aliases": [
+        "YANSAB",
+        "ينساب",
+        "Yanbu National Petrochemical"
+      ]
+    },
+    {
+      "ticker": "2350",
+      "name_en": "Saudi Kayan Petrochemical",
+      "name_ar": "كيان السعودية",
+      "sector": "Materials",
+      "aliases": [
+        "KAYAN",
+        "كيان",
+        "Saudi Kayan",
+        "KEC"
+      ]
+    },
+    {
+      "ticker": "2310",
+      "name_en": "Saudi Industrial Investment Group",
+      "name_ar": "مجموعة الاستثمار الصناعي",
+      "sector": "Materials",
+      "aliases": [
+        "SIIG",
+        "المجموعة الصناعية",
+        "SAUDI INDUSTRIAL INVESTMENT GROUP",
+        "Saudi Industrial Investment Group"
+      ]
+    },
+    {
+      "ticker": "2060",
+      "name_en": "National Industrialization Co (Tasnee)",
+      "name_ar": "التصنيع",
+      "sector": "Materials",
+      "aliases": [
+        "TASNEE",
+        "التصنيع",
+        "NIC"
+      ]
+    },
+    {
+      "ticker": "2250",
+      "name_en": "Saudi Industrial Services (SISCO)",
+      "name_ar": "سيسكو القابضة",
+      "sector": "Materials",
+      "aliases": [
+        "SISCO",
+        "SIIG",
+        "الصناعية"
+      ]
+    },
+    {
+      "ticker": "2210",
+      "name_en": "Nama Chemicals",
+      "name_ar": "نماء للكيماويات",
+      "sector": "Materials",
+      "aliases": [
+        "NAMA",
+        "نماء"
+      ]
+    },
+    {
+      "ticker": "2220",
+      "name_en": "National Metal Manufacturing (Maadaniyah)",
+      "name_ar": "معدنية",
+      "sector": "Materials",
+      "aliases": [
+        "MAADANIYAH",
+        "معدنية"
+      ]
+    },
+    {
+      "ticker": "2240",
+      "name_en": "Zamil Industrial Investment Co",
+      "name_ar": "زامل للصناعة",
+      "sector": "Materials",
+      "aliases": [
+        "ZAMIL",
+        "زامل"
+      ]
+    },
+    {
+      "ticker": "2300",
+      "name_en": "Saudi Paper Manufacturing",
+      "name_ar": "صناعة الورق",
+      "sector": "Materials",
+      "aliases": [
+        "SPM"
+      ]
+    },
+    {
+      "ticker": "2320",
+      "name_en": "Alujain Corporation",
+      "name_ar": "اللجين",
+      "sector": "Materials",
+      "aliases": [
+        "ALUJAIN",
+        "اللجين",
+        "Al Ujain",
+        "AlUjain"
+      ]
+    },
+    {
+      "ticker": "2340",
+      "name_en": "Saudi International Petrochemical (Sipchem)",
+      "name_ar": "سبكيم",
+      "sector": "Materials",
+      "aliases": [
+        "SIPCHEM",
+        "سبكيم",
+        "SPCHEM"
+      ]
+    },
+    {
+      "ticker": "2360",
+      "name_en": "Sahara International Petrochemical (SIPCHEM)",
+      "name_ar": "المتقدمة",
+      "sector": "Materials",
+      "aliases": [
+        "SAHARA",
+        "SAHARA INTL PETROCHEM"
+      ]
+    },
+    {
+      "ticker": "1320",
+      "name_en": "Saudi Steel Pipe Company",
+      "name_ar": "الأنابيب السعودية",
+      "sector": "Materials",
+      "aliases": [
+        "SSP",
+        "الأنابيب"
+      ]
+    },
+    {
+      "ticker": "1301",
+      "name_en": "Astra Industrial Group",
+      "name_ar": "أسترا الصناعية",
+      "sector": "Materials",
+      "aliases": [
+        "ASTRA",
+        "أسترا"
+      ]
+    },
+    {
+      "ticker": "1210",
+      "name_en": "BCI / Saudi Industrial Export Co",
+      "name_ar": "الشركة السعودية لتصدير المنتجات",
+      "sector": "Materials",
+      "aliases": [
+        "BCI"
+      ]
+    },
+    {
+      "ticker": "1212",
+      "name_en": "Astra Mining (Astra)",
+      "name_ar": "أسترا للتعدين",
+      "sector": "Materials",
+      "aliases": []
+    },
+    {
+      "ticker": "2170",
+      "name_en": "Almoaibed Steel Industries",
+      "name_ar": "المعيبد للحديد",
+      "sector": "Materials",
+      "aliases": [
+        "MOAIBED"
+      ]
+    },
+    {
+      "ticker": "2370",
+      "name_en": "Middle East Specialized Cables (MESC)",
+      "name_ar": "مسك",
+      "sector": "Materials",
+      "aliases": [
+        "MESC",
+        "مسك"
+      ]
+    },
+    {
+      "ticker": "2200",
+      "name_en": "Arabian Pipes",
+      "name_ar": "الأنابيب العربية",
+      "sector": "Materials",
+      "aliases": [
+        "APL"
+      ]
+    },
+    {
+      "ticker": "7010",
+      "name_en": "Saudi Telecom Company (stc)",
+      "name_ar": "الاتصالات السعودية",
+      "sector": "Telecom",
+      "aliases": [
+        "STC",
+        "stc",
+        "الاتصالات",
+        "Saudi Telecom",
+        "Stc",
+        "SAUDI TELECOM CO",
+        "Saudi Telecom Co"
+      ]
+    },
+    {
+      "ticker": "7020",
+      "name_en": "Etihad Etisalat (Mobily)",
+      "name_ar": "موبايلي",
+      "sector": "Telecom",
+      "aliases": [
+        "MOBILY",
+        "موبايلي",
+        "EEC",
+        "Mobily"
+      ]
+    },
+    {
+      "ticker": "7030",
+      "name_en": "Zain KSA",
+      "name_ar": "زين السعودية",
+      "sector": "Telecom",
+      "aliases": [
+        "ZAIN",
+        "زين"
+      ]
+    },
+    {
+      "ticker": "7040",
+      "name_en": "Solutions by STC",
+      "name_ar": "حلول اس تي سي",
+      "sector": "Telecom",
+      "aliases": [
+        "SOLUTIONS",
+        "حلول",
+        "GO",
+        "عذيب",
+        "Etihad Atheeb",
+        "GO Telecom",
+        "إتحاد عذيب"
+      ]
+    },
+    {
+      "ticker": "4190",
+      "name_en": "Jarir Marketing",
+      "name_ar": "جرير",
+      "sector": "Retailing",
+      "aliases": [
+        "JARIR",
+        "جرير",
+        "Jarir Bookstore"
+      ]
+    },
+    {
+      "ticker": "4001",
+      "name_en": "Abdullah Al Othaim Markets",
+      "name_ar": "أسواق العثيم",
+      "sector": "Retailing",
+      "aliases": [
+        "OTHAIM",
+        "العثيم"
+      ]
+    },
+    {
+      "ticker": "4003",
+      "name_en": "Extra (United Electronics Co)",
+      "name_ar": "إكسترا",
+      "sector": "Retailing",
+      "aliases": [
+        "EXTRA",
+        "إكسترا",
+        "United Electronics",
+        "UEC"
+      ]
+    },
+    {
+      "ticker": "2080",
+      "name_en": "Almarai",
+      "name_ar": "المراعي",
+      "sector": "Food & Beverages",
+      "aliases": [
+        "ALMARAI",
+        "المراعي",
+        "أكوا",
+        "ACWA",
+        "اكوا باور"
+      ]
+    },
+    {
+      "ticker": "2050",
+      "name_en": "Savola Group",
+      "name_ar": "صافولا",
+      "sector": "Food & Beverages",
+      "aliases": [
+        "SAVOLA",
+        "صافولا"
+      ]
+    },
+    {
+      "ticker": "2100",
+      "name_en": "Wafrah for Industry & Development",
+      "name_ar": "الوفرة",
+      "sector": "Food & Beverages",
+      "aliases": [
+        "WAFRAH"
+      ]
+    },
+    {
+      "ticker": "2270",
+      "name_en": "Luberef (Saudi Aramco Base Oil)",
+      "name_ar": "لوبريف",
+      "sector": "Energy",
+      "aliases": [
+        "LUBEREF",
+        "لوبريف"
+      ]
+    },
+    {
+      "ticker": "2280",
+      "name_en": "Almarai Co Ltd",
+      "name_ar": "المراعي",
+      "sector": "Food & Beverages",
+      "aliases": [
+        "ALMARAI CO",
+        "ALMARAI",
+        "المراعي",
+        "Almarai",
+        "Al Marai"
+      ]
+    },
+    {
+      "ticker": "6001",
+      "name_en": "Halwani Bros",
+      "name_ar": "حلواني إخوان",
+      "sector": "Food & Beverages",
+      "aliases": [
+        "HALWANI"
+      ]
+    },
+    {
+      "ticker": "6010",
+      "name_en": "National Agricultural Development (NADEC)",
+      "name_ar": "نادك",
+      "sector": "Food & Beverages",
+      "aliases": [
+        "NADEC",
+        "نادك"
+      ]
+    },
+    {
+      "ticker": "6020",
+      "name_en": "BinDawood Holding",
+      "name_ar": "بن داود القابضة",
+      "sector": "Retailing",
+      "aliases": [
+        "BINDAWOOD",
+        "بن داود",
+        "Bindawood"
+      ]
+    },
+    {
+      "ticker": "6050",
+      "name_en": "Saudi Automotive Services (SACO)",
+      "name_ar": "ساكو",
+      "sector": "Retailing",
+      "aliases": [
+        "SACO",
+        "ساكو",
+        "Saudi Automotive Services",
+        "Saudi Automotive"
+      ]
+    },
+    {
+      "ticker": "4013",
+      "name_en": "Dr. Sulaiman Al Habib Medical",
+      "name_ar": "سليمان الحبيب",
+      "sector": "Healthcare",
+      "aliases": [
+        "AL HABIB",
+        "سليمان الحبيب",
+        "Sulaiman Al Habib",
+        "Sulaiman Al Habib Medical",
+        "SULAIMAN ALHABIB MEDICAL",
+        "ALHABIB",
+        "Al Habib",
+        "DR. SULAIMAN AL HABIB",
+        "Dr Sulaiman Al Habib"
+      ]
+    },
+    {
+      "ticker": "4002",
+      "name_en": "Mouwasat Medical Services",
+      "name_ar": "المواساة",
+      "sector": "Healthcare",
+      "aliases": [
+        "MOUWASAT",
+        "المواساة",
+        "مكة",
+        "MAKKAH",
+        "Makkah Construction",
+        "ALMOUWSAT",
+        "Almouwsat"
+      ]
+    },
+    {
+      "ticker": "4004",
+      "name_en": "Dallah Healthcare",
+      "name_ar": "دله الصحية",
+      "sector": "Healthcare",
+      "aliases": [
+        "DALLAH",
+        "دله"
+      ]
+    },
+    {
+      "ticker": "4005",
+      "name_en": "Care (National Medical Care)",
+      "name_ar": "رعاية",
+      "sector": "Healthcare",
+      "aliases": [
+        "CARE",
+        "رعاية",
+        "National Medical Care",
+        "NATIONAL MEDICAL CARE CO"
+      ]
+    },
+    {
+      "ticker": "4007",
+      "name_en": "Al Hammadi Holding",
+      "name_ar": "الحمادي",
+      "sector": "Healthcare",
+      "aliases": [
+        "HAMMADI",
+        "الحمادي",
+        "Al Hammadi",
+        "AL HAMMADI HOLDING",
+        "AlHammaadi"
+      ]
+    },
+    {
+      "ticker": "4140",
+      "name_en": "Al Nahdi Medical",
+      "name_ar": "النهدي الطبية",
+      "sector": "Healthcare",
+      "aliases": [
+        "NAHDI",
+        "النهدي",
+        "Al Nahdi",
+        "Nahdi Medical"
+      ]
+    },
+    {
+      "ticker": "4009",
+      "name_en": "Saudi Chemical Company (Holding)",
+      "name_ar": "الكيميائية السعودية",
+      "sector": "Healthcare",
+      "aliases": [
+        "SCCH"
+      ]
+    },
+    {
+      "ticker": "4141",
+      "name_en": "Al Andalus Property Co",
+      "name_ar": "الأندلس",
+      "sector": "Real Estate",
+      "aliases": [
+        "ANDALUS"
+      ]
+    },
+    {
+      "ticker": "4142",
+      "name_en": "Riyadh Cables Group",
+      "name_ar": "رياض كابلز",
+      "sector": "Capital Goods",
+      "aliases": [
+        "RIYADH CABLES",
+        "Riyadh Cables",
+        "العبيكان",
+        "OBEIKAN"
+      ]
+    },
+    {
+      "ticker": "8010",
+      "name_en": "Tawuniya (Cooperative Insurance)",
+      "name_ar": "التعاونية",
+      "sector": "Insurance",
+      "aliases": [
+        "TAWUNIYA",
+        "التعاونية",
+        "CO FOR COOPERATIVE INSURANCE",
+        "TAWUNIYA INSURANCE"
+      ]
+    },
+    {
+      "ticker": "8200",
+      "name_en": "Malath Cooperative Insurance",
+      "name_ar": "ملاذ للتأمين",
+      "sector": "Insurance",
+      "aliases": [
+        "MALATH",
+        "التعاونية",
+        "TAWUNIYA",
+        "Tawuniya"
+      ]
+    },
+    {
+      "ticker": "8210",
+      "name_en": "Bupa Arabia",
+      "name_ar": "بوبا العربية",
+      "sector": "Insurance",
+      "aliases": [
+        "BUPA",
+        "بوبا",
+        "BUPA ARABIA",
+        "Bupa Arabia"
+      ]
+    },
+    {
+      "ticker": "8230",
+      "name_en": "Walaa Cooperative Insurance",
+      "name_ar": "ولاء للتأمين",
+      "sector": "Insurance",
+      "aliases": [
+        "WALAA",
+        "ولاء",
+        "Walaa Cooperative Insurance"
+      ]
+    },
+    {
+      "ticker": "8040",
+      "name_en": "Saudi Re for Cooperative Reinsurance",
+      "name_ar": "إعادة السعودية",
+      "sector": "Insurance",
+      "aliases": [
+        "SAUDI RE",
+        "إعادة",
+        "Saudi Re For Cooperative Reinsurance"
+      ]
+    },
+    {
+      "ticker": "4300",
+      "name_en": "Dar Al Arkan Real Estate",
+      "name_ar": "دار الأركان",
+      "sector": "Real Estate",
+      "aliases": [
+        "DAR AL ARKAN",
+        "دار الأركان"
+      ]
+    },
+    {
+      "ticker": "4020",
+      "name_en": "Saudi Real Estate Company",
+      "name_ar": "العقارية السعودية",
+      "sector": "Real Estate",
+      "aliases": [
+        "SRECO",
+        "العقارية"
+      ]
+    },
+    {
+      "ticker": "4100",
+      "name_en": "Makkah Construction & Development",
+      "name_ar": "مكة للإنشاء",
+      "sector": "Real Estate",
+      "aliases": [
+        "MAKKAH",
+        "مكة",
+        "Makkah Construction and Development Co."
+      ]
+    },
+    {
+      "ticker": "4150",
+      "name_en": "Jabal Omar Development",
+      "name_ar": "جبل عمر",
+      "sector": "Real Estate",
+      "aliases": [
+        "JABAL OMAR",
+        "جبل عمر",
+        "Jabal Omar"
+      ]
+    },
+    {
+      "ticker": "4250",
+      "name_en": "Jazan Energy & Development (JAZADCO)",
+      "name_ar": "جازادكو",
+      "sector": "Real Estate",
+      "aliases": [
+        "JAZADCO"
+      ]
+    },
+    {
+      "ticker": "4320",
+      "name_en": "Knowledge Economic City (KEC)",
+      "name_ar": "مدينة المعرفة",
+      "sector": "Real Estate",
+      "aliases": [
+        "KEC",
+        "مدينة المعرفة",
+        "Knowledge Economic City"
+      ]
+    },
+    {
+      "ticker": "4310",
+      "name_en": "Emaar The Economic City",
+      "name_ar": "إعمار المدينة الاقتصادية",
+      "sector": "Real Estate",
+      "aliases": [
+        "EMAAR EC",
+        "إعمار"
+      ]
+    },
+    {
+      "ticker": "4325",
+      "name_en": "Umm Al Qura for Development",
+      "name_ar": "أم القرى للتطوير",
+      "sector": "Real Estate",
+      "aliases": [
+        "UMM AL QURA"
+      ]
+    },
+    {
+      "ticker": "4031",
+      "name_en": "Saudi Ground Services (SGS)",
+      "name_ar": "الخدمات الأرضية",
+      "sector": "Transport",
+      "aliases": [
+        "SGS",
+        "الخدمات الأرضية",
+        "SAICO",
+        "الصقر"
+      ]
+    },
+    {
+      "ticker": "4030",
+      "name_en": "Theeb Rent a Car",
+      "name_ar": "ذيب لتأجير السيارات",
+      "sector": "Transport",
+      "aliases": [
+        "THEEB",
+        "ذيب"
+      ]
+    },
+    {
+      "ticker": "4040",
+      "name_en": "Saudi Public Transport (SAPTCO)",
+      "name_ar": "سابتكو",
+      "sector": "Transport",
+      "aliases": [
+        "SAPTCO",
+        "سابتكو"
+      ]
+    },
+    {
+      "ticker": "4261",
+      "name_en": "Budget Saudi Arabia",
+      "name_ar": "بدجت السعودية",
+      "sector": "Transport",
+      "aliases": [
+        "BUDGET",
+        "العثيم",
+        "OTHAIM",
+        "Al Othaim",
+        "عبدالله العثيم"
+      ]
+    },
+    {
+      "ticker": "4263",
+      "name_en": "SAL Saudi Logistics Services",
+      "name_ar": "سال",
+      "sector": "Transport",
+      "aliases": [
+        "SAL",
+        "سال",
+        "SAL Saudi Logistics"
+      ]
+    },
+    {
+      "ticker": "4210",
+      "name_en": "United International Transportation (UNITRANS)",
+      "name_ar": "النقل المتحدة",
+      "sector": "Transport",
+      "aliases": [
+        "UNITRANS",
+        "الحبيب",
+        "AL HABIB",
+        "Dr. Sulaiman Al Habib"
+      ]
+    },
+    {
+      "ticker": "4070",
+      "name_en": "Tawasul Holding",
+      "name_ar": "تواصل القابضة",
+      "sector": "Telecom",
+      "aliases": [
+        "TAWASUL",
+        "Saudi Research and Marketing Group",
+        "SRMG"
+      ]
+    },
+    {
+      "ticker": "1831",
+      "name_en": "Leejam Sports",
+      "name_ar": "لجام للرياضة",
+      "sector": "Consumer Services",
+      "aliases": [
+        "LEEJAM",
+        "لجام",
+        "Lesha"
+      ]
+    },
+    {
+      "ticker": "1833",
+      "name_en": "Maharah Human Resources",
+      "name_ar": "مهارة للموارد البشرية",
+      "sector": "Commercial Services",
+      "aliases": [
+        "MAHARAH",
+        "مهارة",
+        "Maharah Recruitment and Outsourcing Company"
+      ]
+    },
+    {
+      "ticker": "2081",
+      "name_en": "Alkhorayef Water and Power",
+      "name_ar": "الخريف",
+      "sector": "Capital Goods",
+      "aliases": [
+        "ALKHORAYEF",
+        "الخريف"
+      ]
+    },
+    {
+      "ticker": "1820",
+      "name_en": "Baan Holding Group",
+      "name_ar": "مجموعة بان القابضة",
+      "sector": "Consumer Services",
+      "aliases": [
+        "BAAN",
+        "بان",
+        "Baan"
+      ]
+    },
+    {
+      "ticker": "4264",
+      "name_en": "Flynas",
+      "name_ar": "طيران ناس",
+      "sector": "Transportation",
+      "aliases": [
+        "FLYNAS",
+        "flynas",
+        "طيران ناس",
+        "Flynas Co"
+      ]
+    },
+    {
+      "ticker": "1835",
+      "name_en": "Tamkeen Human Resources Co",
+      "name_ar": "تمكين للموارد البشرية",
+      "sector": "Commercial Services",
+      "aliases": [
+        "TAMKEEN",
+        "تمكين",
+        "Tamkeen",
+        "Tamkeen Human Resources",
+        "TAMKEEN HUMAN RESOURCES",
+        "Tamkeen Human Resource"
+      ]
+    },
+    {
+      "ticker": "2160",
+      "name_en": "Saudi Arabian Amiantit",
+      "name_ar": "أميانتيت العربية",
+      "sector": "Capital Goods",
+      "aliases": [
+        "AMIANTIT",
+        "أميانتيت"
+      ]
+    },
+    {
+      "ticker": "2090",
+      "name_en": "National Gypsum Company",
+      "name_ar": "الجبس الأهلية",
+      "sector": "Materials",
+      "aliases": [
+        "NGC",
+        "الغاز",
+        "GASCO",
+        "National Gas"
+      ]
+    },
+    {
+      "ticker": "7202",
+      "name_en": "Elm Company",
+      "name_ar": "شركة علم",
+      "sector": "Software",
+      "aliases": [
+        "ELM",
+        "علم",
+        "Elm Co.",
+        "Elm",
+        "ELM CO.",
+        "Elm Company"
+      ]
+    },
+    {
+      "ticker": "7201",
+      "name_en": "Arabian Internet & Communications (solutions)",
+      "name_ar": "العربية للإنترنت",
+      "sector": "Software",
+      "aliases": [
+        "SOLUTIONS",
+        "العربية للإنترنت",
+        "Arabian Internet and Communications Services"
+      ]
+    },
+    {
+      "ticker": "6004",
+      "name_en": "CATRION (Saudi Airlines Catering)",
+      "name_ar": "كاترين",
+      "sector": "Consumer Services",
+      "aliases": [
+        "CATRION",
+        "كاترين",
+        "CATERING",
+        "Saudi Airlines Catering",
+        "Catering Co.",
+        "Catering Services Company",
+        "Catering"
+      ]
+    },
+    {
+      "ticker": "4280",
+      "name_en": "Kingdom Holding Company",
+      "name_ar": "المملكة القابضة",
+      "sector": "Diversified",
+      "aliases": [
+        "KINGDOM",
+        "المملكة"
+      ]
+    },
+    {
+      "ticker": "2380",
+      "name_en": "Rasan Information Technology (Rasan)",
+      "name_ar": "رسن لتقنية المعلومات",
+      "sector": "Software",
+      "aliases": [
+        "RASAN",
+        "رسن",
+        "الدريس",
+        "ALDREES",
+        "Aldrees Petroleum"
+      ]
+    },
+    {
+      "ticker": "1830",
+      "name_en": "Leejam Sports (Fitness Time)",
+      "name_ar": "لجام",
+      "sector": "Consumer Services",
+      "aliases": [
+        "LEEJAM"
+      ]
+    },
+    {
+      "ticker": "4160",
+      "name_en": "Thimar Development Holding",
+      "name_ar": "ثمار",
+      "sector": "Food & Beverages",
+      "aliases": [
+        "THIMAR",
+        "ثمار"
+      ]
+    },
+    {
+      "ticker": "3001",
+      "name_en": "Saudi Cement Company",
+      "name_ar": "الإسمنت السعودية",
+      "sector": "Materials",
+      "aliases": [
+        "SACCI"
+      ]
+    },
+    {
+      "ticker": "3002",
+      "name_en": "Najran Cement",
+      "name_ar": "إسمنت نجران",
+      "sector": "Materials",
+      "aliases": [
+        "NAJRAN"
+      ]
+    },
+    {
+      "ticker": "3003",
+      "name_en": "City Cement",
+      "name_ar": "إسمنت المدينة",
+      "sector": "Materials",
+      "aliases": [
+        "CITY CEMENT"
+      ]
+    },
+    {
+      "ticker": "3004",
+      "name_en": "Northern Region Cement",
+      "name_ar": "إسمنت الشمالية",
+      "sector": "Materials",
+      "aliases": [
+        "NRCC"
+      ]
+    },
+    {
+      "ticker": "3010",
+      "name_en": "Arabian Cement Company",
+      "name_ar": "الإسمنت العربية",
+      "sector": "Materials",
+      "aliases": [
+        "ACC"
+      ]
+    },
+    {
+      "ticker": "3020",
+      "name_en": "Yamama Saudi Cement",
+      "name_ar": "إسمنت اليمامة",
+      "sector": "Materials",
+      "aliases": [
+        "YAMAMA",
+        "يمامة",
+        "Yamama Cement Company"
+      ]
+    },
+    {
+      "ticker": "3030",
+      "name_en": "Saudi White Cement (SWC)",
+      "name_ar": "الإسمنت الأبيض",
+      "sector": "Materials",
+      "aliases": [
+        "SWC"
+      ]
+    },
+    {
+      "ticker": "3040",
+      "name_en": "Qassim Cement",
+      "name_ar": "إسمنت القصيم",
+      "sector": "Materials",
+      "aliases": [
+        "QACCO"
+      ]
+    },
+    {
+      "ticker": "3050",
+      "name_en": "Southern Province Cement",
+      "name_ar": "إسمنت الجنوبية",
+      "sector": "Materials",
+      "aliases": [
+        "SPCC"
+      ]
+    },
+    {
+      "ticker": "3060",
+      "name_en": "Yanbu Cement",
+      "name_ar": "إسمنت ينبع",
+      "sector": "Materials",
+      "aliases": [
+        "YNCC",
+        "اليمامة",
+        "YAMAMA"
+      ]
+    },
+    {
+      "ticker": "3080",
+      "name_en": "Eastern Province Cement",
+      "name_ar": "إسمنت المنطقة الشرقية",
+      "sector": "Materials",
+      "aliases": [
+        "EPCC"
+      ]
+    },
+    {
+      "ticker": "3090",
+      "name_en": "Tabuk Cement",
+      "name_ar": "إسمنت تبوك",
+      "sector": "Materials",
+      "aliases": [
+        "TACCO"
+      ]
+    },
+    {
+      "ticker": "3091",
+      "name_en": "Hail Cement",
+      "name_ar": "إسمنت حائل",
+      "sector": "Materials",
+      "aliases": [
+        "HCC"
+      ]
+    },
+    {
+      "ticker": "3005",
+      "name_en": "Riyadh Cement",
+      "name_ar": "إسمنت الرياض",
+      "sector": "Materials",
+      "aliases": [
+        "RIYADH CEMENT",
+        "Riyadh Cement"
+      ]
+    },
+    {
+      "ticker": "9526",
+      "name_en": "Jahez International",
+      "name_ar": "جاهز",
+      "sector": "Consumer Services",
+      "aliases": [
+        "JAHEZ",
+        "جاهز",
+        "Jahez"
+      ]
+    },
+    {
+      "ticker": "9524",
+      "name_en": "MBC Group",
+      "name_ar": "مجموعة إم بي سي",
+      "sector": "Media",
+      "aliases": [
+        "MBC",
+        "إم بي سي"
+      ]
+    },
+    {
+      "ticker": "9525",
+      "name_en": "Tadweer Environmental Solutions",
+      "name_ar": "تدوير",
+      "sector": "Commercial Services",
+      "aliases": [
+        "TADWEER",
+        "تدوير",
+        "Tadweer"
+      ]
+    },
+    {
+      "ticker": "9531",
+      "name_en": "Academy of Learning",
+      "name_ar": "أكاديمية التعلم",
+      "sector": "Education",
+      "aliases": [
+        "ACADEMY"
+      ]
+    },
+    {
+      "ticker": "9527",
+      "name_en": "Sure Global Tech",
+      "name_ar": "شور جلوبال",
+      "sector": "Software",
+      "aliases": [
+        "SURE",
+        "شور"
+      ]
+    },
+    {
+      "ticker": "9540",
+      "name_en": "CMCER",
+      "name_ar": "سي إم سي إي آر",
+      "sector": "Materials",
+      "aliases": [
+        "CMCER"
+      ]
+    },
+    {
+      "ticker": "9533",
+      "name_en": "Naba Alsaha Medical Services",
+      "name_ar": "نبع الصحة الطبية",
+      "sector": "Healthcare",
+      "aliases": [
+        "NABA",
+        "نبع"
+      ]
+    },
+    {
+      "ticker": "9528",
+      "name_en": "Balady Poultry",
+      "name_ar": "بلدي",
+      "sector": "Food",
+      "aliases": [
+        "BALADY",
+        "بلدي"
+      ]
+    },
+    {
+      "ticker": "9541",
+      "name_en": "Sumou Real Estate",
+      "name_ar": "سمو العقارية",
+      "sector": "Real Estate",
+      "aliases": [
+        "SUMOU",
+        "سمو"
+      ]
+    },
+    {
+      "ticker": "9542",
+      "name_en": "Banan Real Estate",
+      "name_ar": "بنان",
+      "sector": "Real Estate",
+      "aliases": [
+        "BANAN",
+        "بنان"
+      ]
+    },
+    {
+      "ticker": "9535",
+      "name_en": "Burgerizzr",
+      "name_ar": "برقرايزر",
+      "sector": "Consumer Services",
+      "aliases": [
+        "BURGERIZZR"
+      ]
+    },
+    {
+      "ticker": "9536",
+      "name_en": "Group Five Pipe Saudi",
+      "name_ar": "المجموعة الخمسة",
+      "sector": "Materials",
+      "aliases": [
+        "GROUP FIVE"
+      ]
+    },
+    {
+      "ticker": "9537",
+      "name_en": "Networkers",
+      "name_ar": "نتوركرز",
+      "sector": "Software",
+      "aliases": [
+        "NETWORKERS"
+      ]
+    },
+    {
+      "ticker": "9529",
+      "name_en": "Medgulf (Mediterranean & Gulf Insurance)",
+      "name_ar": "ميدغلف",
+      "sector": "Insurance",
+      "aliases": [
+        "MEDGULF"
+      ]
+    },
+    {
+      "ticker": "9539",
+      "name_en": "ProMedex",
+      "name_ar": "بروميديكس",
+      "sector": "Healthcare",
+      "aliases": [
+        "PROMEDEX",
+        "MEDEX",
+        "Pro Medex"
+      ]
+    },
+    {
+      "ticker": "9543",
+      "name_en": "Multi Business Company",
+      "name_ar": "الأعمال المتعددة",
+      "sector": "Diversified",
+      "aliases": [
+        "MULTI BUSINESS"
+      ]
+    },
+    {
+      "ticker": "9544",
+      "name_en": "Al Khareef (Obeikan Glass)",
+      "name_ar": "الخريف",
+      "sector": "Materials",
+      "aliases": [
+        "OBEIKAN GLASS",
+        "Obeikan Glass"
+      ]
+    },
+    {
+      "ticker": "6060",
+      "name_en": "Saudi Tadawul Group (Saudi Exchange)",
+      "name_ar": "مجموعة تداول السعودية",
+      "sector": "Diversified Financials",
+      "aliases": [
+        "TADAWUL",
+        "تداول",
+        "Tadawul Group",
+        "TADAWUL GROUP"
+      ]
+    },
+    {
+      "ticker": "2150",
+      "name_en": "Aldrees Petroleum and Transport",
+      "name_ar": "الدريس",
+      "sector": "Energy",
+      "aliases": [
+        "ALDREES",
+        "الدريس",
+        "Aldrees Petroleum"
+      ]
+    },
+    {
+      "ticker": "1810",
+      "name_en": "Seera Group Holding",
+      "name_ar": "مجموعة سيرا القابضة",
+      "sector": "Consumer Services",
+      "aliases": [
+        "SEERA",
+        "سيرا",
+        "Seera Group",
+        "SEERA GROUP HOLDING",
+        "Seera Group Holding"
+      ]
+    },
+    {
+      "ticker": "4006",
+      "name_en": "Fawaz Abdulaziz Alhokair (Cenomi Retail)",
+      "name_ar": "فواز الحكير",
+      "sector": "Retailing",
+      "aliases": [
+        "ALHOKAIR",
+        "CENOMI",
+        "الحكير"
+      ]
+    },
+    {
+      "ticker": "4012",
+      "name_en": "Anaam International Holding",
+      "name_ar": "أنعام الدولية",
+      "sector": "Food",
+      "aliases": [
+        "ANAAM",
+        "الخدمات الهندسية",
+        "ARABCON"
+      ]
+    },
+    {
+      "ticker": "4010",
+      "name_en": "Saudi Arabian Cooperative Insurance (SAICO)",
+      "name_ar": "سايكو",
+      "sector": "Insurance",
+      "aliases": [
+        "SAICO"
+      ]
+    },
+    {
+      "ticker": "4050",
+      "name_en": "Saudi Automotive Services (SACO)",
+      "name_ar": "ساكو",
+      "sector": "Retailing",
+      "aliases": []
+    },
+    {
+      "ticker": "4061",
+      "name_en": "Alsaif Gallery",
+      "name_ar": "معرض السيف",
+      "sector": "Retailing",
+      "aliases": [
+        "ALSAIF",
+        "السيف",
+        "ALSAIF GALLERY"
+      ]
+    },
+    {
+      "ticker": "1330",
+      "name_en": "Abdullah A.M. Al Khodari Sons",
+      "name_ar": "الخضري",
+      "sector": "Capital Goods",
+      "aliases": [
+        "KHODARI"
+      ]
+    },
+    {
+      "ticker": "1183",
+      "name_en": "Saudia Dairy & Foodstuff (SADAFCO)",
+      "name_ar": "سدافكو",
+      "sector": "Food",
+      "aliases": [
+        "SADAFCO",
+        "سدافكو"
+      ]
+    },
+    {
+      "ticker": "2040",
+      "name_en": "Saudi Ceramic Company",
+      "name_ar": "الخزف السعودي",
+      "sector": "Materials",
+      "aliases": [
+        "CERAMIC",
+        "الخزف"
+      ]
+    },
+    {
+      "ticker": "2120",
+      "name_en": "Saudi Advanced Industries (SAICO)",
+      "name_ar": "الصناعات المتقدمة",
+      "sector": "Materials",
+      "aliases": [
+        "SAICO"
+      ]
+    },
+    {
+      "ticker": "2140",
+      "name_en": "Al Ahsa Development Co",
+      "name_ar": "تنمية الأحساء",
+      "sector": "Real Estate",
+      "aliases": [
+        "AHSA"
+      ]
+    },
+    {
+      "ticker": "2180",
+      "name_en": "Filing & Packing Materials Mfg (FipCo)",
+      "name_ar": "فبكو",
+      "sector": "Materials",
+      "aliases": [
+        "FIPCO"
+      ]
+    },
+    {
+      "ticker": "2230",
+      "name_en": "Chemanol",
+      "name_ar": "كيمانول",
+      "sector": "Materials",
+      "aliases": [
+        "CHEMANOL",
+        "كيمانول",
+        "سافكو",
+        "SAFCO"
+      ]
+    },
+    {
+      "ticker": "1903",
+      "name_en": "Elm Company",
+      "name_ar": "علم",
+      "sector": "Software",
+      "aliases": [
+        "ELM"
+      ]
+    },
+    {
+      "ticker": "1832",
+      "name_en": "APCO (Al Jouf Agriculture)",
+      "name_ar": "الجوف الزراعية",
+      "sector": "Food",
+      "aliases": [
+        "APCO",
+        "الجوف"
+      ]
+    },
+    {
+      "ticker": "1304",
+      "name_en": "Al Babtain Power & Telecommunication",
+      "name_ar": "البابطين",
+      "sector": "Capital Goods",
+      "aliases": [
+        "AL BABTAIN",
+        "البابطين",
+        "Al Babtain Power & Telecommu"
+      ]
+    },
+    {
+      "ticker": "1303",
+      "name_en": "Electrical Industries Co (EIC)",
+      "name_ar": "الصناعات الكهربائية",
+      "sector": "Capital Goods",
+      "aliases": [
+        "EIC",
+        "EIC AB"
+      ]
+    },
+    {
+      "ticker": "4180",
+      "name_en": "Fitaihi Holding Group",
+      "name_ar": "فتيحي",
+      "sector": "Retailing",
+      "aliases": [
+        "FITAIHI",
+        "فتيحي"
+      ]
+    },
+    {
+      "ticker": "4170",
+      "name_en": "Tihama Advertising & Public Relations",
+      "name_ar": "تهامة",
+      "sector": "Media",
+      "aliases": [
+        "TIHAMA",
+        "تهامة",
+        "التموين",
+        "SACC",
+        "Saudi Catering"
+      ]
+    },
+    {
+      "ticker": "4130",
+      "name_en": "Al Batool Holding (Shaker)",
+      "name_ar": "الباحة",
+      "sector": "Capital Goods",
+      "aliases": [
+        "SHAKER",
+        "شاكر",
+        "Al Hassan Ghazi Ibrahim Shaker"
+      ]
+    },
+    {
+      "ticker": "4080",
+      "name_en": "Fakeeh Care Group",
+      "name_ar": "فقيه للرعاية",
+      "sector": "Healthcare",
+      "aliases": [
+        "FAKEEH",
+        "فقيه",
+        "لوبريف",
+        "LUBEREF",
+        "Saudi Aramco Base Oil"
+      ]
+    },
+    {
+      "ticker": "4191",
+      "name_en": "Ataa Educational Company",
+      "name_ar": "عطاء التعليمية",
+      "sector": "Education",
+      "aliases": [
+        "ATAA",
+        "عطاء",
+        "Ataa Educational Co",
+        "الأبحاث والإعلام",
+        "SRMG",
+        "Saudi Research"
+      ]
+    },
+    {
+      "ticker": "4161",
+      "name_en": "BinDawood Holding",
+      "name_ar": "بن داود",
+      "sector": "Retailing",
+      "aliases": []
+    },
+    {
+      "ticker": "2110",
+      "name_en": "Saudi Cable Company",
+      "name_ar": "الكابلات السعودية",
+      "sector": "Capital Goods",
+      "aliases": [
+        "SCC"
+      ]
+    },
+    {
+      "ticker": "2070",
+      "name_en": "Saudi Pharmaceutical Industries & Medical Appliances (SPIMACO)",
+      "name_ar": "سبيماكو",
+      "sector": "Healthcare",
+      "aliases": [
+        "SPIMACO",
+        "سبيماكو"
+      ]
+    },
+    {
+      "ticker": "1201",
+      "name_en": "Takween Advanced Industries",
+      "name_ar": "تكوين",
+      "sector": "Materials",
+      "aliases": [
+        "TAKWEEN",
+        "تكوين"
+      ]
+    },
+    {
+      "ticker": "1202",
+      "name_en": "Middle East Paper Company (MEPCO)",
+      "name_ar": "ميبكو",
+      "sector": "Materials",
+      "aliases": [
+        "MEPCO",
+        "ميبكو"
+      ]
+    },
+    {
+      "ticker": "1213",
+      "name_en": "Naseej International Trading",
+      "name_ar": "نسيج",
+      "sector": "Capital Goods",
+      "aliases": [
+        "NASEEJ",
+        "نسيج"
+      ]
+    },
+    {
+      "ticker": "1214",
+      "name_en": "Al Kathiri Holding",
+      "name_ar": "الكثيري القابضة",
+      "sector": "Diversified",
+      "aliases": [
+        "KATHIRI"
+      ]
+    },
+    {
+      "ticker": "4200",
+      "name_en": "Saudi Airlines Catering",
+      "name_ar": "تموين",
+      "sector": "Consumer Services",
+      "aliases": []
+    },
+    {
+      "ticker": "4230",
+      "name_en": "Red Sea International",
+      "name_ar": "البحر الأحمر الدولية",
+      "sector": "Capital Goods",
+      "aliases": [
+        "RSI"
+      ]
+    },
+    {
+      "ticker": "4260",
+      "name_en": "Saudi Enaya Cooperative Insurance",
+      "name_ar": "عناية",
+      "sector": "Insurance",
+      "aliases": [
+        "ENAYA",
+        "الكابلات",
+        "MESC",
+        "Middle East Cables"
+      ]
+    },
+    {
+      "ticker": "4270",
+      "name_en": "Solidarity Saudi Takaful",
+      "name_ar": "سوليدرتي",
+      "sector": "Insurance",
+      "aliases": [
+        "SOLIDARITY"
+      ]
+    },
+    {
+      "ticker": "8060",
+      "name_en": "Salama Cooperative Insurance",
+      "name_ar": "سلامة",
+      "sector": "Insurance",
+      "aliases": [
+        "SALAMA"
+      ]
+    },
+    {
+      "ticker": "4008",
+      "name_en": "Saudi Home Loans (Bidaya)",
+      "name_ar": "بداية",
+      "sector": "Financials",
+      "aliases": [
+        "BIDAYA",
+        "تداول",
+        "TADAWUL"
+      ]
+    },
+    {
+      "ticker": "8250",
+      "name_en": "Alinma Tokio Marine",
+      "name_ar": "الإنماء طوكيو مارين",
+      "sector": "Insurance",
+      "aliases": [
+        "ATM"
+      ]
+    },
+    {
+      "ticker": "8240",
+      "name_en": "Gulf General Cooperative Insurance",
+      "name_ar": "الخليجية العامة",
+      "sector": "Insurance",
+      "aliases": [
+        "GULF GENERAL"
+      ]
+    },
+    {
+      "ticker": "8270",
+      "name_en": "Arabian Shield Cooperative Insurance",
+      "name_ar": "الدرع العربي",
+      "sector": "Insurance",
+      "aliases": [
+        "ARABIAN SHIELD"
+      ]
+    },
+    {
+      "ticker": "8280",
+      "name_en": "Al Ahli Takaful",
+      "name_ar": "الأهلي تكافل",
+      "sector": "Insurance",
+      "aliases": [
+        "AHLI TAKAFUL"
+      ]
+    },
+    {
+      "ticker": "8180",
+      "name_en": "Al Sagr Co for Cooperative Insurance",
+      "name_ar": "الصقر",
+      "sector": "Insurance",
+      "aliases": [
+        "SAGR"
+      ]
+    },
+    {
+      "ticker": "8050",
+      "name_en": "Saudi Fransi Insurance (Allianz SF)",
+      "name_ar": "أليانز إس إف",
+      "sector": "Insurance",
+      "aliases": [
+        "ALLIANZ SF"
+      ]
+    },
+    {
+      "ticker": "2190",
+      "name_en": "Saudi Industrial Export (Sieco)",
+      "name_ar": "سيكو",
+      "sector": "Materials",
+      "aliases": [
+        "SIECO",
+        "سبكيم",
+        "SIPCHEM",
+        "Sipchem",
+        "سهارة",
+        "Sahara Petrochemical"
+      ]
+    },
+    {
+      "ticker": "2385",
+      "name_en": "Elm Company",
+      "name_ar": "شركة علم",
+      "sector": "IT",
+      "aliases": [
+        "ELM"
+      ]
+    },
+    {
+      "ticker": "4014",
+      "name_en": "Cenomi Centers (formerly Arabian Centres)",
+      "name_ar": "سينومي سنترز",
+      "sector": "Real Estate",
+      "aliases": [
+        "CENOMI CENTERS",
+        "Arabian Centres"
+      ]
+    },
+    {
+      "ticker": "2383",
+      "name_en": "Maharah Human Resources",
+      "name_ar": "مهارة",
+      "sector": "Commercial Services",
+      "aliases": [
+        "MAHARAH",
+        "مهارة"
+      ]
+    },
+    {
+      "ticker": "4163",
+      "name_en": "Al Dawaa Medical Services",
+      "name_ar": "شركة الدواء للخدمات الطبية",
+      "sector": "Health Care",
+      "aliases": [
+        "الدواء",
+        "ALDAWAA",
+        "Al Dawaa",
+        "Aldawaa Medical"
+      ]
+    },
+    {
+      "ticker": "2282",
+      "name_en": "Fourth Milling Company",
+      "name_ar": "المطاحن الرابعة",
+      "sector": "Food & Beverages",
+      "aliases": [
+        "المطاحن",
+        "FOURTH MILLING",
+        "المطاحن الرابعه"
+      ]
+    },
+    {
+      "ticker": "4339",
+      "name_en": "Adir Real Estate Development",
+      "name_ar": "أدير العقارية",
+      "sector": "Real Estate Management & Development",
+      "aliases": [
+        "أدير",
+        "ADIR",
+        "Adir Real Estate",
+        "ادير العقاريه"
+      ]
+    },
+    {
+      "ticker": "4110",
+      "name_en": "BATIC Investments",
+      "name_ar": "باتك للاستثمار والاعمال اللوجستية",
+      "sector": "Transportation",
+      "aliases": [
+        "باتك",
+        "BATIC"
+      ]
+    },
+    {
+      "ticker": "4262",
+      "name_en": "Bawan Company",
+      "name_ar": "شركة بوان",
+      "sector": "Capital Goods",
+      "aliases": [
+        "بوان",
+        "BAWAN"
+      ]
+    },
+    {
+      "ticker": "7200",
+      "name_en": "Etihad Etisalat (Mobily)",
+      "name_ar": "إتحاد إتصالات (موبايلي)",
+      "sector": "Telecommunication Services",
+      "aliases": [
+        "موبايلي",
+        "MOBILY",
+        "Etihad Etisalat",
+        "Mobily",
+        "ETIHAD ETISALAT CO",
+        "Etihad Etisalat Co"
+      ]
+    },
+    {
+      "ticker": "4081",
+      "name_en": "National Shipping Company of Saudi Arabia (Bahri)",
+      "name_ar": "الشركة الوطنية السعودية للنقل البحري (بحري)",
+      "sector": "Transportation",
+      "aliases": [
+        "بحري",
+        "BAHRI",
+        "National Shipping",
+        "The National Shipping Co.",
+        "NATIONAL SHIPPING CO OF/THE",
+        "NATIONAL SHIPPING CO",
+        "National Shipping Co of Saudi Arabia"
+      ]
+    },
+    {
+      "ticker": "3007",
+      "name_en": "Arabian Pipes Company",
+      "name_ar": "الأنابيب العربية",
+      "sector": "Capital Goods",
+      "aliases": [
+        "الأنابيب",
+        "APC",
+        "Arabian Pipes"
+      ]
+    },
+    {
+      "ticker": "1302",
+      "name_en": "Bupa Arabia",
+      "name_ar": "بوبا العربية",
+      "sector": "Insurance",
+      "aliases": [
+        "بوبا",
+        "BUPA"
+      ]
+    },
+    {
+      "ticker": "6070",
+      "name_en": "Al Rajhi REIT Fund",
+      "name_ar": "صندوق الراجحي ريت",
+      "sector": "REITs",
+      "aliases": [
+        "الراجحي ريت"
+      ]
+    },
+    {
+      "ticker": "4164",
+      "name_en": "Nahdi Medical Company",
+      "name_ar": "شركة النهدي الطبية",
+      "sector": "Health Care",
+      "aliases": [
+        "النهدي",
+        "NAHDI",
+        "Nahdi Medical"
+      ]
+    },
+    {
+      "ticker": "4192",
+      "name_en": "Al Rajhi Company for Cooperative Insurance (Al Rajhi Takaful)",
+      "name_ar": "شركة الراجحي للتأمين التعاوني",
+      "sector": "Insurance",
+      "aliases": [
+        "الراجحي للتأمين",
+        "ALRAJHI TAKAFUL",
+        "Al Rajhi Takaful"
+      ]
+    },
+    {
+      "ticker": "6002",
+      "name_en": "Herfy Food Services",
+      "name_ar": "هرفي للخدمات الغذائية",
+      "sector": "Consumer Services",
+      "aliases": [
+        "هرفي",
+        "HERFY"
+      ]
+    },
+    {
+      "ticker": "4321",
+      "name_en": "Alujain Corporation",
+      "name_ar": "شركة اللجين",
+      "sector": "Materials",
+      "aliases": [
+        "اللجين",
+        "ALUJAIN",
+        "Alujain"
+      ]
+    },
+    {
+      "ticker": "4016",
+      "name_en": "Jamjoom Pharmaceuticals",
+      "name_ar": "مصنع جمجوم للأدوية",
+      "sector": "Pharma",
+      "aliases": [
+        "JAMJOOM",
+        "JAMJOOM PHARM.",
+        "JAMJOOM PHARMA",
+        "Jamjoom",
+        "جمجوم"
+      ]
+    }
+  ]
+}

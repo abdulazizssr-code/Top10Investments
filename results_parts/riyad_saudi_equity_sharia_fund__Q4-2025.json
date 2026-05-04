@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_saudi_equity_sharia_fund",
+  "fund": "Riyad Saudi Equity Sharia Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 28.6
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 8.6
+    },
+    {
+      "rank": 3,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 4,
+      "name": "STC",
+      "ticker": "",
+      "weight": 7.7
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 6,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 7,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 8,
+      "name": "Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 9,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "Flynas",
+      "ticker": "",
+      "weight": 2.7
+    }
+  ]
+}

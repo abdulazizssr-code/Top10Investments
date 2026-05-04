@@ -1,0 +1,67 @@
+{
+  "fund_key": "itqan_capital_saudi_equity_fund",
+  "fund": "Itqan Capital Saudi Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ITQAN FUND",
+      "ticker": "",
+      "weight": 30.0
+    },
+    {
+      "rank": 2,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 10.0
+    },
+    {
+      "rank": 3,
+      "name": "ZOUJAJ",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 4,
+      "name": "ACWA POWER",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 5,
+      "name": "EXTRA",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 6,
+      "name": "SULAIMAN ALHABIB",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "ALRAJHI BANK",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 8,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "THEEB",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "STC",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

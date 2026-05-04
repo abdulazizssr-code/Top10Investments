@@ -1,0 +1,67 @@
+{
+  "fund_key": "alinma_saudi_equity_fund",
+  "fund": "Alinma Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.8
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 3,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "Jahez",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 5,
+      "name": "Go Telecom (Etihad Atheeb)",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 6,
+      "name": "Awqaf",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 7,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 8,
+      "name": "Rasan",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 9,
+      "name": "ULHC",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 10,
+      "name": "Saudi German Health",
+      "ticker": "",
+      "weight": 4.3
+    }
+  ]
+}

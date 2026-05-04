@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_al_ataa_saudi_equity_fund",
+  "fund": "SNB Capital Al Ataa Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI BANK",
+      "ticker": "",
+      "weight": 17.53
+    },
+    {
+      "rank": 2,
+      "name": "BANK ALBILAD",
+      "ticker": "",
+      "weight": 8.91
+    },
+    {
+      "rank": 3,
+      "name": "SAUDI BASIC INDUSTRIES CORP",
+      "ticker": "",
+      "weight": 7.61
+    },
+    {
+      "rank": 4,
+      "name": "AL HAMMADI HOLDING",
+      "ticker": "",
+      "weight": 6.17
+    },
+    {
+      "rank": 5,
+      "name": "NAHDI MEDICAL CO",
+      "ticker": "",
+      "weight": 5.09
+    },
+    {
+      "rank": 6,
+      "name": "CO FOR COOPERATIVE INSURANCE",
+      "ticker": "",
+      "weight": 4.79
+    },
+    {
+      "rank": 7,
+      "name": "SAUDI ARABIAN OIL CO",
+      "ticker": "",
+      "weight": 4.45
+    },
+    {
+      "rank": 8,
+      "name": "BANK AL-JAZIRA",
+      "ticker": "",
+      "weight": 4.21
+    },
+    {
+      "rank": 9,
+      "name": "POWER & WATER UTILITY CO",
+      "ticker": "",
+      "weight": 4.16
+    },
+    {
+      "rank": 10,
+      "name": "ALDREES PETROLEUM AND TRANSP",
+      "ticker": "",
+      "weight": 3.95
+    }
+  ]
+}

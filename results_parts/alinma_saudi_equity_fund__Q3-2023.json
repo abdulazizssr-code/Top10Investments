@@ -1,0 +1,67 @@
+{
+  "fund_key": "alinma_saudi_equity_fund",
+  "fund": "Alinma Saudi Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi",
+      "ticker": "",
+      "weight": 14.65
+    },
+    {
+      "rank": 2,
+      "name": "Marafiq",
+      "ticker": "",
+      "weight": 8.28
+    },
+    {
+      "rank": 3,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 8.1
+    },
+    {
+      "rank": 4,
+      "name": "Zain Ksa",
+      "ticker": "",
+      "weight": 6.95
+    },
+    {
+      "rank": 5,
+      "name": "Awpt",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 6,
+      "name": "Retal",
+      "ticker": "",
+      "weight": 6.11
+    },
+    {
+      "rank": 7,
+      "name": "Alhammadi",
+      "ticker": "",
+      "weight": 5.75
+    },
+    {
+      "rank": 8,
+      "name": "Jabal Omar",
+      "ticker": "",
+      "weight": 5.72
+    },
+    {
+      "rank": 9,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 5.57
+    },
+    {
+      "rank": 10,
+      "name": "Tanmiah",
+      "ticker": "",
+      "weight": 5.29
+    }
+  ]
+}

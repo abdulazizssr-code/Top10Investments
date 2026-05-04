@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi Bank",
+      "ticker": "",
+      "weight": 17.21
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.73
+    },
+    {
+      "rank": 3,
+      "name": "East Pipes",
+      "ticker": "",
+      "weight": 6.94
+    },
+    {
+      "rank": 4,
+      "name": "Lumi Rental",
+      "ticker": "",
+      "weight": 6.86
+    },
+    {
+      "rank": 5,
+      "name": "Sulaiman Alhabib Medical",
+      "ticker": "",
+      "weight": 6.28
+    },
+    {
+      "rank": 6,
+      "name": "Perfect Presentation",
+      "ticker": "",
+      "weight": 6.23
+    },
+    {
+      "rank": 7,
+      "name": "Mouwasat Medical Services",
+      "ticker": "",
+      "weight": 5.61
+    },
+    {
+      "rank": 8,
+      "name": "Tawuniya Insurance",
+      "ticker": "",
+      "weight": 4.77
+    },
+    {
+      "rank": 9,
+      "name": "Bupa Arabia",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi REIT",
+      "ticker": "",
+      "weight": 3.35
+    }
+  ]
+}

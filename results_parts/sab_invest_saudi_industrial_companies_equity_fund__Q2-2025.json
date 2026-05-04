@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ZAMIL INDUST",
+      "ticker": "",
+      "weight": 9.47
+    },
+    {
+      "rank": 2,
+      "name": "JAHEZ",
+      "ticker": "",
+      "weight": 8.19
+    },
+    {
+      "rank": 3,
+      "name": "ADES HOLDING CO",
+      "ticker": "",
+      "weight": 7.79
+    },
+    {
+      "rank": 4,
+      "name": "SPM",
+      "ticker": "",
+      "weight": 7.74
+    },
+    {
+      "rank": 5,
+      "name": "CHEMICAL",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 6,
+      "name": "EAST PIPES",
+      "ticker": "",
+      "weight": 6.22
+    },
+    {
+      "rank": 7,
+      "name": "ARABIAN PIPES CO",
+      "ticker": "",
+      "weight": 5.12
+    },
+    {
+      "rank": 8,
+      "name": "ALMAWARID",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 9,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 4.78
+    },
+    {
+      "rank": 10,
+      "name": "SAUDI CABLE",
+      "ticker": "",
+      "weight": 4.35
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_small_and_mid-cap_equity_fund_-_class_(c)",
+  "fund": "GIB Saudi Small and Mid-Cap Equity Fund - CLASS (C)",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "United International Transportation Co. (Budget Saudi)",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 2,
+      "name": "Middle East Specialized Cables Co. (MESC)",
+      "ticker": "",
+      "weight": 9.2
+    },
+    {
+      "rank": 3,
+      "name": "Electrical Industries Company (EIC)",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 4,
+      "name": "Riyadh Cables Group Company",
+      "ticker": "",
+      "weight": 8.6
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Real Estate Company",
+      "ticker": "",
+      "weight": 8.3
+    },
+    {
+      "rank": 6,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 7,
+      "name": "Middle East Healthcare Company",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 8,
+      "name": "The Company for Cooperative Insurance (Tawuniya)",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 9,
+      "name": "Al Hassan Ghazi Ibrahim Shaker Co.",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Chemical Company",
+      "ticker": "",
+      "weight": 4.7
+    }
+  ]
+}

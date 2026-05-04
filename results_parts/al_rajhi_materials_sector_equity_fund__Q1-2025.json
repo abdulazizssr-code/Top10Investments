@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_materials_sector_equity_fund",
+  "fund": "Al Rajhi Materials Sector Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 16.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabia Fertilizers Co",
+      "ticker": "",
+      "weight": 7.9
+    },
+    {
+      "rank": 3,
+      "name": "Makkah Construction and Development",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 5,
+      "name": "Saudi International Petrochemical Company",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 6,
+      "name": "Middle East Paper Company",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 7,
+      "name": "Yamama Cement Company",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 8,
+      "name": "Yanbu National Petrochemical",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 9,
+      "name": "Almasane Alkobra Mining",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

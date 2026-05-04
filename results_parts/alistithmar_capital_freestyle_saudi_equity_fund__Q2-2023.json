@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_freestyle_saudi_equity_fund",
+  "fund": "Alistithmar Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 13.67
+    },
+    {
+      "rank": 2,
+      "name": "Sira (Seera)",
+      "ticker": "",
+      "weight": 9.26
+    },
+    {
+      "rank": 3,
+      "name": "East Pipes",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 4,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 8.46
+    },
+    {
+      "rank": 5,
+      "name": "Yamama Cement",
+      "ticker": "",
+      "weight": 5.49
+    },
+    {
+      "rank": 6,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.22
+    },
+    {
+      "rank": 7,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 8,
+      "name": "Rasan (Re'aya)",
+      "ticker": "",
+      "weight": 4.04
+    },
+    {
+      "rank": 9,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 3.61
+    },
+    {
+      "rank": 10,
+      "name": "Sipchem (Sabkim Global)",
+      "ticker": "",
+      "weight": 3.3
+    }
+  ]
+}

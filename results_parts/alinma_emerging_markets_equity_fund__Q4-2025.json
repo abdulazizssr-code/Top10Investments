@@ -1,0 +1,67 @@
+{
+  "fund_key": "alinma_emerging_markets_equity_fund",
+  "fund": "Alinma Emerging Markets Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "ticker": "",
+      "weight": 18.5
+    },
+    {
+      "rank": 2,
+      "name": "Hon Hai Precision Industry Co Ltd",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 2.3
+    },
+    {
+      "rank": 4,
+      "name": "JD.com Co Ltd",
+      "ticker": "",
+      "weight": 2.0
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 1.8
+    },
+    {
+      "rank": 6,
+      "name": "Xiaomi Corp",
+      "ticker": "",
+      "weight": 1.7
+    },
+    {
+      "rank": 7,
+      "name": "MediaTek Inc",
+      "ticker": "",
+      "weight": 1.6
+    },
+    {
+      "rank": 8,
+      "name": "Delta Electronics Inc",
+      "ticker": "",
+      "weight": 1.4
+    },
+    {
+      "rank": 9,
+      "name": "KE Holdings Inc",
+      "ticker": "",
+      "weight": 1.2
+    },
+    {
+      "rank": 10,
+      "name": "Vale SA",
+      "ticker": "",
+      "weight": 1.2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_yusr_saudi_equity_fund",
+  "fund": "Al Yusr Saudi Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 2,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 8.06
+    },
+    {
+      "rank": 3,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 6.83
+    },
+    {
+      "rank": 4,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 5,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 6.45
+    },
+    {
+      "rank": 6,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 6.37
+    },
+    {
+      "rank": 7,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 6.35
+    },
+    {
+      "rank": 8,
+      "name": "ALARABIA",
+      "ticker": "",
+      "weight": 6.32
+    },
+    {
+      "rank": 9,
+      "name": "AMERICANA",
+      "ticker": "",
+      "weight": 5.51
+    },
+    {
+      "rank": 10,
+      "name": "ALHAMMADI",
+      "ticker": "",
+      "weight": 4.56
+    }
+  ]
+}

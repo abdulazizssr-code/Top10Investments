@@ -1,0 +1,68 @@
+{
+  "fund_key": "snb_capital_gcc_trading_equity_fund",
+  "fund": "SNB Capital GCC Trading Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 16.12
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 6.29
+    },
+    {
+      "rank": 3,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 4.83
+    },
+    {
+      "rank": 4,
+      "name": "ADNOC Logistics & Services",
+      "ticker": "",
+      "weight": 4.55
+    },
+    {
+      "rank": 5,
+      "name": "Ataa Educational Co",
+      "ticker": "",
+      "weight": 4.51
+    },
+    {
+      "rank": 6,
+      "name": "Emaar Properties PJSC",
+      "ticker": "",
+      "weight": 4.46
+    },
+    {
+      "rank": 7,
+      "name": "Etihad Etisalat Co",
+      "ticker": "",
+      "weight": 4.37
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 4.18
+    },
+    {
+      "rank": 9,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 10,
+      "name": "Abu Dhabi Islamic Bank",
+      "ticker": "",
+      "weight": 4.04
+    }
+  ],
+  "method": "highres_crop"
+}

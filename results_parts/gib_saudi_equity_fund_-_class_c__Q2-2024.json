@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_c",
+  "fund": "GIB Saudi Equity Fund - Class C",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.7
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 3,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 4,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 5,
+      "name": "Marafiq",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 7,
+      "name": "Advanced Petrochemical Company",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Telecom Company",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Arabian Glass (Zoujaj)",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 10,
+      "name": "Al Hassan Ghazi Ibrahim Shaker",
+      "ticker": "",
+      "weight": 3.2
+    }
+  ]
+}

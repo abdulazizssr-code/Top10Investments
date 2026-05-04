@@ -1,0 +1,68 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Etihad Etisalat Co (Mobily)",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 3,
+      "name": "East Pipes Integrated Company",
+      "ticker": "",
+      "weight": 5.15
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Paper Manufacturing Co",
+      "ticker": "",
+      "weight": 5.09
+    },
+    {
+      "rank": 5,
+      "name": "City Cement Co",
+      "ticker": "",
+      "weight": 4.56
+    },
+    {
+      "rank": 6,
+      "name": "Aldrees Petroleum and Transport Services Co",
+      "ticker": "",
+      "weight": 4.36
+    },
+    {
+      "rank": 7,
+      "name": "Saudi National Bank (SNB)",
+      "ticker": "",
+      "weight": 4.27
+    },
+    {
+      "rank": 8,
+      "name": "National Agricultural Development Co (NADEC)",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 9,
+      "name": "Tabuk Cement Co",
+      "ticker": "",
+      "weight": 3.92
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Power and Water Utility Co for Jubail and Yanbu (Marafiq)",
+      "ticker": "",
+      "weight": 3.6
+    }
+  ],
+  "method": "highres_crop"
+}

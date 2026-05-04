@@ -1,0 +1,68 @@
+{
+  "fund_key": "osool_&_bakheet_parallel_market_equity_trading_fund",
+  "fund": "Osool & Bakheet Parallel Market Equity Trading Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Ladun Investment",
+      "ticker": "",
+      "weight": 7.91
+    },
+    {
+      "rank": 2,
+      "name": "Horizon Educational",
+      "ticker": "",
+      "weight": 4.84
+    },
+    {
+      "rank": 3,
+      "name": "Nofoth Food Products",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 4,
+      "name": "Miral",
+      "ticker": "",
+      "weight": 4.03
+    },
+    {
+      "rank": 5,
+      "name": "Edarat Communication",
+      "ticker": "",
+      "weight": 3.76
+    },
+    {
+      "rank": 6,
+      "name": "United Mining Industries",
+      "ticker": "",
+      "weight": 3.72
+    },
+    {
+      "rank": 7,
+      "name": "ASG",
+      "ticker": "",
+      "weight": 3.66
+    },
+    {
+      "rank": 8,
+      "name": "Riyal",
+      "ticker": "",
+      "weight": 3.47
+    },
+    {
+      "rank": 9,
+      "name": "Adeer",
+      "ticker": "",
+      "weight": 3.47
+    },
+    {
+      "rank": 10,
+      "name": "Alkuzama",
+      "ticker": "",
+      "weight": 3.47
+    }
+  ],
+  "method": "highres_crop"
+}

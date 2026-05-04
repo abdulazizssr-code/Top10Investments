@@ -1,0 +1,67 @@
+{
+  "fund_key": "alistithmar_capital_freestyle_saudi_equity_fund",
+  "fund": "Alistithmar Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 2,
+      "name": "Kayan",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 3,
+      "name": "Riayah (Care)",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 4,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Group (Almajmoaa Alsaudia)",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 6,
+      "name": "Aljazira",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 7,
+      "name": "Solutions",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 8,
+      "name": "Emaar",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 10,
+      "name": "Arabia (Alarabia)",
+      "ticker": "",
+      "weight": 4.2
+    }
+  ]
+}

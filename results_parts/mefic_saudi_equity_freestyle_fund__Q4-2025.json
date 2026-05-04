@@ -1,0 +1,67 @@
+{
+  "fund_key": "mefic_saudi_equity_freestyle_fund",
+  "fund": "MEFIC SAUDI EQUITY FREESTYLE FUND",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.72
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.78
+    },
+    {
+      "rank": 3,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 9.69
+    },
+    {
+      "rank": 4,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 9.65
+    },
+    {
+      "rank": 5,
+      "name": "East Pipes Integrated Company for Industry",
+      "ticker": "",
+      "weight": 9.13
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Mining Company (Ma'aden)",
+      "ticker": "",
+      "weight": 6.93
+    },
+    {
+      "rank": 7,
+      "name": "ACWA Power",
+      "ticker": "",
+      "weight": 6.41
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Electricity Company",
+      "ticker": "",
+      "weight": 6.08
+    },
+    {
+      "rank": 9,
+      "name": "Sulaiman Al Habib Medical Services Group",
+      "ticker": "",
+      "weight": 5.99
+    },
+    {
+      "rank": 10,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 5.41
+    }
+  ]
+}

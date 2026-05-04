@@ -1,0 +1,58 @@
+{
+  "fund_key": "alinma_emerging_markets_equity_fund",
+  "fund": "Alinma Emerging Markets Equity Fund",
+  "quarter": "Q1-2026",
+  "method": "claude_code",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "weight": 19.7
+    },
+    {
+      "rank": 2,
+      "name": "HON HAI PRECISION INDUSTRY CO LTD",
+      "weight": 2.6
+    },
+    {
+      "rank": 3,
+      "name": "XIAOMI CORP",
+      "weight": 2.6
+    },
+    {
+      "rank": 4,
+      "name": "PDD HOLDINGS INC",
+      "weight": 2.6
+    },
+    {
+      "rank": 5,
+      "name": "MEDIATEK INC",
+      "weight": 2.0
+    },
+    {
+      "rank": 6,
+      "name": "DELTA ELECTRONICS INC",
+      "weight": 1.7
+    },
+    {
+      "rank": 7,
+      "name": "VALE SA",
+      "weight": 1.4
+    },
+    {
+      "rank": 8,
+      "name": "BYD CO LTD",
+      "weight": 1.3
+    },
+    {
+      "rank": 9,
+      "name": "ANGLOGOLD ASHANTI PLC",
+      "weight": 1.3
+    },
+    {
+      "rank": 10,
+      "name": "AL RAJHI BANK",
+      "weight": 1.2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "value_freestyle_saudi_equity_fund",
+  "fund": "Value Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 8.97
+    },
+    {
+      "rank": 2,
+      "name": "Mutual Funds",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 3,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Tadawul Group Holding Co",
+      "ticker": "",
+      "weight": 3.99
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 3.93
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Advanced Industries Company",
+      "ticker": "",
+      "weight": 3.84
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Basic Industries Corporation",
+      "ticker": "",
+      "weight": 3.83
+    },
+    {
+      "rank": 8,
+      "name": "Mouwasat Medical Services Company",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 9,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.28
+    },
+    {
+      "rank": 10,
+      "name": "Arabian Internet and Communications",
+      "ticker": "",
+      "weight": 3.24
+    }
+  ]
+}

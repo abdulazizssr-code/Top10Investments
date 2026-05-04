@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_gcc_equity_fund",
+  "fund": "SAB Invest GCC Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Mobile Telecommunications Co K (Zain Kuwait)",
+      "ticker": "",
+      "weight": 4.63
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.58
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 4.48
+    },
+    {
+      "rank": 4,
+      "name": "Emirates Telecommunications Group (e&)",
+      "ticker": "",
+      "weight": 4.46
+    },
+    {
+      "rank": 5,
+      "name": "Albabtain",
+      "ticker": "",
+      "weight": 4.16
+    },
+    {
+      "rank": 6,
+      "name": "Abu Dhabi Islamic Bank PJSC",
+      "ticker": "",
+      "weight": 4.02
+    },
+    {
+      "rank": 7,
+      "name": "Jazeera Airways",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "Medicare Group",
+      "ticker": "",
+      "weight": 3.99
+    },
+    {
+      "rank": 9,
+      "name": "Abu Dhabi Ports",
+      "ticker": "",
+      "weight": 3.93
+    },
+    {
+      "rank": 10,
+      "name": "Ali Alghanim & Sons Automotive",
+      "ticker": "",
+      "weight": 3.87
+    }
+  ]
+}

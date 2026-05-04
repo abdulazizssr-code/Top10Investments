@@ -1,0 +1,67 @@
+{
+  "fund_key": "osool_and_bakheet_saudi_trading_equity_fund",
+  "fund": "Osool and Bakheet Saudi Trading Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 12.92
+    },
+    {
+      "rank": 2,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 11.49
+    },
+    {
+      "rank": 3,
+      "name": "CATERING",
+      "ticker": "",
+      "weight": 6.05
+    },
+    {
+      "rank": 4,
+      "name": "BJAZ",
+      "ticker": "",
+      "weight": 5.54
+    },
+    {
+      "rank": 5,
+      "name": "STC",
+      "ticker": "",
+      "weight": 4.89
+    },
+    {
+      "rank": 6,
+      "name": "SACO",
+      "ticker": "",
+      "weight": 4.47
+    },
+    {
+      "rank": 7,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 3.96
+    },
+    {
+      "rank": 8,
+      "name": "KEC",
+      "ticker": "",
+      "weight": 3.74
+    },
+    {
+      "rank": 9,
+      "name": "BINDAWOOD",
+      "ticker": "",
+      "weight": 3.28
+    },
+    {
+      "rank": 10,
+      "name": "NAHDI",
+      "ticker": "",
+      "weight": 3.19
+    }
+  ]
+}

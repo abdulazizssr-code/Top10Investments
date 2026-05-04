@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_saudi_equity_active_trading_fund",
+  "fund": "SNB Capital Saudi Equity Active Trading Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALIBABA GROUP HOLDING LTD",
+      "ticker": "",
+      "weight": 4.71
+    },
+    {
+      "rank": 2,
+      "name": "RELIANCE INDUSTRIES LTD",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 3,
+      "name": "ASIAN PAINTS LTD",
+      "ticker": "",
+      "weight": 1.95
+    },
+    {
+      "rank": 4,
+      "name": "APOLLO HOSPITALS ENTERPRISE",
+      "ticker": "",
+      "weight": 1.56
+    },
+    {
+      "rank": 5,
+      "name": "CARBORUNDUM UNIVERSAL LTD",
+      "ticker": "",
+      "weight": 1.38
+    },
+    {
+      "rank": 6,
+      "name": "AVENUE SUPERMARTS LTD",
+      "ticker": "",
+      "weight": 1.29
+    },
+    {
+      "rank": 7,
+      "name": "ANTA SPORTS PRODUCTS LTD",
+      "ticker": "",
+      "weight": 0.92
+    },
+    {
+      "rank": 8,
+      "name": "BYD CO LTD-H",
+      "ticker": "",
+      "weight": 0.9
+    },
+    {
+      "rank": 9,
+      "name": "AAC TECHNOLOGIES HOLDINGS IN",
+      "ticker": "",
+      "weight": 0.83
+    },
+    {
+      "rank": 10,
+      "name": "AMBER ENTERPRISES INDIA LTD",
+      "ticker": "",
+      "weight": 0.6
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_yusr_saudi_equity_fund",
+  "fund": "Al Yusr Saudi Equity Fund",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.84
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 8.92
+    },
+    {
+      "rank": 3,
+      "name": "Americana Restaurants International",
+      "ticker": "",
+      "weight": 6.01
+    },
+    {
+      "rank": 4,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 5.42
+    },
+    {
+      "rank": 5,
+      "name": "Arabian Contracting Services",
+      "ticker": "",
+      "weight": 5.29
+    },
+    {
+      "rank": 6,
+      "name": "Leejam Sports Co JSC",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 7,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 4.98
+    },
+    {
+      "rank": 8,
+      "name": "Alamar Foods",
+      "ticker": "",
+      "weight": 4.88
+    },
+    {
+      "rank": 9,
+      "name": "Co for Cooperative Insurance/T",
+      "ticker": "",
+      "weight": 4.87
+    },
+    {
+      "rank": 10,
+      "name": "Advanced Petrochemical Co",
+      "ticker": "",
+      "weight": 4.47
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "alpha_saudi_equity_fund",
+  "fund": "Alpha Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 16.76
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7.52
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Re For Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 4,
+      "name": "Catrion Catering Holding Co",
+      "ticker": "",
+      "weight": 4.02
+    },
+    {
+      "rank": 5,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 3.91
+    },
+    {
+      "rank": 6,
+      "name": "Arabian Internet & Communication",
+      "ticker": "",
+      "weight": 3.85
+    },
+    {
+      "rank": 7,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 3.78
+    },
+    {
+      "rank": 8,
+      "name": "Ades Holding Co",
+      "ticker": "",
+      "weight": 3.69
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "Co For Cooperative Insurance",
+      "ticker": "",
+      "weight": 3.46
+    }
+  ]
+}

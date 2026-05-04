@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_freestyle_saudi_equity_fund",
+  "fund": "Al Rajhi Freestyle Saudi Equity Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 12.4
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Awaeed Fund",
+      "ticker": "",
+      "weight": 7.6
+    },
+    {
+      "rank": 3,
+      "name": "The National Shipping Co.",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 4,
+      "name": "QNB-KSA_MURABAHA",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Mining",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 6,
+      "name": "BANK ALBILAD",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 7,
+      "name": "National Gas and Industrialization",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 9,
+      "name": "The Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 10,
+      "name": "Al-Rajhi Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 3.1
+    }
+  ]
+}

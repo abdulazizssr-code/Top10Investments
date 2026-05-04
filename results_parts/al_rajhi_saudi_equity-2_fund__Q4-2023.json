@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity-2_fund",
+  "fund": "Al Rajhi Saudi Equity-2 Fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI BANK SAR ADDITIONAL TIER 1",
+      "ticker": "",
+      "weight": 9.31
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA BANK - ALINMA & PREF Corp",
+      "ticker": "",
+      "weight": 9.09
+    },
+    {
+      "rank": 3,
+      "name": "BSF_301023_185_1",
+      "ticker": "",
+      "weight": 4.79
+    },
+    {
+      "rank": 4,
+      "name": "SAIB_260123_364_1",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 5,
+      "name": "SAIB_260123_361_2",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 6,
+      "name": "Doha_280223_365_1",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 7,
+      "name": "cooBAJ_311223_1_1",
+      "ticker": "",
+      "weight": 3.45
+    },
+    {
+      "rank": 8,
+      "name": "RIYAD BANK TIER 1 SUKUK",
+      "ticker": "",
+      "weight": 3.43
+    },
+    {
+      "rank": 9,
+      "name": "Al Rayan_301123_39_1",
+      "ticker": "",
+      "weight": 2.74
+    },
+    {
+      "rank": 10,
+      "name": "BSF_060723_198_1",
+      "ticker": "",
+      "weight": 2.74
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "fund_key": "bmk_saudi_equity_fund",
+  "fund": "BMK Saudi Equity Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Oil",
+      "ticker": "",
+      "weight": 11.3
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 3,
+      "name": "DR SULIMAN AL HABIB",
+      "ticker": "",
+      "weight": 7.2
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 5,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 6,
+      "name": "Telecom",
+      "ticker": "",
+      "weight": 9.76,
+      "estimated": true
+    },
+    {
+      "rank": 7,
+      "name": "Bank Al Bilad",
+      "ticker": "",
+      "weight": 9.27,
+      "estimated": true
+    },
+    {
+      "rank": 8,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 8.78,
+      "estimated": true
+    },
+    {
+      "rank": 9,
+      "name": "MARAFIQ",
+      "ticker": "",
+      "weight": 8.29,
+      "estimated": true
+    },
+    {
+      "rank": 10,
+      "name": "Riyad Cement",
+      "ticker": "",
+      "weight": 7.8,
+      "estimated": true
+    }
+  ]
+}

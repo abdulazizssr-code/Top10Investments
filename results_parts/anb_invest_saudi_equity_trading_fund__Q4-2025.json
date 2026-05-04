@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_invest_saudi_equity_trading_fund",
+  "fund": "ANB Invest Saudi Equity Trading Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "RAJMUR",
+      "ticker": "",
+      "weight": 15.23
+    },
+    {
+      "rank": 2,
+      "name": "GBKMUR",
+      "ticker": "",
+      "weight": 14.96
+    },
+    {
+      "rank": 3,
+      "name": "NBKKSAMUR",
+      "ticker": "",
+      "weight": 14.22
+    },
+    {
+      "rank": 4,
+      "name": "SIBMUR",
+      "ticker": "",
+      "weight": 11.36
+    },
+    {
+      "rank": 5,
+      "name": "SABBMUR",
+      "ticker": "",
+      "weight": 9.73
+    },
+    {
+      "rank": 6,
+      "name": "SNB Capital Al Sunbullah SAR",
+      "ticker": "",
+      "weight": 8.1
+    },
+    {
+      "rank": 7,
+      "name": "RAJMURSAR",
+      "ticker": "",
+      "weight": 5.64
+    },
+    {
+      "rank": 8,
+      "name": "BOUBYANMUR",
+      "ticker": "",
+      "weight": 4.93
+    },
+    {
+      "rank": 9,
+      "name": "BOUBYANMUR",
+      "ticker": "",
+      "weight": 4.55
+    },
+    {
+      "rank": 10,
+      "name": "BSFMUR",
+      "ticker": "",
+      "weight": 3.76
+    }
+  ]
+}

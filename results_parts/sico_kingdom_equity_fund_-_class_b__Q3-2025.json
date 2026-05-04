@@ -1,0 +1,67 @@
+{
+  "fund_key": "sico_kingdom_equity_fund_-_class_b",
+  "fund": "SICO Kingdom Equity Fund - Class B",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.7
+    },
+    {
+      "rank": 2,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 3,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Mining",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 6,
+      "name": "Aldrees Petroleum And Transp",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 7,
+      "name": "Taiba Investments",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 8,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 9,
+      "name": "Yamama Cement",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 10,
+      "name": "Al Masane Al Kobra",
+      "ticker": "",
+      "weight": 2.7
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_materials_sector_equity_fund",
+  "fund": "Al Rajhi Materials Sector Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Mining Company",
+      "ticker": "",
+      "weight": 13.92
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabia Fertilizers Co.",
+      "ticker": "",
+      "weight": 10.57
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 9.15
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 7.04
+    },
+    {
+      "rank": 5,
+      "name": "Nahdi Medical Co.",
+      "ticker": "",
+      "weight": 6.83
+    },
+    {
+      "rank": 6,
+      "name": "Alujain Corporation",
+      "ticker": "",
+      "weight": 6.74
+    },
+    {
+      "rank": 7,
+      "name": "Saudi International Petrochemical Co",
+      "ticker": "",
+      "weight": 6.57
+    },
+    {
+      "rank": 8,
+      "name": "Tabuk Cement Co.",
+      "ticker": "",
+      "weight": 5.66
+    },
+    {
+      "rank": 9,
+      "name": "Makkah Construction and Development Co.",
+      "ticker": "",
+      "weight": 5.56
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.96
+    }
+  ]
+}

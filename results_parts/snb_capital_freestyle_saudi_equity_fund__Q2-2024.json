@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_freestyle_saudi_equity_fund",
+  "fund": "SNB Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAB INVEST SAUDI RIYAL MURABAHA FUND",
+      "ticker": "",
+      "weight": 5.61
+    },
+    {
+      "rank": 2,
+      "name": "TMS SUKUK",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 3,
+      "name": "EMAAR SUKUK",
+      "ticker": "",
+      "weight": 4.07
+    },
+    {
+      "rank": 4,
+      "name": "SAB INVEST US DOLLAR MURABAHA FUND",
+      "ticker": "",
+      "weight": 3.96
+    },
+    {
+      "rank": 5,
+      "name": "ALDAR SUKUK",
+      "ticker": "",
+      "weight": 3.96
+    },
+    {
+      "rank": 6,
+      "name": "SHARJAH SUKUK PROGRAM LTD",
+      "ticker": "",
+      "weight": 3.46
+    },
+    {
+      "rank": 7,
+      "name": "KSA SUKUK",
+      "ticker": "",
+      "weight": 3.27
+    },
+    {
+      "rank": 8,
+      "name": "DUBAI ISLAMIC BANK SUKUK",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 9,
+      "name": "DP WORLD SUKUK",
+      "ticker": "",
+      "weight": 2.75
+    },
+    {
+      "rank": 10,
+      "name": "ARAB NATIONAL BANK SUKUK",
+      "ticker": "",
+      "weight": 2.6
+    }
+  ]
+}

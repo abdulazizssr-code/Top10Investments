@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_gulf_equity_fund_(ex-saudi)",
+  "fund": "Riyad Gulf Equity Fund (ex-Saudi)",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "INTL HOLDINGS CO",
+      "ticker": "",
+      "weight": 17.0
+    },
+    {
+      "rank": 2,
+      "name": "EMIRATES TELECOM",
+      "ticker": "",
+      "weight": 12.0
+    },
+    {
+      "rank": 3,
+      "name": "KUWAIT FINANCE HOUSE",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 4,
+      "name": "INDUSTRIES QATAR",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 5,
+      "name": "ALPHA DUBAI HOLDING",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "EMAAR PROPERTIES",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "DUBAI ELECTRICITY AN",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 8,
+      "name": "QA ISLAMIC BK",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 9,
+      "name": "Dubai Islamic Bank",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 10,
+      "name": "Al Dar Properties",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

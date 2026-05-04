@@ -1,0 +1,68 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.65
+    },
+    {
+      "rank": 2,
+      "name": "Sulaiman Al Habib Medical",
+      "ticker": "",
+      "weight": 8.28
+    },
+    {
+      "rank": 3,
+      "name": "Tawuniya Insurance",
+      "ticker": "",
+      "weight": 7.18
+    },
+    {
+      "rank": 4,
+      "name": "Aldrees Petroleum & Transport",
+      "ticker": "",
+      "weight": 7.15
+    },
+    {
+      "rank": 5,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 6.65
+    },
+    {
+      "rank": 6,
+      "name": "Flynas",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 7,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 8,
+      "name": "United Electronics (eXtra)",
+      "ticker": "",
+      "weight": 4.17
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Reinsurance",
+      "ticker": "",
+      "weight": 3.95
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Automotive Services (SASCO)",
+      "ticker": "",
+      "weight": 3.83
+    }
+  ],
+  "method": "highres_crop"
+}

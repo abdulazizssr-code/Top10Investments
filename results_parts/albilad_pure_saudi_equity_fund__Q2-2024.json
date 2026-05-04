@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 16.8
+    },
+    {
+      "rank": 2,
+      "name": "Ithraa",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 3,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 4,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "Tayaran (Airline)",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 6,
+      "name": "Dr. Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 7,
+      "name": "NICE",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "Baht",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Kayan",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Chemical",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ]
+}

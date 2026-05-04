@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_companies_equity_fund",
+  "fund": "SAB Invest Saudi Companies Equity Fund",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 19.82
+    },
+    {
+      "rank": 2,
+      "name": "STC",
+      "ticker": "",
+      "weight": 5.56
+    },
+    {
+      "rank": 3,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 4.91
+    },
+    {
+      "rank": 4,
+      "name": "ALMARAI",
+      "ticker": "",
+      "weight": 4.55
+    },
+    {
+      "rank": 5,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 4.31
+    },
+    {
+      "rank": 6,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 3.65
+    },
+    {
+      "rank": 7,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 3.63
+    },
+    {
+      "rank": 8,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 3.49
+    },
+    {
+      "rank": 9,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 3.43
+    },
+    {
+      "rank": 10,
+      "name": "SAUDI RE",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

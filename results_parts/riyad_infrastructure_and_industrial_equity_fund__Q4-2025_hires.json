@@ -1,0 +1,14 @@
+{
+  "fund_key": "riyad_infrastructure_and_industrial_equity_fund",
+  "fund": "Riyad Infrastructure and Industrial Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Threadneedle US Equity Fund",
+      "ticker": "",
+      "weight": 98.5
+    }
+  ],
+  "method": "highres_crop"
+}

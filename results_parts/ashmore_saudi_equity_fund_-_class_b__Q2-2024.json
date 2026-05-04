@@ -1,0 +1,67 @@
+{
+  "fund_key": "ashmore_saudi_equity_fund_-_class_b",
+  "fund": "Ashmore Saudi Equity Fund - Class B",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Almarai Co Ltd",
+      "ticker": "",
+      "weight": 9.26
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 8.72
+    },
+    {
+      "rank": 3,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 8.55
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 7.51
+    },
+    {
+      "rank": 5,
+      "name": "Al Babtain Power & Telecommunication",
+      "ticker": "",
+      "weight": 7.43
+    },
+    {
+      "rank": 6,
+      "name": "Astra Industrial Group",
+      "ticker": "",
+      "weight": 6.37
+    },
+    {
+      "rank": 7,
+      "name": "MBC Group CJSC",
+      "ticker": "",
+      "weight": 5.54
+    },
+    {
+      "rank": 8,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 9,
+      "name": "Arab National Bank",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 4.3
+    }
+  ]
+}

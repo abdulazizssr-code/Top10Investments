@@ -1,0 +1,68 @@
+{
+  "fund_key": "ashmore_saudi_sharia_equity_fund___class_b",
+  "fund": "ASHMORE SAUDI SHARIA EQUITY FUND - Class B",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 9.94
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 9.76
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 5.84
+    },
+    {
+      "rank": 4,
+      "name": "Almarai Co Ltd",
+      "ticker": "",
+      "weight": 7.34
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Arabian Mining Co",
+      "ticker": "",
+      "weight": 6.62
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Kayan Petrochemical Co",
+      "ticker": "",
+      "weight": 4.87
+    },
+    {
+      "rank": 7,
+      "name": "Sabic Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 4.49
+    },
+    {
+      "rank": 8,
+      "name": "Yanbu National Petrochemical",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 9,
+      "name": "National Industrialization Co",
+      "ticker": "",
+      "weight": 3.94
+    },
+    {
+      "rank": 10,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ],
+  "method": "highres_crop"
+}

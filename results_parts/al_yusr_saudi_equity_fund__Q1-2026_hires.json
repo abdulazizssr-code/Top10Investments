@@ -1,0 +1,68 @@
+{
+  "fund_key": "al_yusr_saudi_equity_fund",
+  "fund": "Al Yusr Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 20.06
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 8.59
+    },
+    {
+      "rank": 3,
+      "name": "STC",
+      "ticker": "",
+      "weight": 7.52
+    },
+    {
+      "rank": 4,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 6.68
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 6.28
+    },
+    {
+      "rank": 6,
+      "name": "SABIC Agri-Nutrients",
+      "ticker": "",
+      "weight": 4.92
+    },
+    {
+      "rank": 7,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.59
+    },
+    {
+      "rank": 8,
+      "name": "Jamjoom Fashion Trading Co",
+      "ticker": "",
+      "weight": 4.44
+    },
+    {
+      "rank": 9,
+      "name": "Bahri",
+      "ticker": "",
+      "weight": 3.98
+    },
+    {
+      "rank": 10,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 3.28
+    }
+  ],
+  "method": "highres_crop"
+}

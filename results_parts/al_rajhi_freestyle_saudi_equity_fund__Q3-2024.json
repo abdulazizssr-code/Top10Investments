@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_freestyle_saudi_equity_fund",
+  "fund": "Al Rajhi Freestyle Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.1
+    },
+    {
+      "rank": 2,
+      "name": "Al-Rajhi Company for Cooperative Insurance",
+      "ticker": "",
+      "weight": 6.67
+    },
+    {
+      "rank": 3,
+      "name": "Makkah Construction",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 4,
+      "name": "National Gas and Industrialization Co.",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 5,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 4.88
+    },
+    {
+      "rank": 6,
+      "name": "Al Rajhi Private Fund 5",
+      "ticker": "",
+      "weight": 4.66
+    },
+    {
+      "rank": 7,
+      "name": "Arabian Pipes Company",
+      "ticker": "",
+      "weight": 3.72
+    },
+    {
+      "rank": 8,
+      "name": "Obeikan Glass Co.",
+      "ticker": "",
+      "weight": 3.45
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 3.08
+    },
+    {
+      "rank": 10,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 2.96
+    }
+  ]
+}

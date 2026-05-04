@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_freestyle_saudi_equity_fund",
+  "fund": "Albilad Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Catrion",
+      "ticker": "",
+      "weight": 14.9
+    },
+    {
+      "rank": 2,
+      "name": "Budget Saudi",
+      "ticker": "",
+      "weight": 9.1
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Electrical Industries",
+      "ticker": "",
+      "weight": 7.9
+    },
+    {
+      "rank": 4,
+      "name": "Al Hammadi",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 5,
+      "name": "Emaar EC",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 6,
+      "name": "Ayes",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 7,
+      "name": "Aldrees",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 8,
+      "name": "Tnk",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 9,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 5.0
+    }
+  ]
+}

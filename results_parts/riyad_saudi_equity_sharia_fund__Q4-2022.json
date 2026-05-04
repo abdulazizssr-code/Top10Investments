@@ -1,0 +1,67 @@
+{
+  "fund_key": "riyad_saudi_equity_sharia_fund",
+  "fund": "Riyad Saudi Equity Sharia Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 22
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 8
+    },
+    {
+      "rank": 3,
+      "name": "Riyad SAR Trade Fund",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 4,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 5,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 6,
+      "name": "STC",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 7,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 8,
+      "name": "MA'ADEN",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 9,
+      "name": "ALHABIB",
+      "ticker": "",
+      "weight": 3
+    },
+    {
+      "rank": 10,
+      "name": "SOLUTIONS",
+      "ticker": "",
+      "weight": 3
+    }
+  ]
+}

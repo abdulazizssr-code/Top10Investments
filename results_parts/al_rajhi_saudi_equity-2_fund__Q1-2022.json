@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity-2_fund",
+  "fund": "Al Rajhi Saudi Equity-2 Fund",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alinma Saudi Riyal Liquidity Fund",
+      "ticker": "",
+      "weight": 5.43
+    },
+    {
+      "rank": 2,
+      "name": "AL RAJHI BANK SAR ADDITIONAL",
+      "ticker": "",
+      "weight": 1.75
+    },
+    {
+      "rank": 3,
+      "name": "ALINMA BANK - ALINMA 8 PREP Corp",
+      "ticker": "",
+      "weight": 1.71
+    },
+    {
+      "rank": 4,
+      "name": "Riyadh Bank_310322_3_1",
+      "ticker": "",
+      "weight": 1.7
+    },
+    {
+      "rank": 5,
+      "name": "DIB_030421_377_1",
+      "ticker": "",
+      "weight": 1.54
+    },
+    {
+      "rank": 6,
+      "name": "Riyad Bank_041121_187_1",
+      "ticker": "",
+      "weight": 1.54
+    },
+    {
+      "rank": 7,
+      "name": "ENBD Dubai_210222_93_1",
+      "ticker": "",
+      "weight": 1.54
+    },
+    {
+      "rank": 8,
+      "name": "Mashreq_181021_225_1",
+      "ticker": "",
+      "weight": 1.54
+    },
+    {
+      "rank": 9,
+      "name": "DIB_100521_401_1",
+      "ticker": "",
+      "weight": 1.54
+    },
+    {
+      "rank": 10,
+      "name": "DIB_060721_394_1",
+      "ticker": "",
+      "weight": 1.54
+    }
+  ]
+}

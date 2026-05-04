@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 6.81
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Airlines Catering Company",
+      "ticker": "",
+      "weight": 6.16
+    },
+    {
+      "rank": 3,
+      "name": "Leejam Sports Company",
+      "ticker": "",
+      "weight": 6.13
+    },
+    {
+      "rank": 4,
+      "name": "United Electronics Company",
+      "ticker": "",
+      "weight": 5.38
+    },
+    {
+      "rank": 5,
+      "name": "BinDawood Holding",
+      "ticker": "",
+      "weight": 4.71
+    },
+    {
+      "rank": 6,
+      "name": "Elm Company",
+      "ticker": "",
+      "weight": 4.49
+    },
+    {
+      "rank": 7,
+      "name": "Riyadh Cement Company",
+      "ticker": "",
+      "weight": 3.85
+    },
+    {
+      "rank": 8,
+      "name": "National Gas and Industrialization Company",
+      "ticker": "",
+      "weight": 3.74
+    },
+    {
+      "rank": 9,
+      "name": "Bawan Company",
+      "ticker": "",
+      "weight": 3.66
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Fertilizers Company (SAFCO)",
+      "ticker": "",
+      "weight": 3.08
+    }
+  ]
+}

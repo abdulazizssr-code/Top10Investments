@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Saudi Equity Fund (Shariah)",
+  "quarter": "Q2-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI BANK",
+      "ticker": "",
+      "weight": 13.91
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA BANK",
+      "ticker": "",
+      "weight": 8.89
+    },
+    {
+      "rank": 3,
+      "name": "ADES HOLDING",
+      "ticker": "",
+      "weight": 5.59
+    },
+    {
+      "rank": 4,
+      "name": "SULAIMAN ALHABIB MEDICAL",
+      "ticker": "",
+      "weight": 5.36
+    },
+    {
+      "rank": 5,
+      "name": "MOUWASAT MEDICAL SRVC",
+      "ticker": "",
+      "weight": 5.24
+    },
+    {
+      "rank": 6,
+      "name": "STC SOLUTIONS",
+      "ticker": "",
+      "weight": 5.21
+    },
+    {
+      "rank": 7,
+      "name": "TAWUNIYA INSURANCE",
+      "ticker": "",
+      "weight": 4.96
+    },
+    {
+      "rank": 8,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 4.57
+    },
+    {
+      "rank": 9,
+      "name": "ARABIAN PIPES",
+      "ticker": "",
+      "weight": 3.97
+    },
+    {
+      "rank": 10,
+      "name": "LUMI RENTALS",
+      "ticker": "",
+      "weight": 3.9
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_saudi_equity_active_trading_fund",
+  "fund": "SNB Capital Saudi Equity Active Trading Fund",
+  "quarter": "Q1-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "INFOSYS LTD",
+      "ticker": "",
+      "weight": 9.57
+    },
+    {
+      "rank": 2,
+      "name": "RELIANCE INDUSTRIES",
+      "ticker": "",
+      "weight": 9.18
+    },
+    {
+      "rank": 3,
+      "name": "TENCENT HOLDINGS LTD",
+      "ticker": "",
+      "weight": 8.86
+    },
+    {
+      "rank": 4,
+      "name": "ALIBABA GROUP HOLDING LTD",
+      "ticker": "",
+      "weight": 7.76
+    },
+    {
+      "rank": 5,
+      "name": "PDD HOLDINGS INC",
+      "ticker": "",
+      "weight": 7.2
+    },
+    {
+      "rank": 6,
+      "name": "XIAOMI CORP",
+      "ticker": "",
+      "weight": 2.62
+    },
+    {
+      "rank": 7,
+      "name": "NONGFU SPRING CO",
+      "ticker": "",
+      "weight": 2.46
+    },
+    {
+      "rank": 8,
+      "name": "MEITUAN",
+      "ticker": "",
+      "weight": 2.13
+    },
+    {
+      "rank": 9,
+      "name": "KUAISHOU TECHNOLOGY",
+      "ticker": "",
+      "weight": 2.07
+    },
+    {
+      "rank": 10,
+      "name": "CHINA OVERSEAS PROPERTY HOLDINGS",
+      "ticker": "",
+      "weight": 2.07
+    }
+  ]
+}

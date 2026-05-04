@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q4-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Extra",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 2,
+      "name": "Al Moammar Information Systems",
+      "ticker": "",
+      "weight": 4.79
+    },
+    {
+      "rank": 3,
+      "name": "Catrion Catering Holding",
+      "ticker": "",
+      "weight": 4.52
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.37
+    },
+    {
+      "rank": 5,
+      "name": "Almunajem Foods",
+      "ticker": "",
+      "weight": 3.75
+    },
+    {
+      "rank": 6,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 3.73
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Basic Industries Corporation (SABIC)",
+      "ticker": "",
+      "weight": 3.69
+    },
+    {
+      "rank": 8,
+      "name": "National Medical Care Company",
+      "ticker": "",
+      "weight": 3.64
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Research and Media Group",
+      "ticker": "",
+      "weight": 3.38
+    },
+    {
+      "rank": 10,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 3.31
+    }
+  ]
+}

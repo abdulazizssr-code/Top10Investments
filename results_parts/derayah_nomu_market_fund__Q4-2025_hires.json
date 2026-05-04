@@ -1,0 +1,68 @@
+{
+  "fund_key": "derayah_nomu_market_fund",
+  "fund": "Derayah Nomu Market Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Networkers Services Co.",
+      "ticker": "",
+      "weight": 9.17
+    },
+    {
+      "rank": 2,
+      "name": "Fawaz",
+      "ticker": "",
+      "weight": 9.0
+    },
+    {
+      "rank": 3,
+      "name": "Takween Advanced Industries",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 4,
+      "name": "Gas Arabian Services Co.",
+      "ticker": "",
+      "weight": 5.95
+    },
+    {
+      "rank": 5,
+      "name": "Asas Makeen Real Estate Development Co.",
+      "ticker": "",
+      "weight": 5.22
+    },
+    {
+      "rank": 6,
+      "name": "Miyah Almadina Classic Co.",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 7,
+      "name": "Qomex Co.",
+      "ticker": "",
+      "weight": 3.95
+    },
+    {
+      "rank": 8,
+      "name": "United Carton Industries Co.",
+      "ticker": "",
+      "weight": 3.39
+    },
+    {
+      "rank": 9,
+      "name": "Arabian United Float Glass Co.",
+      "ticker": "",
+      "weight": 2.8
+    },
+    {
+      "rank": 10,
+      "name": "Jamjoom Fashion",
+      "ticker": "",
+      "weight": 2.6
+    }
+  ],
+  "method": "highres_crop"
+}

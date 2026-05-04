@@ -1,0 +1,68 @@
+{
+  "fund_key": "_unsorted",
+  "fund": " unsorted",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 19.4
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 17.6
+    },
+    {
+      "rank": 3,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 9.4
+    },
+    {
+      "rank": 4,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 5,
+      "name": "STC",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 6,
+      "name": "Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 7,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 8,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 10,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 3.2
+    }
+  ],
+  "method": "highres_crop"
+}

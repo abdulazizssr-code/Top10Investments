@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_china_and_india_equity_freestyle_fund",
+  "fund": "SAB Invest China and India Equity Freestyle Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALIBABA GROUP HOLDING LTD",
+      "ticker": "",
+      "weight": 10.18
+    },
+    {
+      "rank": 2,
+      "name": "RELIANCE INDUSTRIES",
+      "ticker": "",
+      "weight": 6.09
+    },
+    {
+      "rank": 3,
+      "name": "XIAOMI CORP",
+      "ticker": "",
+      "weight": 6.05
+    },
+    {
+      "rank": 4,
+      "name": "INFOSYS LTD",
+      "ticker": "",
+      "weight": 5.68
+    },
+    {
+      "rank": 5,
+      "name": "Pop Mart International Group Ltd",
+      "ticker": "",
+      "weight": 4.21
+    },
+    {
+      "rank": 6,
+      "name": "PDD HOLDINGS INC",
+      "ticker": "",
+      "weight": 4.19
+    },
+    {
+      "rank": 7,
+      "name": "Dr Reddys Lab ADR",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 8,
+      "name": "MAKEMYTRIP LIMITED",
+      "ticker": "",
+      "weight": 3.74
+    },
+    {
+      "rank": 9,
+      "name": "NONGFU SPRING CO",
+      "ticker": "",
+      "weight": 3.06
+    },
+    {
+      "rank": 10,
+      "name": "MEITUAN",
+      "ticker": "",
+      "weight": 2.61
+    }
+  ]
+}

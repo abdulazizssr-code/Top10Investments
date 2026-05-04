@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi Bank",
+      "ticker": "",
+      "weight": 15.06
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 8.63
+    },
+    {
+      "rank": 3,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 4,
+      "name": "Tawuniya Insurance",
+      "ticker": "",
+      "weight": 6.37
+    },
+    {
+      "rank": 5,
+      "name": "Sulaiman Alhabib Medical",
+      "ticker": "",
+      "weight": 6.32
+    },
+    {
+      "rank": 6,
+      "name": "Jamjoom Pharma",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 7,
+      "name": "Lumi Rental",
+      "ticker": "",
+      "weight": 5.74
+    },
+    {
+      "rank": 8,
+      "name": "Mouwasat Medical Service",
+      "ticker": "",
+      "weight": 4.52
+    },
+    {
+      "rank": 9,
+      "name": "Seera Holding",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 10,
+      "name": "Aldrees Petroleum & Transport Services",
+      "ticker": "",
+      "weight": 3.62
+    }
+  ]
+}

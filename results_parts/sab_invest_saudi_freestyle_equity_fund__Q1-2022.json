@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_freestyle_equity_fund",
+  "fund": "SAB Invest Saudi Freestyle Equity Fund",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.11
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.74
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Basic Industries",
+      "ticker": "",
+      "weight": 9.46
+    },
+    {
+      "rank": 4,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 9.08
+    },
+    {
+      "rank": 5,
+      "name": "Sabic Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 6,
+      "name": "Sahara International Petrochemical",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 7,
+      "name": "Arabian Internet and Communication Services",
+      "ticker": "",
+      "weight": 4.71
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Arabian Mining",
+      "ticker": "",
+      "weight": 4.45
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Contracting Services Co",
+      "ticker": "",
+      "weight": 3.94
+    },
+    {
+      "rank": 10,
+      "name": "AL Hammadi Development And Investment Co",
+      "ticker": "",
+      "weight": 3.79
+    }
+  ]
+}

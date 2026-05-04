@@ -1,0 +1,67 @@
+{
+  "fund_key": "saudi_fransi_gcc_equity_fund",
+  "fund": "Saudi Fransi GCC Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.12
+    },
+    {
+      "rank": 2,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.28
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 7.45
+    },
+    {
+      "rank": 4,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 6.62
+    },
+    {
+      "rank": 5,
+      "name": "Saudi British Bank",
+      "ticker": "",
+      "weight": 5.85
+    },
+    {
+      "rank": 6,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 5.59
+    },
+    {
+      "rank": 7,
+      "name": "Arab National Bank",
+      "ticker": "",
+      "weight": 5.26
+    },
+    {
+      "rank": 8,
+      "name": "Arabian Drilling Company",
+      "ticker": "",
+      "weight": 4.51
+    },
+    {
+      "rank": 9,
+      "name": "AlKhorayef Water and Power",
+      "ticker": "",
+      "weight": 4.16
+    },
+    {
+      "rank": 10,
+      "name": "Banque Saudi Fransi",
+      "ticker": "",
+      "weight": 4.08
+    }
+  ]
+}

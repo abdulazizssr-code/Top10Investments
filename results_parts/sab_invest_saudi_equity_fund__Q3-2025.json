@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_fund",
+  "fund": "SAB Invest Saudi Equity Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AL RAJHI",
+      "ticker": "",
+      "weight": 18.47
+    },
+    {
+      "rank": 2,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 6.89
+    },
+    {
+      "rank": 3,
+      "name": "STC",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 4,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 3.55
+    },
+    {
+      "rank": 5,
+      "name": "Umm Al Qura for Development and Construction",
+      "ticker": "",
+      "weight": 3.26
+    },
+    {
+      "rank": 6,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 3.05
+    },
+    {
+      "rank": 7,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 3.01
+    },
+    {
+      "rank": 8,
+      "name": "SAUDI RE",
+      "ticker": "",
+      "weight": 2.97
+    },
+    {
+      "rank": 9,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 2.74
+    },
+    {
+      "rank": 10,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 2.74
+    }
+  ]
+}

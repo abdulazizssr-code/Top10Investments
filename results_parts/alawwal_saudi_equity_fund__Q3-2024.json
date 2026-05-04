@@ -1,0 +1,70 @@
+{
+  "fund_key": "alawwal_saudi_equity_fund",
+  "fund": "Alawwal Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alawwal Murabahat Fund SAR",
+      "ticker": "",
+      "weight": 13.27,
+      "estimated": true
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 12.74,
+      "estimated": true
+    },
+    {
+      "rank": 3,
+      "name": "Maaden",
+      "ticker": "",
+      "weight": 12.2,
+      "estimated": true
+    },
+    {
+      "rank": 4,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.65,
+      "estimated": true
+    },
+    {
+      "rank": 5,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 11.11,
+      "estimated": true
+    },
+    {
+      "rank": 6,
+      "name": "Nahdi Medical",
+      "ticker": "",
+      "weight": 10.57,
+      "estimated": true
+    },
+    {
+      "rank": 7,
+      "name": "Sipchem",
+      "ticker": "",
+      "weight": 10.03,
+      "estimated": true
+    },
+    {
+      "rank": 8,
+      "name": "Cenomi Centers",
+      "ticker": "",
+      "weight": 9.49,
+      "estimated": true
+    },
+    {
+      "rank": 9,
+      "name": "Extra (United Electronics)",
+      "ticker": "",
+      "weight": 8.94,
+      "estimated": true
+    }
+  ]
+}

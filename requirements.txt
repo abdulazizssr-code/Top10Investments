@@ -1,0 +1,10 @@
+# Saudi Mutual Fund PDF Data Extraction Pipeline
+# Python 3.9+
+
+# Core dependencies
+google-generativeai>=0.3.0
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+
+# Optional but recommended
+python-dotenv>=1.0.0  # For managing API keys in .env file

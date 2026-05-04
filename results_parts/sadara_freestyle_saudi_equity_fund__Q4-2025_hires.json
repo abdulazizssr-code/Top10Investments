@@ -1,0 +1,14 @@
+{
+  "fund_key": "sadara_freestyle_saudi_equity_fund",
+  "fund": "Sadara Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 100.0
+    }
+  ],
+  "method": "highres_crop"
+}

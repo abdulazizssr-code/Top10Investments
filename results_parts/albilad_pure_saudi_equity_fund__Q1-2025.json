@@ -1,0 +1,67 @@
+{
+  "fund_key": "albilad_pure_saudi_equity_fund",
+  "fund": "Albilad Pure Saudi Equity Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 20.1
+    },
+    {
+      "rank": 2,
+      "name": "Ithraa",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 3,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 6.9
+    },
+    {
+      "rank": 4,
+      "name": "Dhahran",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Glass",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 6,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 7,
+      "name": "Al Habib",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Electricity",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 9,
+      "name": "Amlak",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 10,
+      "name": "Sharikat",
+      "ticker": "",
+      "weight": 3.6
+    }
+  ]
+}

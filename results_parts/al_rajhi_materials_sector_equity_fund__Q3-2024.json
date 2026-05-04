@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_materials_sector_equity_fund",
+  "fund": "Al Rajhi Materials Sector Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Mining Company (Ma'aden)",
+      "ticker": "",
+      "weight": 16.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Basic Industries Corporation (SABIC)",
+      "ticker": "",
+      "weight": 10.7
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Fertilizer Company (SAFCO)",
+      "ticker": "",
+      "weight": 9.6
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 8.2
+    },
+    {
+      "rank": 5,
+      "name": "Yamama Cement",
+      "ticker": "",
+      "weight": 7.4
+    },
+    {
+      "rank": 6,
+      "name": "Saudi International Petrochemical Company (Sipchem)",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 7,
+      "name": "Middle East Paper Company",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 8,
+      "name": "Makkah Construction and Development",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 9,
+      "name": "The National Company",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 3.1
+    }
+  ]
+}

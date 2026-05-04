@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(c)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (C)",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.5
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Fertilizer Company (SAFCO)",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 3,
+      "name": "Bank Al Jazira",
+      "ticker": "",
+      "weight": 6.5
+    },
+    {
+      "rank": 4,
+      "name": "Sahara International Petrochemical (SIPCHEM)",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 5,
+      "name": "Methanol Chemicals Company (Chemanol)",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 6,
+      "name": "United Electronics Company (Extra)",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabian Glass Company (Zoujaj)",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 8,
+      "name": "Alamar Foods Company",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Internet and Communications Services (Solutions by stc)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Retal Urban Development Company",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

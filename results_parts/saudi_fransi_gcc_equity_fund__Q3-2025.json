@@ -1,0 +1,67 @@
+{
+  "fund_key": "saudi_fransi_gcc_equity_fund",
+  "fund": "Saudi Fransi GCC Equity Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 19.03
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Automotive Services",
+      "ticker": "",
+      "weight": 7.94
+    },
+    {
+      "rank": 3,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 5.68
+    },
+    {
+      "rank": 4,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 5,
+      "name": "Etihad Etisalat CO",
+      "ticker": "",
+      "weight": 4.08
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Arabian Oil CO",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 3.43
+    },
+    {
+      "rank": 8,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 3.26
+    },
+    {
+      "rank": 9,
+      "name": "Americana Restaurants International PLC",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "Dr. Sulaiman Al Habib Medical Services Group",
+      "ticker": "",
+      "weight": 2.97
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Saudi Equity Fund (Shariah)",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 7
+    },
+    {
+      "rank": 4,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 6
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Telecom Co",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 7,
+      "name": "Bupa Arabia for Cooperative",
+      "ticker": "",
+      "weight": 5
+    },
+    {
+      "rank": 8,
+      "name": "Elm Co",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 9,
+      "name": "Bank Al-Jazira",
+      "ticker": "",
+      "weight": 4
+    },
+    {
+      "rank": 10,
+      "name": "Cash",
+      "ticker": "",
+      "weight": 4
+    }
+  ]
+}

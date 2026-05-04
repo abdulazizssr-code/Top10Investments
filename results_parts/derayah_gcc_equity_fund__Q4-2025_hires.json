@@ -1,0 +1,68 @@
+{
+  "fund_key": "derayah_gcc_equity_fund",
+  "fund": "Derayah GCC Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 11.98
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Power Transformers Co",
+      "ticker": "",
+      "weight": 4.99
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.96
+    },
+    {
+      "rank": 4,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 4.82
+    },
+    {
+      "rank": 5,
+      "name": "Ma'aden (Saudi Arabian Mining Co)",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 6,
+      "name": "STC (Saudi Telecom Company)",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 7,
+      "name": "East Pipes Integrated Company",
+      "ticker": "",
+      "weight": 3.85
+    },
+    {
+      "rank": 8,
+      "name": "Al Khorayef Water and Power Technologies",
+      "ticker": "",
+      "weight": 3.2
+    },
+    {
+      "rank": 9,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 3.16
+    },
+    {
+      "rank": 10,
+      "name": "City Cement Company",
+      "ticker": "",
+      "weight": 3.02
+    }
+  ],
+  "method": "highres_crop"
+}

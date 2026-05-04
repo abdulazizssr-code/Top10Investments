@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_freestyle_saudi_equity_fund",
+  "fund": "Al Rajhi Freestyle Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 14.1
+    },
+    {
+      "rank": 2,
+      "name": "The National Shipping Company of Saudi Arabia (Bahri)",
+      "ticker": "",
+      "weight": 8.1
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Mining Company (Ma'aden)",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 4,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 5,
+      "name": "The Company for Cooperative Insurance (Tawuniya)",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 6,
+      "name": "National Gas and Industrialization Company",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 7,
+      "name": "Elm Company",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "Bawan Company",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 9,
+      "name": "Aldrees Petroleum and Transport Services Company",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 10,
+      "name": "Etihad Etisalat Company (Mobily)",
+      "ticker": "",
+      "weight": 3.6
+    }
+  ]
+}

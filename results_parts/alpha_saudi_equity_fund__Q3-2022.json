@@ -1,0 +1,67 @@
+{
+  "fund_key": "alpha_saudi_equity_fund",
+  "fund": "Alpha Saudi Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.87
+    },
+    {
+      "rank": 2,
+      "name": "Al Inma Bank",
+      "ticker": "",
+      "weight": 8.54
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Re For Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 6.51
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 4.99
+    },
+    {
+      "rank": 5,
+      "name": "Ataa Educational Co",
+      "ticker": "",
+      "weight": 4.95
+    },
+    {
+      "rank": 6,
+      "name": "SIPCHEM",
+      "ticker": "",
+      "weight": 4.76
+    },
+    {
+      "rank": 7,
+      "name": "Bank Al Jazira",
+      "ticker": "",
+      "weight": 4.74
+    },
+    {
+      "rank": 8,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 9,
+      "name": "Dallah Healthcare Holding",
+      "ticker": "",
+      "weight": 4.58
+    },
+    {
+      "rank": 10,
+      "name": "Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 3.88
+    }
+  ]
+}

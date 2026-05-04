@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ACWA Power",
+      "ticker": "",
+      "weight": 11.2
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 3,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 9.7
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 5,
+      "name": "Leejam Sports",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 6,
+      "name": "United Electronics Company (eXtra)",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Industrial Investment Group",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 8,
+      "name": "Arabian International Healthcare Holding",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 9,
+      "name": "Al Masane Al Kobra Mining",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "Al Andalus Property",
+      "ticker": "",
+      "weight": 2.5
+    }
+  ]
+}

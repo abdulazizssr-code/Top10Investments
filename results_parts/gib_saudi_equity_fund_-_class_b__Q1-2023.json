@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_equity_fund_-_class_b",
+  "fund": "GIB Saudi Equity Fund - Class B",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 18.0
+    },
+    {
+      "rank": 2,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 3,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 4,
+      "name": "Tadawul Group",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 5,
+      "name": "SIPCHEM",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 6,
+      "name": "Mouwasat Medical Services",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 7,
+      "name": "Arabian Drilling",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 8,
+      "name": "Research and Media Services",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "Chemanol",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 10,
+      "name": "Advanced Petrochemical Company",
+      "ticker": "",
+      "weight": 3.2
+    }
+  ]
+}

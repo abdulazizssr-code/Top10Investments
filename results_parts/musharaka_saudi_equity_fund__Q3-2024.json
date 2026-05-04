@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Aldrees",
+      "ticker": "",
+      "weight": 6.65
+    },
+    {
+      "rank": 2,
+      "name": "STC (Saudi Telecom)",
+      "ticker": "",
+      "weight": 6.4
+    },
+    {
+      "rank": 3,
+      "name": "MTC",
+      "ticker": "",
+      "weight": 6.22
+    },
+    {
+      "rank": 4,
+      "name": "Tihad Cromia",
+      "ticker": "",
+      "weight": 6.18
+    },
+    {
+      "rank": 5,
+      "name": "Al Qabd Madina Medical Services & Equipment",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 6,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 5.65
+    },
+    {
+      "rank": 7,
+      "name": "Dhakthar",
+      "ticker": "",
+      "weight": 5.55
+    },
+    {
+      "rank": 8,
+      "name": "SAL",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 9,
+      "name": "Aldawaa",
+      "ticker": "",
+      "weight": 5.4
+    },
+    {
+      "rank": 10,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 4.9
+    }
+  ]
+}

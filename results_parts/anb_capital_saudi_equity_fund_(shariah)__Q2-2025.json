@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Saudi Equity Fund (Shariah)",
+  "quarter": "Q2-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alrajhi Bank",
+      "ticker": "",
+      "weight": 17.72
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.12
+    },
+    {
+      "rank": 3,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 4.91
+    },
+    {
+      "rank": 4,
+      "name": "Sulaiman Alhabib Medical",
+      "ticker": "",
+      "weight": 4.83
+    },
+    {
+      "rank": 5,
+      "name": "Tawuniya Insurance",
+      "ticker": "",
+      "weight": 4.74
+    },
+    {
+      "rank": 6,
+      "name": "Etihad Etisalat Telecom",
+      "ticker": "",
+      "weight": 4.44
+    },
+    {
+      "rank": 7,
+      "name": "Aldrees Petroleum & Transport",
+      "ticker": "",
+      "weight": 4.18
+    },
+    {
+      "rank": 8,
+      "name": "Albabtain Power & Telecom",
+      "ticker": "",
+      "weight": 3.67
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Pipes",
+      "ticker": "",
+      "weight": 3.58
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 3.23
+    }
+  ]
+}

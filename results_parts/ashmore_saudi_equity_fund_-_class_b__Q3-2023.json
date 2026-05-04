@@ -1,0 +1,68 @@
+{
+  "fund_key": "ashmore_saudi_equity_fund_-_class_b",
+  "fund": "Ashmore Saudi Equity Fund - Class B",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi National Bank",
+      "ticker": "",
+      "weight": 9.8
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Oil Co",
+      "ticker": "",
+      "weight": 9.24
+    },
+    {
+      "rank": 3,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 6.28
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 5.87
+    },
+    {
+      "rank": 5,
+      "name": "Al Hammadi Holding",
+      "ticker": "",
+      "weight": 5.46
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 4.5
+    },
+    {
+      "rank": 7,
+      "name": "Arab National Bank",
+      "ticker": "",
+      "weight": 4.36
+    },
+    {
+      "rank": 8,
+      "name": "Yanbu National Petrochemical",
+      "ticker": "",
+      "weight": 8.78,
+      "estimated": true
+    },
+    {
+      "rank": 9,
+      "name": "United International Transportation",
+      "ticker": "",
+      "weight": 3.53
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Fertilizer Co",
+      "ticker": "",
+      "weight": 3.25
+    }
+  ]
+}

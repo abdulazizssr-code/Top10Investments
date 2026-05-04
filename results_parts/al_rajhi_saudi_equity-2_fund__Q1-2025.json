@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity-2_fund",
+  "fund": "Al Rajhi Saudi Equity-2 Fund",
+  "quarter": "Q1-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SUKUK 1",
+      "ticker": "",
+      "weight": 16.9
+    },
+    {
+      "rank": 2,
+      "name": "MUR 1",
+      "ticker": "",
+      "weight": 16.5
+    },
+    {
+      "rank": 3,
+      "name": "MUR 2",
+      "ticker": "",
+      "weight": 8.7
+    },
+    {
+      "rank": 4,
+      "name": "Al Rajhi Awaeed Fund",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 5,
+      "name": "SUKUK 2",
+      "ticker": "",
+      "weight": 6.2
+    },
+    {
+      "rank": 6,
+      "name": "MUR 3",
+      "ticker": "",
+      "weight": 6.0
+    },
+    {
+      "rank": 7,
+      "name": "MUR 4",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 8,
+      "name": "MUR 5",
+      "ticker": "",
+      "weight": 2.5
+    },
+    {
+      "rank": 9,
+      "name": "MUR 6",
+      "ticker": "",
+      "weight": 2.5
+    },
+    {
+      "rank": 10,
+      "name": "Sukuk 3",
+      "ticker": "",
+      "weight": 2.5
+    }
+  ]
+}

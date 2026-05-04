@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_opportunistic_saudi_equity_fund_-_class_(b)",
+  "fund": "GIB Opportunistic Saudi Equity Fund - Class (B)",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank (RJHI)",
+      "ticker": "",
+      "weight": 18.7
+    },
+    {
+      "rank": 2,
+      "name": "Alinma Bank (ALINMA)",
+      "ticker": "",
+      "weight": 9.5
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Basic Industries Corp (SABIC)",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 4,
+      "name": "Saudi Arabian Fertilizer Co (SAFCO)",
+      "ticker": "",
+      "weight": 8.4
+    },
+    {
+      "rank": 5,
+      "name": "Bank Al Jazira (BJAZ)",
+      "ticker": "",
+      "weight": 7.4
+    },
+    {
+      "rank": 6,
+      "name": "Methanol Chemicals Co (CHEMANOL)",
+      "ticker": "",
+      "weight": 7.1
+    },
+    {
+      "rank": 7,
+      "name": "Saudi International Petrochemical Co (SIPCHEM)",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 8,
+      "name": "United Electronics Co (EXTRA)",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 9,
+      "name": "Astra Industrial Group (ASTRA)",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 10,
+      "name": "Middle East Paper Co (MEPCO)",
+      "ticker": "",
+      "weight": 3.8
+    }
+  ]
+}

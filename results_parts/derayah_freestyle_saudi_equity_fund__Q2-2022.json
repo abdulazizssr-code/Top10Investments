@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_freestyle_saudi_equity_fund",
+  "fund": "Derayah FreeStyle Saudi Equity fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 2,
+      "name": "Middle East Paper Company (MEPCO)",
+      "ticker": "",
+      "weight": 9.19
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 8.19
+    },
+    {
+      "rank": 4,
+      "name": "Bank Aljazira",
+      "ticker": "",
+      "weight": 7.64
+    },
+    {
+      "rank": 5,
+      "name": "United Electronics Company (eXtra)",
+      "ticker": "",
+      "weight": 5.56
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Airlines Catering Company",
+      "ticker": "",
+      "weight": 5.27
+    },
+    {
+      "rank": 7,
+      "name": "Methanol Chemicals Company (Chemanol)",
+      "ticker": "",
+      "weight": 4.85
+    },
+    {
+      "rank": 8,
+      "name": "Elm Company",
+      "ticker": "",
+      "weight": 4.21
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Internet and Communications Services Company (Solutions)",
+      "ticker": "",
+      "weight": 3.82
+    },
+    {
+      "rank": 10,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 3.45
+    }
+  ]
+}

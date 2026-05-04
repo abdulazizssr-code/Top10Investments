@@ -1,0 +1,67 @@
+{
+  "fund_key": "alpha_saudi_equity_fund",
+  "fund": "Alpha Saudi Equity Fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.19
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Mining",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Basic Industries Corp",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 4,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 6.47
+    },
+    {
+      "rank": 5,
+      "name": "Bank Al Jazira",
+      "ticker": "",
+      "weight": 5.93
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Re For Cooperative Reinsurance",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 7,
+      "name": "Ataa Educational Co",
+      "ticker": "",
+      "weight": 5.06
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Ceramics",
+      "ticker": "",
+      "weight": 5.02
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 4.98
+    },
+    {
+      "rank": 10,
+      "name": "Arabian Internet and Communications Services Co",
+      "ticker": "",
+      "weight": 4.78
+    }
+  ]
+}

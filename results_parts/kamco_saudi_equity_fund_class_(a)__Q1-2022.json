@@ -1,0 +1,61 @@
+{
+  "fund_key": "kamco_saudi_equity_fund_class_(a)",
+  "fund": "Kamco Saudi Equity Fund Class (A)",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "AlRajhi Bank",
+      "ticker": "",
+      "weight": 15.0
+    },
+    {
+      "rank": 2,
+      "name": "Aramco",
+      "ticker": "",
+      "weight": 13.0
+    },
+    {
+      "rank": 3,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 4,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 5,
+      "name": "STC",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "Sipchem",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 7,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 8,
+      "name": "Bawan",
+      "ticker": "",
+      "weight": 3.0
+    },
+    {
+      "rank": 9,
+      "name": "SABB",
+      "ticker": "",
+      "weight": 3.0
+    }
+  ]
+}

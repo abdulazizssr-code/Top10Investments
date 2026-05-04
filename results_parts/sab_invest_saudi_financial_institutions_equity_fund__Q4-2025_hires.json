@@ -1,0 +1,68 @@
+{
+  "fund_key": "sab_invest_saudi_financial_institutions_equity_fund",
+  "fund": "SAB Invest Saudi Financial Institutions Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SNB",
+      "ticker": "",
+      "weight": 19.43
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi",
+      "ticker": "",
+      "weight": 19.25
+    },
+    {
+      "rank": 3,
+      "name": "Alinma",
+      "ticker": "",
+      "weight": 12.04
+    },
+    {
+      "rank": 4,
+      "name": "Banque Saudi Fransi",
+      "ticker": "",
+      "weight": 9.66
+    },
+    {
+      "rank": 5,
+      "name": "Arab National Bank",
+      "ticker": "",
+      "weight": 6.62
+    },
+    {
+      "rank": 6,
+      "name": "Bank Albilad",
+      "ticker": "",
+      "weight": 4.23
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Awwal Bank",
+      "ticker": "",
+      "weight": 4.06
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Tadawul Group Holding",
+      "ticker": "",
+      "weight": 3.67
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Re",
+      "ticker": "",
+      "weight": 3.01
+    },
+    {
+      "rank": 10,
+      "name": "Rasan Information Technology Co",
+      "ticker": "",
+      "weight": 2.95
+    }
+  ],
+  "method": "highres_crop"
+}

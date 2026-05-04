@@ -1,0 +1,37 @@
+{
+  "fund_key": "bmk_saudi_freestyle_equity_fund_sharia_compliant",
+  "fund": "BMK Saudi Freestyle Equity Fund Sharia Compliant",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Riyad SAR Trade Fund",
+      "ticker": "",
+      "weight": 25.52
+    },
+    {
+      "rank": 2,
+      "name": "SICO Capital Money Market Fund",
+      "ticker": "",
+      "weight": 22.72
+    },
+    {
+      "rank": 3,
+      "name": "Riyadh Cement",
+      "ticker": "",
+      "weight": 2.7
+    },
+    {
+      "rank": 4,
+      "name": "Watani Steel",
+      "ticker": "",
+      "weight": 1.47
+    },
+    {
+      "rank": 5,
+      "name": "Tibbiyah",
+      "ticker": "",
+      "weight": 1.02
+    }
+  ]
+}

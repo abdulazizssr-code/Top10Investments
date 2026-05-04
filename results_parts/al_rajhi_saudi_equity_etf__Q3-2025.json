@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity_etf",
+  "fund": "Al Rajhi Saudi Equity ETF",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Arabian Centres",
+      "ticker": "",
+      "weight": 15.8
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Sukuk",
+      "ticker": "",
+      "weight": 15.4
+    },
+    {
+      "rank": 3,
+      "name": "Al Rajhi Real Estate",
+      "ticker": "",
+      "weight": 8.9
+    },
+    {
+      "rank": 4,
+      "name": "Middle East Healthcare",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 5,
+      "name": "Al Rajhi Awaeed Fund",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 6,
+      "name": "Al Rajhi Indirect",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 3.5
+    },
+    {
+      "rank": 9,
+      "name": "Al Rajhi Monthly",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 2.6
+    }
+  ]
+}

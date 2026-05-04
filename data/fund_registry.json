@@ -1,0 +1,1582 @@
+{
+  "lastUpdated": "2026-03-31T01:00:00",
+  "totalFunds": 197,
+  "funds": [
+    {
+      "name": "Riyad Blue Chip Equity Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "001027",
+      "currency": "SAR"
+    },
+    {
+      "name": "WinVeston Saudi Equity Quant Fund",
+      "manager": "WinVeston Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "172001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Miyar Saudi Equity Fund",
+      "manager": "Miyar Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "164004",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alawwal Saudi Equity Fund",
+      "manager": "Alawwal Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "104002",
+      "currency": "SAR"
+    },
+    {
+      "name": "Morgan Stanley Saudi Equity Fund",
+      "manager": "Morgan Stanley Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "046786",
+      "currency": "SAR"
+    },
+    {
+      "name": "YAQEEN Saudi Equity Fund",
+      "manager": "Yaqeen Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "024001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alistithmar Capital Freestyle Saudi Equity Fund",
+      "manager": "Alistithmar for Financial Securities and Brokerage",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003214",
+      "currency": "SAR"
+    },
+    {
+      "name": "Ashmore GCC Diversified Trade Fund - Class B",
+      "manager": "Ashmore Investment Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "139006",
+      "currency": "SAR"
+    },
+    {
+      "name": "Ashmore GCC Diversified Trade Fund - Class A",
+      "manager": "Ashmore Investment Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "139004",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital IPO Fund (Shariah)",
+      "manager": "anb capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008030",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital Digital & IT Equity Fund (Shariah)",
+      "manager": "anb capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008043",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital Dividend Growth Fund (Shariah)",
+      "manager": "anb capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008044",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital Emerging Companies Equity Fund (Shariah)",
+      "manager": "anb capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008046",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital Saudi Companies Equity Fund (Shariah)",
+      "manager": "anb capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008050",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital Freestyle Saudi Equity Fund (Shariah)",
+      "manager": "anb capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008047",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital Healthcare Freestyle Fund",
+      "manager": "anb capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008058",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alawwal Saudi Financial Sector Fund",
+      "manager": "Alawwal Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "104004",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alawwal Saudi Petrochemical Sector Fund",
+      "manager": "Alawwal Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "104003",
+      "currency": "SAR"
+    },
+    {
+      "name": "Masarrah Multi Asset Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012017",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi IPO Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012044",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Saudi Equity Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012023",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi GCC Equity Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012026",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD Saudi Equity Growth Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014003",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD Saudi Equity Income Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014004",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD IPO Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014005",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD GCC Growth and Income Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014007",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD Saudi Freestyle Equity Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014008",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD GCC Freestyle Equity Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014009",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD Multi Assets Growth Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014013",
+      "currency": "SAR"
+    },
+    {
+      "name": "AlJazira Saudi Companies Fund",
+      "manager": "Aljazira Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "002003",
+      "currency": "SAR"
+    },
+    {
+      "name": "AlJazira GCC and MENA Companies Fund",
+      "manager": "Aljazira Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "002005",
+      "currency": "SAR"
+    },
+    {
+      "name": "AlJazira Saudi Freestyle Equity Fund",
+      "manager": "Aljazira Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "002017",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alistithmar Capital Saudi Companies Fund",
+      "manager": "Alistithmar for Financial Securities and Brokerage",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003201",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alinma Multi Assets Growth Fund",
+      "manager": "Alinma Investment Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "045009",
+      "currency": "SAR"
+    },
+    {
+      "name": "Falcom Saudi Equity Fund",
+      "manager": "FALCOM Financial Services",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "023001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Falcom Saudi Equity ETF",
+      "manager": "FALCOM Financial Services",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "023004",
+      "currency": "SAR"
+    },
+    {
+      "name": "Falcom Petrochemical ETF",
+      "manager": "FALCOM Financial Services",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "023005",
+      "currency": "SAR"
+    },
+    {
+      "name": "GIB Saudi Equity Fund",
+      "manager": "GIB Capital",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "005001",
+      "currency": "SAR"
+    },
+    {
+      "name": "GIB IPO and Growth Fund",
+      "manager": "GIB Capital",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "005003",
+      "currency": "SAR"
+    },
+    {
+      "name": "GIB Local Equity Income Fund",
+      "manager": "GIB Capital",
+      "objective": "Income and Growth",
+      "shariah": "-",
+      "fundId": "005004",
+      "currency": "SAR"
+    },
+    {
+      "name": "GIB Saudi Small and Mid-Cap Equity Fund - CLASS (A)",
+      "manager": "GIB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "158015",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Saudi Equity Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007001",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Saudi Companies Equity Trading Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007002",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC GCC Equity Income Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Income and Growth",
+      "shariah": "-",
+      "fundId": "007004",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Small Cap Saudi Equity Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007005",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Saudi 20 ETF",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007006",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Equity Fund",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa GCC Equity Fund",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030002",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Freestyle Equity Fund",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030005",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad TASI 50 ETF",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "001028",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Equities 10 ETF",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "001023",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Saudi Healthcare and Education Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "001048",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Saudi Freestyle Equity Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "001029",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Saudi Equity Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "001026",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Saudi IPO Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "001031",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Small and Medium Cap Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "001052",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Emaar Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "001051",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Yusr Saudi Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "004003",
+      "currency": "SAR"
+    },
+    {
+      "name": "Ensan Endowment Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014012",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Real Estate Monthly Distributions Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012061",
+      "currency": "SAR"
+    },
+    {
+      "name": "Sadara Freestyle Saudi Equity Fund",
+      "manager": "Sadara Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "478001",
+      "currency": "SAR"
+    },
+    {
+      "name": "AlJazira Asset Allocation Fund - Growth Strategy",
+      "manager": "Aljazira Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "002010",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alistithmar Capital Diversified SAR Fund",
+      "manager": "Alistithmar for Financial Securities and Brokerage",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003217",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Arab Equity Markets Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012027",
+      "currency": "SAR"
+    },
+    {
+      "name": "GIB Saudi Small and Mid-Cap Equity Fund - CLASS (C)",
+      "manager": "GIB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "158017",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Equity Fund II Class B",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030032",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Equity Fund II Class C",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030033",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Equity Fund II Class A",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030031",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital GCC Growth and Income Equity Fund (Shariah)",
+      "manager": "anb capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008051",
+      "currency": "SAR"
+    },
+    {
+      "name": "SNB Capital GCC Growth and Income Fund",
+      "manager": "SNB Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003202",
+      "currency": "SAR"
+    },
+    {
+      "name": "SNB Capital Saudi Equity Fund",
+      "manager": "SNB Capital",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "003207",
+      "currency": "SAR"
+    },
+    {
+      "name": "SNB Capital Saudi Companies Freestyle Fund",
+      "manager": "SNB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003216",
+      "currency": "SAR"
+    },
+    {
+      "name": "SNB Capital Saudi IPO Fund",
+      "manager": "SNB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003208",
+      "currency": "SAR"
+    },
+    {
+      "name": "SNB Capital Saudi Equity Growth Fund (Sharia Compliant)",
+      "manager": "SNB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003210",
+      "currency": "SAR"
+    },
+    {
+      "name": "SNB Capital GCC Equity Fund",
+      "manager": "SNB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003212",
+      "currency": "SAR"
+    },
+    {
+      "name": "SNB Capital Saudi Equity Freestyle Fund",
+      "manager": "SNB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003219",
+      "currency": "SAR"
+    },
+    {
+      "name": "SEDCO Capital Saudi Equity Fund",
+      "manager": "SEDCO Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "038002",
+      "currency": "SAR"
+    },
+    {
+      "name": "SEDCO Capital GCC Opportunity Fund",
+      "manager": "SEDCO Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "038004",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Saudi Industrial Companies Freestyle Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007019",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alinma IPO Fund",
+      "manager": "Alinma Investment Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "045003",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Freestyle Saudi Equity Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012050",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Multi Asset Balanced Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012058",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa GCC Equity Fund II Class A",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030035",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa GCC Equity Fund II Class B",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030036",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa GCC Equity Fund II Class C",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030037",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Large Cap Freestyle Equity Fund - Class A",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030054",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Saudi Financial Companies Freestyle Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007020",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alistithmar Capital Mid and Small Saudi Companies Equity Fund",
+      "manager": "Alistithmar for Financial Securities and Brokerage",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003218",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi MENA Multi Asset Balanced Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012060",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD Saudi Small Cap Equity Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014015",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD Real Estate Income Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014016",
+      "currency": "SAR"
+    },
+    {
+      "name": "YAQEEN Saudi Growth and Dividend Fund",
+      "manager": "Yaqeen Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "024003",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi GCC Monthly Distribution Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012059",
+      "currency": "SAR"
+    },
+    {
+      "name": "YAQEEN Saudi Freestyle Equity Fund",
+      "manager": "Yaqeen Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "024007",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad GCC Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "001024",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alistithmar Capital GCC Companies Fund",
+      "manager": "Alistithmar for Financial Securities and Brokerage",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003211",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alistithmar Capital IPO Fund",
+      "manager": "Alistithmar for Financial Securities and Brokerage",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003209",
+      "currency": "SAR"
+    },
+    {
+      "name": "AlJazira IPO Fund",
+      "manager": "Aljazira Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "002015",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alinma Multi Assets Balanced Fund",
+      "manager": "Alinma Investment Company",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "045010",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Saudi Petrochemical Companies Freestyle Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007021",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Small and Mid-Cap Saudi Equity Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012052",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alawwal Saudi Freestyle Fund",
+      "manager": "Alawwal Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "104005",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Saudi Freestyle Small Cap Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007023",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Multi Strategy Growth Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "007024",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Leading Stocks Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "001025",
+      "currency": "SAR"
+    },
+    {
+      "name": "Derayah Saudi Equity Fund",
+      "manager": "Derayah Financial Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "133001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Derayah Saudi Growth and Income Fund",
+      "manager": "Derayah Financial Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "133003",
+      "currency": "SAR"
+    },
+    {
+      "name": "Derayah GCC Growth Fund",
+      "manager": "Derayah Financial Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "133004",
+      "currency": "SAR"
+    },
+    {
+      "name": "Derayah Freestyle Saudi Equity Fund",
+      "manager": "Derayah Financial Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "133005",
+      "currency": "SAR"
+    },
+    {
+      "name": "GIB Saudi Small and Mid-Cap Equity Fund - CLASS (B)",
+      "manager": "GIB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "158016",
+      "currency": "SAR"
+    },
+    {
+      "name": "Muscat Capital Saudi Equity Fund",
+      "manager": "Muscat Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "200001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad GCC Freestyle Equity Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "001049",
+      "currency": "SAR"
+    },
+    {
+      "name": "Albilad MSCI Saudi Multi Factors ETF",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014014",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Multi Strategy Balanced Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Income and Growth",
+      "shariah": "-",
+      "fundId": "007022",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa GCC Freestyle Equity Fund",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030048",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Large Cap Freestyle Equity Fund - Class B",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030055",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Freestyle II Equity Fund - Class A",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030053",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Freestyle II Equity Fund - Class B",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030056",
+      "currency": "SAR"
+    },
+    {
+      "name": "SEDCO Capital Mid and Small Cap Equity Fund",
+      "manager": "SEDCO Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "038007",
+      "currency": "SAR"
+    },
+    {
+      "name": "Derayah Opportunistic Saudi Equity Fund",
+      "manager": "Derayah Financial Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "133009",
+      "currency": "SAR"
+    },
+    {
+      "name": "Derayah Nomu Market Fund",
+      "manager": "Derayah Financial Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "133010",
+      "currency": "SAR"
+    },
+    {
+      "name": "Artal MENA Fund (Class B)",
+      "manager": "Artal Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "167006",
+      "currency": "SAR"
+    },
+    {
+      "name": "Artal MENA Fund (Class A)",
+      "manager": "Artal Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "167005",
+      "currency": "SAR"
+    },
+    {
+      "name": "Artal Saudi Equity Freestyle Fund (Class B)",
+      "manager": "Artal Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "167004",
+      "currency": "SAR"
+    },
+    {
+      "name": "Artal Saudi Equity Freestyle Fund (Class A)",
+      "manager": "Artal Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "167003",
+      "currency": "SAR"
+    },
+    {
+      "name": "Derayah GCC Growth and Income Equity Fund",
+      "manager": "Derayah Financial Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "133006",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Arab Market Equity Fund - Class A",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030020",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Arab Market Equity Fund - Class C",
+      "manager": "Jadwa Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030021",
+      "currency": "SAR"
+    },
+    {
+      "name": "Artal Monthly Distribution Fund (Class B)",
+      "manager": "Artal Capital Company",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "167002",
+      "currency": "SAR"
+    },
+    {
+      "name": "Artal Monthly Distribution Fund (Class A)",
+      "manager": "Artal Capital Company",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "167001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Growth and Income Fund - Class A",
+      "manager": "Jadwa Investment",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030040",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Growth and Income Fund - Class B",
+      "manager": "Jadwa Investment",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030041",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Growth and Income Fund - Class C",
+      "manager": "Jadwa Investment",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030042",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Growth and Income Fund - Class D",
+      "manager": "Jadwa Investment",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030043",
+      "currency": "SAR"
+    },
+    {
+      "name": "Mulkia Saudi Equity Fund (Class A)",
+      "manager": "Mulkia Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "162001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Mulkia Saudi Equity Fund (Class B)",
+      "manager": "Mulkia Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "162002",
+      "currency": "SAR"
+    },
+    {
+      "name": "Muscat Capital GCC Fund",
+      "manager": "Muscat Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "200002",
+      "currency": "SAR"
+    },
+    {
+      "name": "Albilad MSCI Saudi Mega Plus Large Cap ETF",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014017",
+      "currency": "SAR"
+    },
+    {
+      "name": "Ashmore Small and Mid Cap Saudi Equity Fund - Class A",
+      "manager": "Ashmore Investment Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "139008",
+      "currency": "SAR"
+    },
+    {
+      "name": "Ashmore Small and Mid Cap Saudi Equity Fund - Class B",
+      "manager": "Ashmore Investment Saudi Arabia",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "139009",
+      "currency": "SAR"
+    },
+    {
+      "name": "YAQEEN Saudi Small Cap Freestyle Equity Fund",
+      "manager": "Yaqeen Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "024009",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006001",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Telecom and IT Companies Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006002",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Petrochemical Companies Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006003",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi IPO Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006007",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Banking and Financial Companies Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006008",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Freestyle Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006009",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest GCC Companies Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006012",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Small Cap Companies Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006014",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Multi Assets Growth Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "006024",
+      "currency": "SAR"
+    },
+    {
+      "name": "ENBDC Saudi Equity Freestyle Fund",
+      "manager": "Emirates NBD Capital KSA",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "059001",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Construction and Cement Companies Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "006032",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest GCC Companies Equity Income Fund",
+      "manager": "SAB Invest",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "006038",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alinma Saudi Equity Fund",
+      "manager": "Alinma Investment Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "045001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Saudi Financial Institutions Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "004004",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Multi Assets Defensive Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "006022",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Multi Assets Balanced Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "006023",
+      "currency": "SAR"
+    },
+    {
+      "name": "BMK Saudi Freestyle Equity Fund Sharia Compliant",
+      "manager": "Bait Al Mal Al Khaleeji",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "135003",
+      "currency": "SAR"
+    },
+    {
+      "name": "TAM FREESTYLE SAUDI EQUITY FUND",
+      "manager": "TAM Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "506001",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Companies Equity Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "006019",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alpha Saudi Freestyle Equity Fund",
+      "manager": "Alpha Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "169001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Wasatah Saudi Equity Freestyle Fund",
+      "manager": "Wasatah Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "155001",
+      "currency": "SAR"
+    },
+    {
+      "name": "SEDCO Capital GCC Freestyle Equity Fund",
+      "manager": "SEDCO Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "038008",
+      "currency": "SAR"
+    },
+    {
+      "name": "SEDCO Capital Saudi Freestyle Equity Fund",
+      "manager": "SEDCO Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "038009",
+      "currency": "SAR"
+    },
+    {
+      "name": "Mulkia Gulf Fund",
+      "manager": "Mulkia Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "162005",
+      "currency": "SAR"
+    },
+    {
+      "name": "GIB Saudi Equity Income Fund Class (A)",
+      "manager": "GIB Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "158018",
+      "currency": "SAR"
+    },
+    {
+      "name": "GIB Saudi Equity Income Fund Class (B)",
+      "manager": "GIB Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "158019",
+      "currency": "SAR"
+    },
+    {
+      "name": "Falcom Saudi Small and Mid Cap Fund",
+      "manager": "FALCOM Financial Services",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "023006",
+      "currency": "SAR"
+    },
+    {
+      "name": "Ithraa Capital Saudi Freestyle Equity Fund",
+      "manager": "Ithraa Capital Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "174001",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Saudi Dividends and Growth Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012065",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alistithmar Capital Emerging Companies Fund",
+      "manager": "Alistithmar for Financial Securities and Brokerage",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003221",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alinma Freestyle Saudi Equity Fund",
+      "manager": "Alinma Investment Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "045007",
+      "currency": "SAR"
+    },
+    {
+      "name": "Albilad Nomu Parallel Market Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014018",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Saudi Freestyle Monthly Distributions Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012068",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad MSCI Tadawul 30 Saudi ETF",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "001053",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Nomu Market Equity Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012071",
+      "currency": "SAR"
+    },
+    {
+      "name": "Alistithmar Capital Freestyle Equity Fund",
+      "manager": "Alistithmar for Financial Securities and Brokerage",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003222",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Saudi Dividend Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "001055",
+      "currency": "SAR"
+    },
+    {
+      "name": "SEDCO Capital Monthly Distribution Fund",
+      "manager": "SEDCO Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "038010",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Equity Freestyle Growth and Dividend Fund - Class B",
+      "manager": "Jadwa Investment",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030059",
+      "currency": "SAR"
+    },
+    {
+      "name": "Jadwa Saudi Equity Freestyle Growth and Dividend Fund - Class A",
+      "manager": "Jadwa Investment",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "030058",
+      "currency": "SAR"
+    },
+    {
+      "name": "AlJazira Nomu Parallel Market Fund",
+      "manager": "Aljazira Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "002024",
+      "currency": "SAR"
+    },
+    {
+      "name": "Derayah Saudi Equity Growth and Income Fund",
+      "manager": "Derayah Financial Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "133011",
+      "currency": "SAR"
+    },
+    {
+      "name": "Mulkia Saudi Freestyle Fund",
+      "manager": "Mulkia Investment",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "162007",
+      "currency": "SAR"
+    },
+    {
+      "name": "AlJazira Balanced Growth Fund",
+      "manager": "Aljazira Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "002025",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Equity Growth and Income Fund",
+      "manager": "SAB Invest",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "006036",
+      "currency": "SAR"
+    },
+    {
+      "name": "Ithraa Capital Saudi Growth and Income Freestyle Fund",
+      "manager": "Ithraa Capital Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "174002",
+      "currency": "SAR"
+    },
+    {
+      "name": "AlJazira Small and Mid Cap Saudi Companies Fund",
+      "manager": "Aljazira Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "002023",
+      "currency": "SAR"
+    },
+    {
+      "name": "HSBC Saudi Real Estate Income Fund",
+      "manager": "HSBC Saudi Arabia",
+      "objective": "Income and Growth",
+      "shariah": "-",
+      "fundId": "007025",
+      "currency": "SAR"
+    },
+    {
+      "name": "anb capital Freestyle Saudi Equity Monthly Distribution Fund (Shariah)",
+      "manager": "anb capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "008060",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD Saudi Freestyle Monthly Distribution Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014019",
+      "currency": "SAR"
+    },
+    {
+      "name": "ALBILAD Saudi Growth and Income Fund",
+      "manager": "ALBILAD Investment Co",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "014020",
+      "currency": "SAR"
+    },
+    {
+      "name": "SNB Capital Multi Assets Growth Fund",
+      "manager": "SNB Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "003223",
+      "currency": "SAR"
+    },
+    {
+      "name": "Riyad Multi Assets Growth Fund",
+      "manager": "Riyad Capital Company",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "001057",
+      "currency": "SAR"
+    },
+    {
+      "name": "SAB Invest Saudi Multi-Factor ETF Fund",
+      "manager": "SAB Invest",
+      "objective": "Growth",
+      "shariah": "-",
+      "fundId": "006040",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Saudi Growth ETF Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012075",
+      "currency": "SAR"
+    },
+    {
+      "name": "Al Rajhi Multi Sector Saudi Monthly Distributions Fund",
+      "manager": "Al Rajhi Capital",
+      "objective": "Income and Growth",
+      "shariah": "Shari'ah Compliant",
+      "fundId": "012073",
+      "currency": "SAR"
+    }
+  ]
+}

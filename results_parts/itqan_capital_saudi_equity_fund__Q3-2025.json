@@ -1,0 +1,67 @@
+{
+  "fund_key": "itqan_capital_saudi_equity_fund",
+  "fund": "Itqan Capital Saudi Equity Fund",
+  "quarter": "Q3-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 10.9
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Basic Industries Corp (SABIC)",
+      "ticker": "",
+      "weight": 7.8
+    },
+    {
+      "rank": 3,
+      "name": "United Electronics Co.",
+      "ticker": "",
+      "weight": 7.2
+    },
+    {
+      "rank": 4,
+      "name": "Nama Chemicals Co.",
+      "ticker": "",
+      "weight": 6.6
+    },
+    {
+      "rank": 5,
+      "name": "Saudi Cement Co.",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 6,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 5.8
+    },
+    {
+      "rank": 7,
+      "name": "The National Co. for Glass Industries",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 8,
+      "name": "Arabian Internet and Communications",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 9,
+      "name": "Saudi Advanced Industries Co.",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 10,
+      "name": "Dr. Sulaiman Al Habib Medical",
+      "ticker": "",
+      "weight": 4.0
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "fund_key": "alawwal_saudi_equity_fund",
+  "fund": "Alawwal Saudi Equity Fund",
+  "quarter": "Q2-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Elm",
+      "ticker": "",
+      "weight": 18.7,
+      "estimated": true
+    },
+    {
+      "rank": 2,
+      "name": "Nahdi",
+      "ticker": "",
+      "weight": 17.89,
+      "estimated": true
+    },
+    {
+      "rank": 3,
+      "name": "Aseer (Aseeg)",
+      "ticker": "",
+      "weight": 17.07,
+      "estimated": true
+    },
+    {
+      "rank": 4,
+      "name": "Jazadco (Jaz)",
+      "ticker": "",
+      "weight": 16.26,
+      "estimated": true
+    },
+    {
+      "rank": 5,
+      "name": "Aljouf Mineral Water (Mayah Aljouf)",
+      "ticker": "",
+      "weight": 15.45,
+      "estimated": true
+    },
+    {
+      "rank": 6,
+      "name": "East Pipes (Anabeeb Al Sharq)",
+      "ticker": "",
+      "weight": 14.63,
+      "estimated": true
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fund_key": "sab_invest_gcc_equity_fund",
+  "fund": "SAB Invest GCC Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.63
+    },
+    {
+      "rank": 2,
+      "name": "Abu Dhabi Islamic Bank PJSC",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat",
+      "ticker": "",
+      "weight": 4.79
+    },
+    {
+      "rank": 4,
+      "name": "Medicare Group",
+      "ticker": "",
+      "weight": 4.43
+    },
+    {
+      "rank": 5,
+      "name": "Mobile Telecommunications Co K (Zain Kuwait)",
+      "ticker": "",
+      "weight": 4.41
+    },
+    {
+      "rank": 6,
+      "name": "Kuwait International Bank KSCP",
+      "ticker": "",
+      "weight": 4.33
+    },
+    {
+      "rank": 7,
+      "name": "Ali Alghanim & Sons Automotive",
+      "ticker": "",
+      "weight": 4.32
+    },
+    {
+      "rank": 8,
+      "name": "Emirates Integrated Telecommunications (du)",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "Vodafone Qatar",
+      "ticker": "",
+      "weight": 3.91
+    },
+    {
+      "rank": 10,
+      "name": "Jazeera Airways",
+      "ticker": "",
+      "weight": 3.83
+    }
+  ],
+  "method": "highres_crop"
+}

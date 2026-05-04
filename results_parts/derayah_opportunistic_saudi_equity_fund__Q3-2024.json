@@ -1,0 +1,67 @@
+{
+  "fund_key": "derayah_opportunistic_saudi_equity_fund",
+  "fund": "Derayah Opportunistic Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Jouf Agricultural Development Company",
+      "ticker": "",
+      "weight": 8.11
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Paper Manufacturing Company",
+      "ticker": "",
+      "weight": 8.06
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Arabian Oil Company (Aramco)",
+      "ticker": "",
+      "weight": 8.04
+    },
+    {
+      "rank": 4,
+      "name": "Middle East Specialized Cables Company",
+      "ticker": "",
+      "weight": 7.96
+    },
+    {
+      "rank": 5,
+      "name": "Seera Group Holding",
+      "ticker": "",
+      "weight": 7.16
+    },
+    {
+      "rank": 6,
+      "name": "Yamama Cement Company",
+      "ticker": "",
+      "weight": 5.18
+    },
+    {
+      "rank": 7,
+      "name": "Modern Mills for Food Products Company",
+      "ticker": "",
+      "weight": 4.99
+    },
+    {
+      "rank": 8,
+      "name": "Madinah Cement Company",
+      "ticker": "",
+      "weight": 4.83
+    },
+    {
+      "rank": 9,
+      "name": "Americana Restaurants International",
+      "ticker": "",
+      "weight": 2.0
+    },
+    {
+      "rank": 10,
+      "name": "Aldawaa Medical Services Company",
+      "ticker": "",
+      "weight": 2.0
+    }
+  ]
+}

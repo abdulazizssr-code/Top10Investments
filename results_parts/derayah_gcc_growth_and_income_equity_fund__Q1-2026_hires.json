@@ -1,0 +1,58 @@
+{
+  "fund_key": "derayah_gcc_growth_and_income_equity_fund",
+  "fund": "Derayah GCC Growth and Income Equity Fund",
+  "quarter": "Q1-2026",
+  "method": "claude_code",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "EMAAR PROPERTIES PJSC",
+      "weight": 5.61
+    },
+    {
+      "rank": 2,
+      "name": "ALUMINIUM BAHRAIN (ALBA)",
+      "weight": 5.54
+    },
+    {
+      "rank": 3,
+      "name": "SAUDI PAPER MANUFACTURING CO",
+      "weight": 4.7
+    },
+    {
+      "rank": 4,
+      "name": "ADNOC LOGISTICS & SERVICES",
+      "weight": 4.5
+    },
+    {
+      "rank": 5,
+      "name": "DUBAI ISLAMIC BANK",
+      "weight": 4.3
+    },
+    {
+      "rank": 6,
+      "name": "EAST PIPES INTEGRATED COMPANY",
+      "weight": 4.27
+    },
+    {
+      "rank": 7,
+      "name": "NATIONAL AGRICULTURAL DEVELOPMENT CO (NADEC)",
+      "weight": 3.7
+    },
+    {
+      "rank": 8,
+      "name": "CITY CEMENT COMPANY",
+      "weight": 3.49
+    },
+    {
+      "rank": 9,
+      "name": "ABU DHABI ISLAMIC BANK",
+      "weight": 3.34
+    },
+    {
+      "rank": 10,
+      "name": "SAUDI TELECOM CO",
+      "weight": 3.21
+    }
+  ]
+}

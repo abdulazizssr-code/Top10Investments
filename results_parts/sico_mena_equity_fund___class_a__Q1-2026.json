@@ -1,0 +1,67 @@
+{
+  "fund_key": "sico_mena_equity_fund___class_a",
+  "fund": "SICO MENA Equity Fund - Class A",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 13.2
+    },
+    {
+      "rank": 2,
+      "name": "ADNOC Logistics & Services",
+      "ticker": "",
+      "weight": 3.65
+    },
+    {
+      "rank": 3,
+      "name": "Etihad Etisalat (Mobily)",
+      "ticker": "",
+      "weight": 3.29
+    },
+    {
+      "rank": 4,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 2.89
+    },
+    {
+      "rank": 5,
+      "name": "Aldrees Petroleum and Transport Services",
+      "ticker": "",
+      "weight": 3.16
+    },
+    {
+      "rank": 6,
+      "name": "Almarai",
+      "ticker": "",
+      "weight": 2.51
+    },
+    {
+      "rank": 7,
+      "name": "Saudi Arabian Mining Company (Ma'aden)",
+      "ticker": "",
+      "weight": 2.74
+    },
+    {
+      "rank": 8,
+      "name": "Rasan Information Technology",
+      "ticker": "",
+      "weight": 2.55
+    },
+    {
+      "rank": 9,
+      "name": "Bourbon Bank K.S.C",
+      "ticker": "",
+      "weight": 2.74
+    },
+    {
+      "rank": 10,
+      "name": "Emirates Integrated Telecommunications (du)",
+      "ticker": "",
+      "weight": 2.5
+    }
+  ]
+}

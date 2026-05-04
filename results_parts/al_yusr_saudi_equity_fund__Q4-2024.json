@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_yusr_saudi_equity_fund",
+  "fund": "Al Yusr Saudi Equity Fund",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 9.63
+    },
+    {
+      "rank": 2,
+      "name": "SAVOLA GROUP",
+      "ticker": "",
+      "weight": 8.67
+    },
+    {
+      "rank": 3,
+      "name": "ALDREES",
+      "ticker": "",
+      "weight": 7.77
+    },
+    {
+      "rank": 4,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 7.21
+    },
+    {
+      "rank": 5,
+      "name": "BUDGET SAUDI",
+      "ticker": "",
+      "weight": 6.74
+    },
+    {
+      "rank": 6,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 6.32
+    },
+    {
+      "rank": 7,
+      "name": "TAWUNIYA",
+      "ticker": "",
+      "weight": 5.43
+    },
+    {
+      "rank": 8,
+      "name": "BANK ALBILAD",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 9,
+      "name": "FITNESS TIME",
+      "ticker": "",
+      "weight": 4.58
+    },
+    {
+      "rank": 10,
+      "name": "BUPA ARABIA",
+      "ticker": "",
+      "weight": 4.1
+    }
+  ]
+}

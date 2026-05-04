@@ -1,0 +1,67 @@
+{
+  "fund_key": "musharaka_saudi_equity_fund",
+  "fund": "Musharaka Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Time Deposit",
+      "ticker": "",
+      "weight": 13.8
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Telecom Company (STC)",
+      "ticker": "",
+      "weight": 7.3
+    },
+    {
+      "rank": 3,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 6.75
+    },
+    {
+      "rank": 4,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 6.55
+    },
+    {
+      "rank": 5,
+      "name": "Adeer Real Estate",
+      "ticker": "",
+      "weight": 6.1
+    },
+    {
+      "rank": 6,
+      "name": "Etihad Atheeb Telecom (GO Telecom)",
+      "ticker": "",
+      "weight": 5.7
+    },
+    {
+      "rank": 7,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.65
+    },
+    {
+      "rank": 8,
+      "name": "Aldawaa Medical Services",
+      "ticker": "",
+      "weight": 4.6
+    },
+    {
+      "rank": 9,
+      "name": "Theeb Rent a Car",
+      "ticker": "",
+      "weight": 4.45
+    },
+    {
+      "rank": 10,
+      "name": "Fourth Milling Company",
+      "ticker": "",
+      "weight": 4.4
+    }
+  ]
+}

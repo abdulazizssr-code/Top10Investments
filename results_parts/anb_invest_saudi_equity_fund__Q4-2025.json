@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_invest_saudi_equity_fund",
+  "fund": "ANB Invest Saudi Equity Fund",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SABBMUR",
+      "ticker": "",
+      "weight": 3.19
+    },
+    {
+      "rank": 2,
+      "name": "BAJMUR",
+      "ticker": "",
+      "weight": 3.1
+    },
+    {
+      "rank": 3,
+      "name": "RAJMUR",
+      "ticker": "",
+      "weight": 2.66
+    },
+    {
+      "rank": 4,
+      "name": "RBMUR",
+      "ticker": "",
+      "weight": 2.55
+    },
+    {
+      "rank": 5,
+      "name": "SIBMUR",
+      "ticker": "",
+      "weight": 2.3
+    },
+    {
+      "rank": 6,
+      "name": "SABBMUR",
+      "ticker": "",
+      "weight": 2.2
+    },
+    {
+      "rank": 7,
+      "name": "RBMUR",
+      "ticker": "",
+      "weight": 2.02
+    },
+    {
+      "rank": 8,
+      "name": "ANBMUR",
+      "ticker": "",
+      "weight": 1.96
+    },
+    {
+      "rank": 9,
+      "name": "SNB Capital Fixed Income Instruments Fund - Class A",
+      "ticker": "",
+      "weight": 1.94
+    },
+    {
+      "rank": 10,
+      "name": "SABBMUR",
+      "ticker": "",
+      "weight": 1.93
+    }
+  ]
+}

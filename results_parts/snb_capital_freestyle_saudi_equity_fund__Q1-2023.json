@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_freestyle_saudi_equity_fund",
+  "fund": "SNB Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q1-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "KSASUK 2.6 06/17/31",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 2,
+      "name": "SABBAB Float 07/22/30",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 3,
+      "name": "SAB Invest Saudi Riyal Murabaha Fund",
+      "ticker": "",
+      "weight": 5.85
+    },
+    {
+      "rank": 4,
+      "name": "BOUSUK 2.593 02/18/25",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 5,
+      "name": "ARAMCO 2.694 06/17/31",
+      "ticker": "",
+      "weight": 5.3
+    },
+    {
+      "rank": 6,
+      "name": "ALBIAB Float 04/15/31",
+      "ticker": "",
+      "weight": 5.2
+    },
+    {
+      "rank": 7,
+      "name": "KSA 2 1/4 05/17/31",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 8,
+      "name": "SIB 2.85 06/23/25",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 9,
+      "name": "EMAARM 4.564 06/18/24",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 10,
+      "name": "RIBL 3.174 02/25/30",
+      "ticker": "",
+      "weight": 4.2
+    }
+  ]
+}

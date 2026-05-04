@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_equity_fund",
+  "fund": "SAB Invest Saudi Equity Fund",
+  "quarter": "Q4-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Arabian Oil CO",
+      "ticker": "",
+      "weight": 9.83
+    },
+    {
+      "rank": 2,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 9.67
+    },
+    {
+      "rank": 3,
+      "name": "The Saudi National Bank",
+      "ticker": "",
+      "weight": 8.66
+    },
+    {
+      "rank": 4,
+      "name": "Riyad Bank",
+      "ticker": "",
+      "weight": 5.74
+    },
+    {
+      "rank": 5,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 4.52
+    },
+    {
+      "rank": 6,
+      "name": "Saudi British Bank",
+      "ticker": "",
+      "weight": 4.1
+    },
+    {
+      "rank": 7,
+      "name": "Nahdi Medical Co",
+      "ticker": "",
+      "weight": 3.59
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Basic Industries",
+      "ticker": "",
+      "weight": 3.55
+    },
+    {
+      "rank": 9,
+      "name": "Sabic Agri-Nutrients Co",
+      "ticker": "",
+      "weight": 3.47
+    },
+    {
+      "rank": 10,
+      "name": "Arabian Internet and Communication Services Co",
+      "ticker": "",
+      "weight": 3.41
+    }
+  ]
+}

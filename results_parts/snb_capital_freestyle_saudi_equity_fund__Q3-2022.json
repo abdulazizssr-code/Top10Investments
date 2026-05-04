@@ -1,0 +1,67 @@
+{
+  "fund_key": "snb_capital_freestyle_saudi_equity_fund",
+  "fund": "SNB Capital Freestyle Saudi Equity Fund",
+  "quarter": "Q3-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Government Sukuk",
+      "ticker": "",
+      "weight": 6.34
+    },
+    {
+      "rank": 2,
+      "name": "Alawwal Invest Saudi Riyal Murabaha Fund ART",
+      "ticker": "",
+      "weight": 5.78
+    },
+    {
+      "rank": 3,
+      "name": "SABB Tier II Sukuk",
+      "ticker": "",
+      "weight": 5.77
+    },
+    {
+      "rank": 4,
+      "name": "Boubyan Sukuk Ltd",
+      "ticker": "",
+      "weight": 5.25
+    },
+    {
+      "rank": 5,
+      "name": "Bank AlBilad Sukuk",
+      "ticker": "",
+      "weight": 4.81
+    },
+    {
+      "rank": 6,
+      "name": "Warba Sukuk Ltd",
+      "ticker": "",
+      "weight": 4.61
+    },
+    {
+      "rank": 7,
+      "name": "Arab National Bank Sukuk",
+      "ticker": "",
+      "weight": 4.43
+    },
+    {
+      "rank": 8,
+      "name": "SIB Sukuk Co III Ltd",
+      "ticker": "",
+      "weight": 4.11
+    },
+    {
+      "rank": 9,
+      "name": "EMG Sukuk Ltd",
+      "ticker": "",
+      "weight": 4.01
+    },
+    {
+      "rank": 10,
+      "name": "Riyad Bank Sukuk",
+      "ticker": "",
+      "weight": 3.99
+    }
+  ]
+}

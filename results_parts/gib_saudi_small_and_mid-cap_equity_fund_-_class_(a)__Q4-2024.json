@@ -1,0 +1,67 @@
+{
+  "fund_key": "gib_saudi_small_and_mid-cap_equity_fund_-_class_(a)",
+  "fund": "GIB Saudi Small and Mid-Cap Equity Fund - Class (A)",
+  "quarter": "Q4-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "LEEJAM AB",
+      "ticker": "",
+      "weight": 9.3
+    },
+    {
+      "rank": 2,
+      "name": "MESC AB",
+      "ticker": "",
+      "weight": 8.6
+    },
+    {
+      "rank": 3,
+      "name": "SHAKER AB",
+      "ticker": "",
+      "weight": 8.2
+    },
+    {
+      "rank": 4,
+      "name": "ALDREES AB",
+      "ticker": "",
+      "weight": 8.0
+    },
+    {
+      "rank": 5,
+      "name": "ASTRA AB",
+      "ticker": "",
+      "weight": 7.7
+    },
+    {
+      "rank": 6,
+      "name": "ARCCI AB",
+      "ticker": "",
+      "weight": 7.5
+    },
+    {
+      "rank": 7,
+      "name": "BJAZ AB",
+      "ticker": "",
+      "weight": 7.0
+    },
+    {
+      "rank": 8,
+      "name": "APCO AB",
+      "ticker": "",
+      "weight": 6.8
+    },
+    {
+      "rank": 9,
+      "name": "AWPT AB",
+      "ticker": "",
+      "weight": 6.7
+    },
+    {
+      "rank": 10,
+      "name": "BUPA AB",
+      "ticker": "",
+      "weight": 5.5
+    }
+  ]
+}

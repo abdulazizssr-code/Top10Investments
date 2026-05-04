@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_pure_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Pure Saudi Equity Fund (Shariah)",
+  "quarter": "Q2-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 12.69
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 11.9
+    },
+    {
+      "rank": 3,
+      "name": "Alinma Bank",
+      "ticker": "",
+      "weight": 9.51
+    },
+    {
+      "rank": 4,
+      "name": "Alkhorayef Water and Power",
+      "ticker": "",
+      "weight": 5.9
+    },
+    {
+      "rank": 5,
+      "name": "Alhabib",
+      "ticker": "",
+      "weight": 4.02
+    },
+    {
+      "rank": 6,
+      "name": "Bupa Arabia for Cooperative Insurance",
+      "ticker": "",
+      "weight": 3.67
+    },
+    {
+      "rank": 7,
+      "name": "United Electronics Company",
+      "ticker": "",
+      "weight": 3.55
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Arabian Mining Company",
+      "ticker": "",
+      "weight": 3.44
+    },
+    {
+      "rank": 9,
+      "name": "Perfect Presentation for Commercial",
+      "ticker": "",
+      "weight": 3.33
+    },
+    {
+      "rank": 10,
+      "name": "Etihad Etisalat Company",
+      "ticker": "",
+      "weight": 3.21
+    }
+  ]
+}

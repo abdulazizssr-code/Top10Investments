@@ -1,0 +1,68 @@
+{
+  "fund_key": "riyad_gulf_equity_fund_(ex_saudi)",
+  "fund": "Riyad Gulf Equity Fund (ex-Saudi)",
+  "quarter": "Q4-2025",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Emaar Properties",
+      "ticker": "",
+      "weight": 11.8
+    },
+    {
+      "rank": 2,
+      "name": "Kuwait Finance House",
+      "ticker": "",
+      "weight": 11.7
+    },
+    {
+      "rank": 3,
+      "name": "QA Islamic Bank",
+      "ticker": "",
+      "weight": 7.2
+    },
+    {
+      "rank": 4,
+      "name": "Abu Dhabi Islamic Bank",
+      "ticker": "",
+      "weight": 5.6
+    },
+    {
+      "rank": 5,
+      "name": "Dubai Islamic Bank",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 6,
+      "name": "Al Dar Properties",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 7,
+      "name": "Industries Qatar",
+      "ticker": "",
+      "weight": 4.8
+    },
+    {
+      "rank": 8,
+      "name": "Dubai Electricity and Water Authority",
+      "ticker": "",
+      "weight": 4.0
+    },
+    {
+      "rank": 9,
+      "name": "Masraf Al Rayan",
+      "ticker": "",
+      "weight": 2.9
+    },
+    {
+      "rank": 10,
+      "name": "Ooredoo Qatar Telecom",
+      "ticker": "",
+      "weight": 2.9
+    }
+  ],
+  "method": "highres_crop"
+}

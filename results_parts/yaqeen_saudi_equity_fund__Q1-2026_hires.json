@@ -1,0 +1,68 @@
+{
+  "fund_key": "yaqeen_saudi_equity_fund",
+  "fund": "YAQEEN Saudi Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 15.3
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Aramco",
+      "ticker": "",
+      "weight": 8.6
+    },
+    {
+      "rank": 3,
+      "name": "Arabian Drilling",
+      "ticker": "",
+      "weight": 5.0
+    },
+    {
+      "rank": 4,
+      "name": "Mouwasat Medical Services",
+      "ticker": "",
+      "weight": 4.7
+    },
+    {
+      "rank": 5,
+      "name": "Almoosa Health (Almajdiah)",
+      "ticker": "",
+      "weight": 4.4
+    },
+    {
+      "rank": 6,
+      "name": "Tasheel Finance",
+      "ticker": "",
+      "weight": 4.2
+    },
+    {
+      "rank": 7,
+      "name": "Tawuniya",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 8,
+      "name": "Alkhuzama",
+      "ticker": "",
+      "weight": 3.7
+    },
+    {
+      "rank": 9,
+      "name": "Advanced Petrochemical",
+      "ticker": "",
+      "weight": 3.6
+    },
+    {
+      "rank": 10,
+      "name": "Theeb Rent a Car",
+      "ticker": "",
+      "weight": 3.4
+    }
+  ],
+  "method": "highres_crop"
+}

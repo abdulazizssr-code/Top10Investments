@@ -1,0 +1,49 @@
+{
+  "fund_key": "snb_capital_global_equity_fund",
+  "fund": "SNB Capital Global Equity Fund",
+  "quarter": "Q1-2026",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SNB Capital North America Index Fund",
+      "ticker": "",
+      "weight": 32.78
+    },
+    {
+      "rank": 2,
+      "name": "iShares MSCI USA Islamic",
+      "ticker": "",
+      "weight": 21.85
+    },
+    {
+      "rank": 3,
+      "name": "Invesco DJ Islamic GBL DEV",
+      "ticker": "",
+      "weight": 20.7
+    },
+    {
+      "rank": 4,
+      "name": "SNB Capital Europe Index Fund",
+      "ticker": "",
+      "weight": 9.43
+    },
+    {
+      "rank": 5,
+      "name": "SNB Capital Emerging Markets Index Fund",
+      "ticker": "",
+      "weight": 9.2
+    },
+    {
+      "rank": 6,
+      "name": "SNB Capital Asia Pacific Index Fund",
+      "ticker": "",
+      "weight": 3.9
+    },
+    {
+      "rank": 7,
+      "name": "SP Funds S&P Sharia Industry Exchange",
+      "ticker": "",
+      "weight": 2.09
+    }
+  ]
+}

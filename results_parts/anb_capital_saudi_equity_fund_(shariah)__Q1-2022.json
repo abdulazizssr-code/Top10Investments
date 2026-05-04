@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_saudi_equity_fund_(shariah)",
+  "fund": "anb capital Saudi Equity Fund (Shariah)",
+  "quarter": "Q1-2022",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "ALRAJHI",
+      "ticker": "",
+      "weight": 18.76
+    },
+    {
+      "rank": 2,
+      "name": "ALINMA",
+      "ticker": "",
+      "weight": 7.65
+    },
+    {
+      "rank": 3,
+      "name": "ALBILAD",
+      "ticker": "",
+      "weight": 6.14
+    },
+    {
+      "rank": 4,
+      "name": "BUPA ARABIA",
+      "ticker": "",
+      "weight": 5.07
+    },
+    {
+      "rank": 5,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 4.97
+    },
+    {
+      "rank": 6,
+      "name": "STC",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 7,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 4.64
+    },
+    {
+      "rank": 8,
+      "name": "BJAZ",
+      "ticker": "",
+      "weight": 4.43
+    },
+    {
+      "rank": 9,
+      "name": "ELM",
+      "ticker": "",
+      "weight": 4.3
+    },
+    {
+      "rank": 10,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 4.19
+    }
+  ]
+}

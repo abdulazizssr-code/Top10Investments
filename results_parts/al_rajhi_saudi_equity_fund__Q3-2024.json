@@ -1,0 +1,67 @@
+{
+  "fund_key": "al_rajhi_saudi_equity_fund",
+  "fund": "Al Rajhi Saudi Equity Fund",
+  "quarter": "Q3-2024",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Al Rajhi Bank",
+      "ticker": "",
+      "weight": 17.3
+    },
+    {
+      "rank": 2,
+      "name": "Saudi Arabian Oil Co.",
+      "ticker": "",
+      "weight": 8.5
+    },
+    {
+      "rank": 3,
+      "name": "Makkah Construction",
+      "ticker": "",
+      "weight": 6.3
+    },
+    {
+      "rank": 4,
+      "name": "Al-Rajhi Company For",
+      "ticker": "",
+      "weight": 5.5
+    },
+    {
+      "rank": 5,
+      "name": "National Gas And",
+      "ticker": "",
+      "weight": 5.1
+    },
+    {
+      "rank": 6,
+      "name": "Elm Co.",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 7,
+      "name": "Dr. Sulaiman Al Habib",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Tadawul Group",
+      "ticker": "",
+      "weight": 3.8
+    },
+    {
+      "rank": 9,
+      "name": "Arabian Pipes Company",
+      "ticker": "",
+      "weight": 3.3
+    },
+    {
+      "rank": 10,
+      "name": "Saudi Research And",
+      "ticker": "",
+      "weight": 2.9
+    }
+  ]
+}

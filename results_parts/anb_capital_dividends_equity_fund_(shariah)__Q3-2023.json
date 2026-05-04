@@ -1,0 +1,67 @@
+{
+  "fund_key": "anb_capital_dividends_equity_fund_(shariah)",
+  "fund": "anb capital Dividends Equity Fund (Shariah)",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "Saudi Telecom",
+      "ticker": "",
+      "weight": 9.02
+    },
+    {
+      "rank": 2,
+      "name": "United Electronics",
+      "ticker": "",
+      "weight": 8.12
+    },
+    {
+      "rank": 3,
+      "name": "Sahara International",
+      "ticker": "",
+      "weight": 7.94
+    },
+    {
+      "rank": 4,
+      "name": "Yanbu National Petrochemicals",
+      "ticker": "",
+      "weight": 7.18
+    },
+    {
+      "rank": 5,
+      "name": "Alrajhi REIT Fund",
+      "ticker": "",
+      "weight": 7.05
+    },
+    {
+      "rank": 6,
+      "name": "Saudi Cement",
+      "ticker": "",
+      "weight": 6.33
+    },
+    {
+      "rank": 7,
+      "name": "Jarir Marketing",
+      "ticker": "",
+      "weight": 5.04
+    },
+    {
+      "rank": 8,
+      "name": "Saudi Basic Industries Corporation",
+      "ticker": "",
+      "weight": 5.04
+    },
+    {
+      "rank": 9,
+      "name": "Najran Cement",
+      "ticker": "",
+      "weight": 4.9
+    },
+    {
+      "rank": 10,
+      "name": "Perfect Presentation",
+      "ticker": "",
+      "weight": 4.56
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "fund_key": "sab_invest_saudi_industrial_companies_equity_fund",
+  "fund": "SAB Invest Saudi Industrial Companies Equity Fund",
+  "quarter": "Q3-2023",
+  "holdings": [
+    {
+      "rank": 1,
+      "name": "SAUDI ARAMCO",
+      "ticker": "",
+      "weight": 15.52
+    },
+    {
+      "rank": 2,
+      "name": "ASTRA INDUSTRIAL",
+      "ticker": "",
+      "weight": 9.58
+    },
+    {
+      "rank": 3,
+      "name": "ALMARAI",
+      "ticker": "",
+      "weight": 8.31
+    },
+    {
+      "rank": 4,
+      "name": "BAWAN",
+      "ticker": "",
+      "weight": 7.19
+    },
+    {
+      "rank": 5,
+      "name": "MAADEN",
+      "ticker": "",
+      "weight": 6.75
+    },
+    {
+      "rank": 6,
+      "name": "SABIC",
+      "ticker": "",
+      "weight": 6.66
+    },
+    {
+      "rank": 7,
+      "name": "SABIC AGRI-NUTRIENTS",
+      "ticker": "",
+      "weight": 5.23
+    },
+    {
+      "rank": 8,
+      "name": "SIPCHEM",
+      "ticker": "",
+      "weight": 5.03
+    },
+    {
+      "rank": 9,
+      "name": "SPIMACO",
+      "ticker": "",
+      "weight": 4.72
+    },
+    {
+      "rank": 10,
+      "name": "CATERING",
+      "ticker": "",
+      "weight": 4.1
+    }
+  ]
+}
